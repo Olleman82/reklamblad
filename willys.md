@@ -910,11 +910,6 @@
 - Pris: 19,90 kr
 - Jämförpris: Jmf-pris 79,60 kr/l
 
-## Grahamsbröd
-- Erbjudande: Spara 5,00 kr/st
-- Pris: 27,90 kr
-- Jämförpris: Jmf-pris 42,92 kr/kg
-
 ## Månadens Bukett
 - Erbjudande: Spara 9,10 kr/st
 - Pris: 89,90 kr
@@ -971,6 +966,11 @@
 - Erbjudande: Spara 3,60 kr/st
 - Pris: 23,90 kr
 - Jämförpris: Jmf-pris 23,90 kr/kg
+
+## Grahamsbröd
+- Erbjudande: Spara 5,00 kr/st
+- Pris: 27,90 kr
+- Jämförpris: Jmf-pris 42,92 kr/kg
 
 ## Pro-ex Prof Pro Tandkräm
 - Pris: 35,00 kr
