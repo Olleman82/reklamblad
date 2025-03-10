@@ -794,44 +794,10 @@
 - Pris: 17,90 kr
 - Jämförpris: Jmf-pris 116,23 kr/kg
 
-## Rossorotomater & Basikila Pastasås
-- Erbjudande: Spara 7,00 kr/st
-- Pris: 29,90 kr
-- Jämförpris: Jmf-pris 74,75 kr/kg
-
-## Lime Klass 1
-- Erbjudande: 3 för
-- Pris: 15,00 kr
-- Jämförpris: Jmf-pris 66,67 kr/kg
-
-## Sensitive Duschgel
-- Erbjudande: 2 för
-- Pris: 35,00 kr
-- Jämförpris: Jmf-pris 70,00 kr/l
-
-## Grape Röd Klass 1
-- Erbjudande: 2 för
-- Pris: 18,00 kr
-- Jämförpris: Jmf-pris 31,03 kr/kg
-
-## Serranolindad Manchego
-- Erbjudande: 2 för
-- Pris: 60,00 kr
-- Jämförpris: Jmf-pris 454,55 kr/kg
-
-## Hönökaka Original 8-pack
-- Erbjudande: Spara 4,00 kr/st
-- Pris: 18,90 kr
-- Jämförpris: Jmf-pris 47,25 kr/kg
-
 ## Korvbitar Hundgodis
 - Erbjudande: Spara 3,60 kr/st
 - Pris: 23,90 kr
 - Jämförpris: Jmf-pris 434,55 kr/kg
-
-## Jasminris
-- Pris: 38,90 kr
-- Jämförpris: Jmf-pris 38,90 kr/kg
 
 ## Hjortron Fil 3,7%
 - Erbjudande: Spara 5,00 kr/st
@@ -868,156 +834,190 @@
 - Pris: 18,00 kr
 - Jämförpris: Jmf-pris 195,65 kr/kg
 
-## Coca-cola Läsk Pet
-- Erbjudande: 3 för
-- Pris: 50,00 kr
-- Jämförpris: Jmf-pris 11,11 kr/l
-
-## Ahlgrens Bilar Original
-- Erbjudande: Spara 2,00 kr/st
-- Pris: 13,90 kr
-- Jämförpris: Jmf-pris 86,88 kr/kg
-
-## Kiwi Klass 1
-- Erbjudande: 2 för
-- Pris: 15,00 kr
-- Jämförpris: Jmf-pris 76,53 kr/kg
-
 ## Citron Klass 1
 - Erbjudande: 3 för
 - Pris: 18,00 kr
 - Jämförpris: Jmf-pris 36,14 kr/kg
-
-## Äppelmunk
-- Erbjudande: 4 för
-- Pris: 30,00 kr
-- Jämförpris: Jmf-pris 119,05 kr/kg
 
 ## Kronljus Vit 20cm
 - Erbjudande: Spara 16,00 kr/st
 - Pris: 109,00 kr
 - Jämförpris: Jmf-pris 3,63 kr/st
 
-## Påsktazett Narcissus Tete A Tete 10,5 Cm
-- Erbjudande: Spara 5,00 kr/st
-- Pris: 24,90 kr
-
 ## Wrinkle Expert 45+ Dag
 - Erbjudande: Spara 12,00 kr/st
 - Pris: 69,90 kr
 - Jämförpris: Jmf-pris 1 398,00 kr/l
-
-## Hundbajspåsar
-- Erbjudande: 2 för
-- Pris: 15,00 kr
-- Jämförpris: Jmf-pris 0,15 kr/st
-
-## Baguette Halv Vete
-- Erbjudande: 3 för
-- Pris: 20,00 kr
-- Jämförpris: Jmf-pris 53,33 kr/kg
-
-## Ferrari Salt Hallon Påse
-- Erbjudande: 2 för
-- Pris: 25,00 kr
-- Jämförpris: Jmf-pris 104,17 kr/kg
-
-## Dippmix Ranch
-- Erbjudande: 2 för
-- Pris: 16,00 kr
-- Jämförpris: Jmf-pris 333,33 kr/kg
-
-## Panerad Sej Förstekt
-- Pris: 49,90 kr
-- Jämförpris: Jmf-pris 166,33 kr/kg
-
-## Hazelnuts Whole
-- Erbjudande: 2 för
-- Pris: 38,00 kr
-- Jämförpris: Jmf-pris 190,00 kr/kg
-
-## Asian Steamed Buns 4p
-- Pris: 26,90 kr
-- Jämförpris: Jmf-pris 134,50 kr/kg
-
-## Tuggummi Peppermint
-- Erbjudande: Spara 5,00 kr/st
-- Pris: 24,90 kr
-- Jämförpris: Jmf-pris 296,43 kr/kg
-
-## Grötlimpa
-- Pris: 24,90 kr
-- Jämförpris: Jmf-pris 41,50 kr/kg
-
-## Coca-cola Zero Läsk Burk
-- Erbjudande: 5 för
-- Pris: 40,00 kr
-- Jämförpris: Jmf-pris 24,24 kr/l
 
 ## Honey Fresh Halstablett
 - Erbjudande: 2 för
 - Pris: 32,00 kr
 - Jämförpris: Jmf-pris 222,22 kr/kg
 
-## Natural&easy 580 Sammet Mörkbrun Permanent Hårfärg
-- Erbjudande: Spara 9,00 kr/st
-- Pris: 59,90 kr
-
 ## Buono Espresso Hela Bönor
 - Erbjudande: Spara 30,00 kr/st
 - Pris: 139,00 kr
 - Jämförpris: Jmf-pris 154,44 kr/kg
 
-## Dark Temtation Duschgel
-- Erbjudande: Spara 9,00 kr/st
-- Pris: 19,90 kr
-- Jämförpris: Jmf-pris 79,60 kr/l
-
-## Chicken Flavor Bouillon
-- Pris: 52,90 kr
-- Jämförpris: Jmf-pris 211,60 kr/kg
-
-## Original
+## Dippmix Ranch
 - Erbjudande: 2 för
-- Pris: 24,00 kr
-- Jämförpris: Jmf-pris 400,00 kr/kg
+- Pris: 16,00 kr
+- Jämförpris: Jmf-pris 333,33 kr/kg
 
-## Melon Kokos Rostad Müsli
-- Erbjudande: Spara 6,00 kr/st
-- Pris: 35,90 kr
-- Jämförpris: Jmf-pris 95,73 kr/kg
+## Hazelnuts Whole
+- Erbjudande: 2 för
+- Pris: 38,00 kr
+- Jämförpris: Jmf-pris 190,00 kr/kg
+
+## Tuggummi Peppermint
+- Erbjudande: Spara 5,00 kr/st
+- Pris: 24,90 kr
+- Jämförpris: Jmf-pris 296,43 kr/kg
+
+## Rossorotomater & Basikila Pastasås
+- Erbjudande: Spara 7,00 kr/st
+- Pris: 29,90 kr
+- Jämförpris: Jmf-pris 74,75 kr/kg
+
+## Grape Röd Klass 1
+- Erbjudande: 2 för
+- Pris: 18,00 kr
+- Jämförpris: Jmf-pris 31,03 kr/kg
+
+## Regnbågslax
+- Pris: 89,90 kr
+- Jämförpris: Jmf-pris 179,80 kr/kg
+
+## Levain Medelhavs
+- Pris: 29,90 kr
+- Jämförpris: Jmf-pris 46,00 kr/kg
 
 ## Sourmelon Tutti Frutti
 - Erbjudande: Spara 3,00 kr/st
 - Pris: 9,90 kr
 - Jämförpris: Jmf-pris 110,00 kr/kg
 
-## Mortadella Kyckling Paprika
-- Erbjudande: Spara 3,00 kr/st
-- Pris: 21,90 kr
-- Jämförpris: Jmf-pris 162,22 kr/kg
-
-## Regnbågslax
-- Pris: 89,90 kr
-- Jämförpris: Jmf-pris 179,80 kr/kg
-
-## Oliver med Chili
+## Coca-cola Läsk Pet
 - Erbjudande: 2 för
-- Pris: 40,00 kr
-- Jämförpris: Jmf-pris 142,86 kr/kg
+- Pris: 35,00 kr
+- Jämförpris: Jmf-pris 11,67 kr/l
 
-## Levain Medelhavs
-- Pris: 29,90 kr
-- Jämförpris: Jmf-pris 46,00 kr/kg
+## Kiwi Klass 1
+- Erbjudande: 2 för
+- Pris: 15,00 kr
+- Jämförpris: Jmf-pris 76,53 kr/kg
+
+## Sensitive Duschgel
+- Erbjudande: 2 för
+- Pris: 35,00 kr
+- Jämförpris: Jmf-pris 70,00 kr/l
+
+## Påsktazett Narcissus Tete A Tete 10,5 Cm
+- Erbjudande: Spara 5,00 kr/st
+- Pris: 24,90 kr
+
+## Jasminris
+- Pris: 38,90 kr
+- Jämförpris: Jmf-pris 38,90 kr/kg
+
+## Hundbajspåsar
+- Erbjudande: 2 för
+- Pris: 15,00 kr
+- Jämförpris: Jmf-pris 0,15 kr/st
+
+## Coca-cola Zero Läsk Burk
+- Erbjudande: 5 för
+- Pris: 40,00 kr
+- Jämförpris: Jmf-pris 24,24 kr/l
+
+## Natural&easy 580 Sammet Mörkbrun Permanent Hårfärg
+- Erbjudande: Spara 9,00 kr/st
+- Pris: 59,90 kr
+
+## Asian Steamed Buns 4p
+- Pris: 26,90 kr
+- Jämförpris: Jmf-pris 134,50 kr/kg
+
+## Grötlimpa
+- Pris: 24,90 kr
+- Jämförpris: Jmf-pris 41,50 kr/kg
+
+## Chicken Flavor Bouillon
+- Pris: 52,90 kr
+- Jämförpris: Jmf-pris 211,60 kr/kg
 
 ## Halloumi
 - Erbjudande: Spara 13,00 kr/st
 - Pris: 24,90 kr
 - Jämförpris: Jmf-pris 124,50 kr/kg
 
+## Original
+- Erbjudande: 2 för
+- Pris: 24,00 kr
+- Jämförpris: Jmf-pris 400,00 kr/kg
+
+## Serranolindad Manchego
+- Erbjudande: 2 för
+- Pris: 60,00 kr
+- Jämförpris: Jmf-pris 454,55 kr/kg
+
+## Dark Temtation Duschgel
+- Erbjudande: Spara 9,00 kr/st
+- Pris: 19,90 kr
+- Jämförpris: Jmf-pris 79,60 kr/l
+
+## Äppelmunk
+- Erbjudande: 4 för
+- Pris: 30,00 kr
+- Jämförpris: Jmf-pris 119,05 kr/kg
+
+## Baguette Halv Vete
+- Erbjudande: 3 för
+- Pris: 20,00 kr
+- Jämförpris: Jmf-pris 53,33 kr/kg
+
 ## Normalsaltat Smör & Rapsolja 70% Eko
 - Pris: 54,90 kr
 - Jämförpris: Jmf-pris 109,80 kr/kg
+
+## Hönökaka Original 8-pack
+- Erbjudande: Spara 4,00 kr/st
+- Pris: 18,90 kr
+- Jämförpris: Jmf-pris 47,25 kr/kg
+
+## Ahlgrens Bilar Original
+- Erbjudande: Spara 2,00 kr/st
+- Pris: 13,90 kr
+- Jämförpris: Jmf-pris 86,88 kr/kg
+
+## Ferrari Salt Hallon Påse
+- Erbjudande: 2 för
+- Pris: 25,00 kr
+- Jämförpris: Jmf-pris 104,17 kr/kg
+
+## Melon Kokos Rostad Müsli
+- Erbjudande: Spara 6,00 kr/st
+- Pris: 35,90 kr
+- Jämförpris: Jmf-pris 95,73 kr/kg
+
+## Lime Klass 1
+- Erbjudande: 3 för
+- Pris: 15,00 kr
+- Jämförpris: Jmf-pris 66,67 kr/kg
+
+## Mortadella Kyckling Paprika
+- Erbjudande: Spara 3,00 kr/st
+- Pris: 21,90 kr
+- Jämförpris: Jmf-pris 162,22 kr/kg
+
+## Panerad Sej Förstekt
+- Pris: 49,90 kr
+- Jämförpris: Jmf-pris 166,33 kr/kg
+
+## Vitlöksklyftor Marinerade
+- Erbjudande: 2 för
+- Pris: 40,00 kr
+- Jämförpris: Jmf-pris 125,00 kr/kg
 
 ## Pro-ex Prof Pro Tandkräm
 - Pris: 35,00 kr
