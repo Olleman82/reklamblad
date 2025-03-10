@@ -30,4 +30,32 @@ ENV/
 
 # Selenium
 geckodriver.log
-chromedriver.log 
+chromedriver.log
+
+# Ignorera alla filer som standard
+*
+
+# Tillåt .md filer
+!*.md
+
+# Tillåt .gitignore
+!.gitignore
+
+# Ignorera eventuella cachefiler och kataloger
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+.env
+
+# Ignorera virtuell miljö
+venv/
+env/
+.venv/
+.env/
+
+# Ignorera IDE-specifika filer
+.vscode/
+.idea/
+*.swp
+*.swo 

@@ -161,19 +161,22 @@ def extract_products(html_content):
     return products
 
 def save_to_markdown(products):
-    today = datetime.now().strftime("%Y-%m-%d")
-    with open(f"willys_erbjudanden_{today}.md", "w", encoding="utf-8") as f:
-        f.write(f"# Willys Erbjudanden {today}\n\n")
+    filename = "willys.md"
+    
+    with open(filename, "w", encoding="utf-8") as f:
+        f.write(f"# Willys Erbjudanden {datetime.now().strftime('%Y-%m-%d')}\n\n")
         
         for product in products:
             f.write(f"## {product['name']}\n")
             if product['campaign']:
-                f.write(f"- Erbjudande: {product['campaign']} {product['price']} kr\n")
-            else:
-                f.write(f"- Pris: {product['price']} kr\n")
+                f.write(f"- Erbjudande: {product['campaign']}\n")
+            f.write(f"- Pris: {product['price']} kr\n")
             if product['compare_price']:
                 f.write(f"- Jämförpris: {product['compare_price']}\n")
             f.write("\n")
+    
+    print(f"Sparade erbjudanden till {filename}")
+    return filename
 
 def main():
     print("Startar scraping av Willys erbjudanden...")
@@ -206,8 +209,8 @@ def main():
             print("Varning: Inga produkter hittades. Detta kan tyda på ett problem med scrapingen.")
         else:
             print(f"Hittade {len(products)} produkter med erbjudanden")
-            save_to_markdown(products)
-            print("Sparade erbjudanden till markdown-fil")
+            filename = save_to_markdown(products)
+            print(f"Sparade erbjudanden till {filename}")
         
     except Exception as e:
         print(f"Ett oväntat fel uppstod: {str(e)}")
