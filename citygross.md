@@ -1,736 +1,837 @@
-# City Gross Erbjudanden 2025-03-10
+# City Gross Erbjudanden 2025-03-17
 
-## Mellan Smör & Raps - BREGOTT, 750G
-- Erbjudande: PRIO-pris 59 kr
-- Jämförpris: Jfr pris 79.93 kr/kg
-
-## Kycklingbröstfilé, Fryst - ELDORADO, 900G
-- Erbjudande: Klipp! 49 kr
-- Jämförpris: Jfr pris 55.50 kr/kg
-
-## Apelsin, Klass 1 - VALENCIA LATE, CA270G, SPANIEN
-- Erbjudande: Kampanj 14 kr
-- Jämförpris: Jfr pris 14.95 kr/kg
-
-## Pizzadeg Surdeg - CITY GROSS, CA350G
-- Erbjudande: PRIO-pris 9 kr
-- Jämförpris: Jfr pris 28.43 kr/kg
-
-## Lövbiff - BUTIKSSTYCKAT SVENSKT KÖTT, CA500G
-- Erbjudande: Kampanj 149 kr
-- Jämförpris: Jfr pris 149.00 kr/kg
-
-## Surdegsbröd Filone Durumkärnor - CITY GROSS, CA550G
-- Erbjudande: Kampanj 49 kr
-- Jämförpris: Jfr pris 49.50 kr/kg
-
-## Kolsyrat Vatten Citron - LOKA, 33CL
-- Erbjudande: 20  för 89 kr
-- Jämförpris: Jfr pris 13.48 kr/l
-
-## Chips Tryffel & Parmesan - GOTLANDSCHIPS, 180G
-- Erbjudande: Klipp! 14 kr
-- Jämförpris: Jfr pris 83.06 kr/kg
-
-## Potatis Fast, Klass 1 - GARANT, 900G, SVERIGE
-- Erbjudande: 2  för 38 kr
-- Jämförpris: Jfr pris 21.11 kr/kg
-
-## Emilskinka Rökt - PÄRSONS, 120G, SVENSK KÖTTRÅVARA
-- Erbjudande: 2  för 45 kr
-- Jämförpris: Jfr pris 187.50 kr/kg
-
-## Toapapper Original Mjukt - FIXA, 18P
-- Erbjudande: Kampanj 99 kr
-- Jämförpris: Jfr pris 51.90 kr/kg
-
-## Skinkschnitzel - BUTIKSSTYCKAT SVENSKT KÖTT, CA500G
+## Hushållsost 26% - ARLA, CA2,2KG
 - Erbjudande: Kampanj 99 kr
 - Jämförpris: Jfr pris 99.95 kr/kg
 
-## Spenat, Klass 1 - 250G, POLEN
-- Erbjudande: Kampanj 24 kr
-- Jämförpris: Jfr pris 99.80 kr/kg
+## Pepsi Max Burk 20-Pack - PEPSI, 20/33CL
+- Erbjudande: Klipp! 79 kr
+- Jämförpris: Jfr pris 12.11 kr/l
 
-## Fjällröding - LERÖY, 280G
-- Erbjudande: Kampanj 99 kr
-- Jämförpris: Jfr pris 353.57 kr/kg
+## Skogaholmslimpa Skivad - SKOGAHOLM, 775G
+- Erbjudande: Kampanj 19 kr
+- Jämförpris: Jfr pris 25.74 kr/kg
 
-## Torskfiléer Sprödbakade, Fryst - FINDUS, 360G
-- Erbjudande: Kampanj 49 kr
-- Jämförpris: Jfr pris 138.75 kr/kg
+## Karré Mörningsmarinerad Benfri - DALSJÖFORS, CA1,4KG
+- Erbjudande: Klipp! 69 kr
+- Jämförpris: Jfr pris 69.95 kr/kg
 
-## Kycklingkebab - JOJJEN, 350G
-- Erbjudande: Kampanj 49 kr
-- Jämförpris: Jfr pris 142.71 kr/kg
+## Potatis Fast, Klass 1 - 2KG, SVERIGE
+- Erbjudande: Kampanj 19 kr
+- Jämförpris: Jfr pris 9.98 kr/kg
+
+## Blöjor Megapack Comfort S5 9-14kg - LIBERO, 68P
+- Erbjudande: PRIO-pris 149 kr
+- Jämförpris: Jfr pris 2.19 kr/st
+
+## Tvättmedel Flytande Kulör - A+, 880ML
+- Erbjudande: 3  för 89 kr
+- Jämförpris: Jfr pris 1.35 kr/tvätt
+
+## Våffeljärn Enkelt - EMERIO, 1ST
+- Erbjudande: Klipp! 249 kr
+- Jämförpris: Jfr pris 249.00 kr/st
 
 ## Benfritt Högrev I Bit - BUTIKSSTYCKAT SVENSKT KÖTT, CA800G
 - Erbjudande: Kampanj 149 kr
 - Jämförpris: Jfr pris 149.00 kr/kg
 
-## Gouda Familjefavoriter 28% - ARLA, CA1,2KG
-- Erbjudande: Kampanj 99 kr
-- Jämförpris: Jfr pris 99.95 kr/kg
+## Färsk Hel Kyckling - GULDFÅGELN, CA1,35KG
+- Erbjudande: Kampanj 54 kr
+- Jämförpris: Jfr pris 54.95 kr/kg
 
-## Grekiskt Lantbröd - PÅGEN, 560G
-- Erbjudande: Kampanj 27 kr
-- Jämförpris: Jfr pris 49.91 kr/kg
-
-## Polkabeta, Klass 1 KRAV - 600G, SVERIGE
-- Erbjudande: Kampanj 19 kr
-- Jämförpris: Jfr pris 33.25 kr/kg
-
-## Yoghurt Jordgubb/Smultron 2,0% - YOGGI, 1KG
-- Erbjudande: 2  för 45 kr
-- Jämförpris: Jfr pris 22.50 kr/kg
-
-## Angusburgare, Fryst - LINDSTRÖMS, 452G
-- Erbjudande: Kampanj 64 kr
-- Jämförpris: Jfr pris 143.69 kr/kg
-
-## Champinjoner, Klass 1 - 250G, POLEN
-- Erbjudande: Kampanj 17 kr
-- Jämförpris: Jfr pris 71.80 kr/kg
-
-## Gul Lök I Nät, Klass 1 - 1KG, SVERIGE
-- Erbjudande: Kampanj 12 kr
-- Jämförpris: Jfr pris 12.95 kr/kg
-
-## Lime, Klass 1 - 1ST CA 75G, BRASILIEN
-- Erbjudande: Kampanj 2 kr
-- Jämförpris: Jfr pris 39.33 kr/kg
-
-## Stekfläsk Skivat - GARANT, 375G
-- Erbjudande: Kampanj 39 kr
-- Jämförpris: Jfr pris 106.53 kr/kg
-
-## Juice Tropisk Utan Fruktkött - GARANT, 1L
-- Erbjudande: Kampanj 29 kr
-- Jämförpris: Jfr pris 29.95 kr/l
-
-## Semlor 2-Pack - CITY GROSS, CA280G
-- Erbjudande: Kampanj 34 kr
-- Jämförpris: Jfr pris 124.82 kr/kg
-
-## Skrei-Torskfilé - LERÖY, CA400G
-- Erbjudande: Kampanj 299 kr
-- Jämförpris: Jfr pris 299.00 kr/kg
-
-## Grillkorv - SCAN, 640G, SVENSK KÖTTRÅVARA
-- Erbjudande: Kampanj 39 kr
-- Jämförpris: Jfr pris 62.42 kr/kg
-
-## Spaghetti - BARILLA, 1,8KG
-- Erbjudande: Kampanj 33 kr
-- Jämförpris: Jfr pris 18.86 kr/kg
+## Småbladsmix, Klass 1 EKO - GARANT EKO, 65G, ITALIEN
+- Erbjudande: Kampanj 14 kr
+- Jämförpris: Jfr pris 230.00 kr/kg
 
 ## Benfri Skinkstek - BUTIKSSTYCKAT SVENSKT KÖTT, CA1KG
 - Erbjudande: PRIO-pris 89 kr
 - Jämförpris: Jfr pris 89.95 kr/kg
 
-## Fetaost 23% - GARANT, 150G
-- Erbjudande: Kampanj 21 kr
-- Jämförpris: Jfr pris 146.33 kr/kg
+## Crème Fraiche 32% - ARLA KÖKET, 5DL
+- Erbjudande: Kampanj 29 kr
+- Jämförpris: Jfr pris 59.90 kr/l
+
+## Lammstek - SCAN, CA850G, FÖTT, UPPFÖTT, SLAKTAT OCH STYCKAT I SVERIGE
+- Erbjudande: Kampanj 199 kr
+- Jämförpris: Jfr pris 199.00 kr/kg
+
+## Ägg Frigående Inomhus M/L 10-Pack - STJÄRNÄGG, 10P
+- Erbjudande: Kampanj 34 kr
+- Jämförpris: Jfr pris 3.50 kr/st
+
+## Torsk Fina Filéer, Fryst - FINDUS, 375G
+- Erbjudande: Kampanj 79 kr
+- Jämförpris: Jfr pris 213.20 kr/kg
+
+## Olivolja Extra Virgin 100% Italien - FARCHIONI, 500ML
+- Erbjudande: Kampanj 99 kr
+- Jämförpris: Jfr pris 199.90 kr/l
 
 ## Grytbitar Av Högrev - BUTIKSSTYCKAT SVENSKT KÖTT, CA600G
 - Erbjudande: Kampanj 159 kr
 - Jämförpris: Jfr pris 159.00 kr/kg
 
-## Pasta Tortelloni Al Prosciutto - GARANT, 250G
-- Erbjudande: PRIO-pris 69 kr
-- Jämförpris: Jfr pris 92.00 kr/kg
-
-## Butter Chicken Sås Mild - PATAK'S, 500G
-- Erbjudande: Kampanj 39 kr
-- Jämförpris: Jfr pris 79.90 kr/kg
-
-## Lingonbröd - GARANT, 500G
-- Erbjudande: Kampanj 17 kr
-- Jämförpris: Jfr pris 35.90 kr/kg
-
-## Prosciutto Crudo - GARANT, 80G
-- Erbjudande: Kampanj 34 kr
-- Jämförpris: Jfr pris 436.88 kr/kg
-
-## Citron, Klass 1 - PRIMIFIORI, 1ST CA 160G, SPANIEN
-- Erbjudande: 3  för 20 kr
-- Jämförpris: Jfr pris 40.18 kr/kg
-
-## Babyspenat, Klass 1 EKO - GARANT EKO, 65G, ITALIEN
-- Erbjudande: 2  för 30 kr
-- Jämförpris: Jfr pris 230.77 kr/kg
-
-## Broccoli, Klass 1 - 250G, SPANIEN
-- Erbjudande: 2  för 30 kr
-- Jämförpris: Jfr pris 60.00 kr/kg
-
-## Potatis Mjölig, Klass 1 - GARANT, 900G, SVERIGE
-- Erbjudande: 2  för 38 kr
-- Jämförpris: Jfr pris 21.11 kr/kg
-
-## Kiwi, Klass 1 - 1ST CA100G, ITALIEN
-- Erbjudande: 3  för 24 kr
-- Jämförpris: Jfr pris 81.63 kr/kg
-
-## Vitlök Morado, Klass 1 - 60G, SPANIEN
-- Erbjudande: 2  för 25 kr
-- Jämförpris: Jfr pris 208.33 kr/kg
-
-## Potatis Delikatess, Klass 1 - GARANT, 450G, SVERIGE
-- Erbjudande: 2  för 30 kr
-- Jämförpris: Jfr pris 33.33 kr/kg
-
-## Citron, Klass 1 EKO - PRIMIFIORI, 1ST CA 140G, SPANIEN
-- Erbjudande: 2  för 18 kr
-- Jämförpris: Jfr pris 75.00 kr/kg
-
-## Snackmorötter, Klass 1 EKO - GARANT EKO, 200G, DANMARK
-- Erbjudande: 2  för 30 kr
-- Jämförpris: Jfr pris 75.00 kr/kg
-
-## Potatis Smått & Gott, Klass 1 - GARANT, 900G, SVERIGE
-- Erbjudande: 2  för 38 kr
-- Jämförpris: Jfr pris 21.11 kr/kg
-
-## Småbladsmix, Klass 1 EKO - GARANT EKO, 65G, ITALIEN
-- Erbjudande: 2  för 30 kr
-- Jämförpris: Jfr pris 230.77 kr/kg
-
-## Röd Grapefrukt, Klass 1 - 1ST CA 375G, ISRAEL
-- Erbjudande: 2  för 20 kr
-- Jämförpris: Jfr pris 34.48 kr/kg
-
-## Potatis Fast Röd, Klass 1 - 900G, SVERIGE
-- Erbjudande: 2  för 38 kr
-- Jämförpris: Jfr pris 21.11 kr/kg
-
-## Ruccola, Klass 1 EKO - GARANT EKO, 65G, ITALIEN
-- Erbjudande: 2  för 30 kr
-- Jämförpris: Jfr pris 230.77 kr/kg
-
-## Äpple Ingrid Marie, Klass 1 - 1ST CA 120G, SVERIGE
-- Erbjudande: Kampanj 22 kr
-- Jämförpris: Jfr pris 22.95 kr/kg
-
-## Gulbeta, Klass 1 EKO - GARANT, 600G, SVERIGE
-- Erbjudande: Kampanj 19 kr
-- Jämförpris: Jfr pris 33.25 kr/kg
-
-## Machesallad, Klass 1 EKO - GARANT EKO, 65G, ITALIEN
-- Erbjudande: 2  för 30 kr
-- Jämförpris: Jfr pris 230.77 kr/kg
-
-## Äpple Royal Gala, Klass 1 EKO - GARANT EKO, CA190G, ITALIEN
+## Vårrullar Classic, Fryst - DALOON, 800G
 - Erbjudande: Klipp! 29 kr
-- Jämförpris: Jfr pris 29.95 kr/kg
+- Jämförpris: Jfr pris 37.44 kr/kg
 
-## Salladslök I Knippe, Klass 1 - 100G, EGYPTEN
-- Erbjudande: 2  för 35 kr
-- Jämförpris: Jfr pris 175.00 kr/kg
+## Maskindisktabletter Original - YES, 70P
+- Erbjudande: Kampanj 99 kr
+- Jämförpris: Jfr pris 1.41 kr/st
 
-## Grön Zucchini, Klass 1 - CA 360G, SPANIEN
-- Erbjudande: Klipp! 2  för 25 kr
-- Jämförpris: Jfr pris 35.01 kr/kg
+## Skinka Strimlat - BUTIKSSTYCKAT SVENSKT KÖTT, CA600G
+- Erbjudande: Kampanj 99 kr
+- Jämförpris: Jfr pris 99.95 kr/kg
 
-## Passionsfrukt, Klass 1 - 1ST CA 50G, COLOMBIA
-- Erbjudande: 2  för 20 kr
-- Jämförpris: Jfr pris 200.00 kr/kg
-
-## Yoghurt Original Samoa 2,0% - YOGGI, 1L
-- Erbjudande: 2  för 45 kr
-- Jämförpris: Jfr pris 22.50 kr/kg
-
-## Äpple Gloster, Klass 1 - CA 170G, SVERIGE
-- Erbjudande: Kampanj 22 kr
-- Jämförpris: Jfr pris 22.95 kr/kg
-
-## Bacon Skivat 5-Pack - TULIP, 5X100G
-- Erbjudande: Klipp! 59 kr
-- Jämförpris: Jfr pris 119.90 kr/kg
-
-## Lövbiff Storpack - BUTIKSSTYCKAT SVENSKT KÖTT, CA1,2KG
-- Erbjudande: Kampanj 149 kr
-- Jämförpris: Jfr pris 149.00 kr/kg
-
-## Yoghurt Skogsbär 2,0% - YOGGI, 1KG
-- Erbjudande: 2  för 45 kr
-- Jämförpris: Jfr pris 22.50 kr/kg
-
-## Aubergine, Klass 1 - CA300G, SPANIEN
-- Erbjudande: 2  för 30 kr
-- Jämförpris: Jfr pris 50.00 kr/kg
-
-## Färska Fikon, Klass 1 - 1ST CA 50G, PERU
-- Erbjudande: 2  för 25 kr
-- Jämförpris: Jfr pris 250.00 kr/kg
-
-## Semlor 2-Pack - CITY GROSS, CA265G
-- Erbjudande: Kampanj 34 kr
-- Jämförpris: Jfr pris 131.89 kr/kg
-
-## Yoggi Original Yoghurt Körsbär - YOGGI, 1KG
-- Erbjudande: 2  för 45 kr
-- Jämförpris: Jfr pris 22.50 kr/kg
-
-## Grovt Bröd Vital - GARANT, 500G
-- Erbjudande: Kampanj 17 kr
-- Jämförpris: Jfr pris 35.90 kr/kg
-
-## Benfritt Högrev Storpack - BUTIKSSTYCKAT SVENSKT KÖTT, CA1.6KG
-- Erbjudande: Kampanj 149 kr
-- Jämförpris: Jfr pris 149.00 kr/kg
-
-## Mini Yoghurt Kokos/Ananas - YOGGI, 1KG
-- Erbjudande: 2  för 45 kr
-- Jämförpris: Jfr pris 22.50 kr/kg
-
-## Fiskpinnar, Fryst - FINDUS, 750G
-- Erbjudande: Kampanj 49 kr
-- Jämförpris: Jfr pris 66.60 kr/kg
-
-## Yoghurt Mini Jordgubb 0,1% - YOGGI, 1L
-- Erbjudande: 2  för 45 kr
-- Jämförpris: Jfr pris 22.50 kr/kg
-
-## Yoghurt Original Citron 2,0% - YOGGI, 1L
-- Erbjudande: 2  för 45 kr
-- Jämförpris: Jfr pris 22.50 kr/kg
-
-## Trocadero Zero - TROCADERO, 33CL
-- Erbjudande: 20  för 89 kr
-- Jämförpris: Jfr pris 13.48 kr/l
-
-## Yoghurt Mini Blåbär 0,1% - YOGGI, 1L
-- Erbjudande: 2  för 45 kr
-- Jämförpris: Jfr pris 22.50 kr/kg
-
-## Grahamsbröd - PÅGEN, 650G
-- Erbjudande: Kampanj 27 kr
-- Jämförpris: Jfr pris 43.00 kr/kg
-
-## Yoghurt Mini Hallon 0,1% - YOGGI, 1L
-- Erbjudande: 2  för 45 kr
-- Jämförpris: Jfr pris 22.50 kr/kg
-
-## Yoghurt Mini Samoa 0,1% - YOGGI, 1L
-- Erbjudande: 2  för 45 kr
-- Jämförpris: Jfr pris 22.50 kr/kg
-
-## Pasta Tortelloni Pomodoro E Mozzarella - GARANT, 250G
-- Erbjudande: PRIO-pris 69 kr
-- Jämförpris: Jfr pris 92.00 kr/kg
-
-## Yoghurt Blåbär 2,0% - YOGGI, 1KG
-- Erbjudande: 2  för 45 kr
-- Jämförpris: Jfr pris 22.50 kr/kg
+## Hallon, Klass 1 - 125G, PORTUGAL
+- Erbjudande: Kampanj 29 kr
+- Jämförpris: Jfr pris 239.60 kr/kg
 
 ## Revben Av Bog - BUTIKSSTYCKAT SVENSKT KÖTT, CA800G
 - Erbjudande: Kampanj 69 kr
 - Jämförpris: Jfr pris 69.95 kr/kg
 
-## Halloumi - GARANT, 200G
-- Erbjudande: Kampanj 28 kr
-- Jämförpris: Jfr pris 144.75 kr/kg
+## Lättmargarin Omega3 Växtbaserat - BECEL, 600G
+- Erbjudande: Kampanj 29 kr
+- Jämförpris: Jfr pris 49.92 kr/kg
 
-## Chorizo Tradicional Skivad - GARANT, 100G
-- Erbjudande: 2  för 40 kr
+## Norrlands-Leväjn - POLARBRÖD, 440G
+- Erbjudande: Kampanj 29 kr
+- Jämförpris: Jfr pris 68.07 kr/kg
+
+## Juice Apelsin Nektar - GOD MORGON, 1L
+- Erbjudande: Kampanj 23 kr
+- Jämförpris: Jfr pris 23.95 kr/l
+
+## Spareribs - TULIP, 500G
+- Erbjudande: Kampanj 64 kr
+- Jämförpris: Jfr pris 129.90 kr/kg
+
+## Fruktdryck Blåbär - PROVIVA, 1L
+- Erbjudande: Kampanj 27 kr
+- Jämförpris: Jfr pris 27.95 kr/l
+
+## Pizza Tradizionale Mozzarella/Pesto, Fryst - DR. OETKER, 385G
+- Erbjudande: Kampanj 39 kr
+- Jämförpris: Jfr pris 103.77 kr/kg
+
+## Tagliatelle Chicken, Fryst - FINDUS, 1KG
+- Erbjudande: Kampanj 59 kr
+- Jämförpris: Jfr pris 59.95 kr/kg
+
+## Räkor Kokta - MARESCO A/S, 400G
+- Erbjudande: Kampanj 79 kr
+- Jämförpris: Jfr pris 199.88 kr/kg
+
+## Lasagneplattor - GARANT, 500G
+- Erbjudande: Kampanj 19 kr
+- Jämförpris: Jfr pris 39.90 kr/kg
+
+## Flingor Happy Hoops - ELDORADO, 350G
+- Erbjudande: 2  för 45 kr
+- Jämförpris: Jfr pris 64.29 kr/kg
+
+## Flora & Smör Normalsaltat 70% - FLORA, 500G
+- Erbjudande: Kampanj 29 kr
+- Jämförpris: Jfr pris 59.90 kr/kg
+
+## Tandkräm Maxwhite - COLGATE, 75ML
+- Erbjudande: 2  för 28 kr
+- Jämförpris: Jfr pris 186.67 kr/l
+
+## Yoghurt Naturell 3,0% - ARLA KO, 1KG
+- Erbjudande: Kampanj 18 kr
+- Jämförpris: Jfr pris 18.95 kr/kg
+
+## Lasagnette Bolognese Mozzarella - GOOH!, 400G
+- Erbjudande: 2  för 125 kr
+- Jämförpris: Jfr pris 156.25 kr/kg
+
+## Potatis Fast, Klass 1 - GARANT, 900G, SVERIGE
+- Erbjudande: 2  för 38 kr
+- Jämförpris: Jfr pris 21.11 kr/kg
+
+## Citron, Klass 1 - PRIMIFIORI, 1ST CA 160G, SPANIEN
+- Erbjudande: 3  för 20 kr
+- Jämförpris: Jfr pris 40.18 kr/kg
+
+## Vitlök Morado, Klass 1 - 60G, SPANIEN
+- Erbjudande: 2  för 25 kr
+- Jämförpris: Jfr pris 208.33 kr/kg
+
+## Broccoli, Klass 1 - 250G, SPANIEN
+- Erbjudande: 2  för 30 kr
+- Jämförpris: Jfr pris 60.00 kr/kg
+
+## Kiwi, Klass 1 - 1ST CA100G, ITALIEN
+- Erbjudande: 3  för 24 kr
+- Jämförpris: Jfr pris 81.63 kr/kg
+
+## Potatis Delikatess, Klass 1 - GARANT, 450G, SVERIGE
+- Erbjudande: 2  för 30 kr
+- Jämförpris: Jfr pris 33.33 kr/kg
+
+## Lime, Klass 1 - 1ST CA 75G, BRASILIEN
+- Erbjudande: 3  för 15 kr
+- Jämförpris: Jfr pris 66.67 kr/kg
+
+## Babyspenat, Klass 1 EKO - GARANT EKO, 65G, ITALIEN
+- Erbjudande: Kampanj 14 kr
+- Jämförpris: Jfr pris 230.00 kr/kg
+
+## Potatis Mjölig, Klass 1 - GARANT, 900G, SVERIGE
+- Erbjudande: 2  för 38 kr
+- Jämförpris: Jfr pris 21.11 kr/kg
+
+## Snackmorötter, Klass 1 EKO - GARANT EKO, 200G, DANMARK
+- Erbjudande: 2  för 30 kr
+- Jämförpris: Jfr pris 75.00 kr/kg
+
+## Citron, Klass 1 EKO - PRIMIFIORI, 1ST CA 140G, SPANIEN
+- Erbjudande: 2  för 18 kr
+- Jämförpris: Jfr pris 75.00 kr/kg
+
+## Kiwi Gul, Klass 2 - 500G (6-8ST), ITALIEN
+- Erbjudande: Kampanj 19 kr
+- Jämförpris: Jfr pris 39.90 kr/kg
+
+## Snackcitron, Klass 1 - ITALIEN, 250G, ITALIEN
+- Erbjudande: Kampanj 39 kr
+- Jämförpris: Jfr pris 159.80 kr/kg
+
+## Purjolök, Klass 1 - CA 360G, NEDERLÄNDERNA
+- Erbjudande: Kampanj 24 kr
+- Jämförpris: Jfr pris 24.95 kr/kg
+
+## Potatis Smått & Gott, Klass 1 - GARANT, 900G, SVERIGE
+- Erbjudande: 2  för 38 kr
+- Jämförpris: Jfr pris 21.11 kr/kg
+
+## Röd Grapefrukt, Klass 1 - 1ST CA 375G, ISRAEL
+- Erbjudande: 3  för 25 kr
+- Jämförpris: Jfr pris 28.72 kr/kg
+
+## Dill, Klass 1 - GARANT, 20G, SPANIEN
+- Erbjudande: Kampanj 7 kr
+
+## Ruccola, Klass 1 EKO - GARANT EKO, 65G, ITALIEN
+- Erbjudande: Kampanj 14 kr
+- Jämförpris: Jfr pris 230.00 kr/kg
+
+## Potatis Fast Röd, Klass 1 - 900G, SVERIGE
+- Erbjudande: 2  för 38 kr
+- Jämförpris: Jfr pris 21.11 kr/kg
+
+## Rödbetor I Påse, Klass 1 EKO - GARANT EKO, 600G, SVERIGE
+- Erbjudande: Kampanj 16 kr
+- Jämförpris: Jfr pris 28.25 kr/kg
+
+## Persilja Blad, Klass 1 - 250G, SPANIEN
+- Erbjudande: Kampanj 24 kr
+- Jämförpris: Jfr pris 99.80 kr/kg
+
+## Machesallad, Klass 1 EKO - GARANT EKO, 65G, ITALIEN
+- Erbjudande: Kampanj 14 kr
+- Jämförpris: Jfr pris 230.00 kr/kg
+
+## Vaniljhjärta - CITY GROSS, 55G
+- Erbjudande: PRIO-pris 30 kr
+- Jämförpris: Jfr pris 136.36 kr/kg
+
+## Jordärtskocka, Klass 1 EKO - GARANT EKO, 250G, SVERIGE
+- Erbjudande: Kampanj 16 kr
+- Jämförpris: Jfr pris 67.80 kr/kg
+
+## Grön Zucchini, Klass 1 - CA 360G, SPANIEN
+- Erbjudande: 2  för 30 kr
+- Jämförpris: Jfr pris 42.02 kr/kg
+
+## Salladslök I Knippe, Klass 1 - 100G, EGYPTEN
+- Erbjudande: 2  för 35 kr
+- Jämförpris: Jfr pris 175.00 kr/kg
+
+## Kanelbulle - CITY GROSS, CA95G
+- Erbjudande: PRIO-pris 30 kr
+- Jämförpris: Jfr pris 78.95 kr/kg
+
+## Juice Tropisk - GOD MORGON, 1L
+- Erbjudande: Kampanj 23 kr
+- Jämförpris: Jfr pris 23.95 kr/l
+
+## Passionsfrukt, Klass 1 - 1ST CA 50G, COLOMBIA
+- Erbjudande: 2  för 20 kr
 - Jämförpris: Jfr pris 200.00 kr/kg
 
-## Mini Yoghurt Mandarin/Lime 0,1% - YOGGI, 1KG
+## Aubergine, Klass 1 - CA300G, SPANIEN
+- Erbjudande: 2  för 35 kr
+- Jämförpris: Jfr pris 58.33 kr/kg
+
+## Rädisor I Strut, Klass 1 - 125G, NEDERLÄNDERNA
+- Erbjudande: 2  för 18 kr
+- Jämförpris: Jfr pris 72.00 kr/kg
+
+## Sockerbulle - CITY GROSS, 60G
+- Erbjudande: PRIO-pris 30 kr
+- Jämförpris: Jfr pris 125.00 kr/kg
+
+## Maskindisktabletter Platinum - YES, 51P
+- Erbjudande: Kampanj 99 kr
+- Jämförpris: Jfr pris 1.94 kr/st
+
+## Flingor Choco Flakes - ELDORADO, 375G
 - Erbjudande: 2  för 45 kr
-- Jämförpris: Jfr pris 22.50 kr/kg
+- Jämförpris: Jfr pris 60.00 kr/kg
 
-## Lax Ojämna Bitar Fryst - OMEGA, 300G
-- Erbjudande: Kampanj 49 kr
-- Jämförpris: Jfr pris 166.50 kr/kg
+## Babyplommontomater, Klass 1 - 250G, SPANIEN
+- Erbjudande: 2  för 30 kr
+- Jämförpris: Jfr pris 60.00 kr/kg
 
-## Trocadero Geléhallon Zero - TROCADERO, 33CL
-- Erbjudande: 20  för 89 kr
-- Jämförpris: Jfr pris 13.48 kr/l
+## Vaniljmunk - CITY GROSS, 60G
+- Erbjudande: PRIO-pris 30 kr
+- Jämförpris: Jfr pris 119.05 kr/kg
 
-## Mild Yoghurt Jordgubb Lättsockrad 1,5% - ARLA KO, 1KG
+## Juice Äpple - GOD MORGON, 1L
+- Erbjudande: Kampanj 23 kr
+- Jämförpris: Jfr pris 23.95 kr/l
+
+## Färska Fikon, Klass 1 - 1ST CA 50G, PERU
+- Erbjudande: 2  för 25 kr
+- Jämförpris: Jfr pris 250.00 kr/kg
+
+## Toscasnäcka - CITY GROSS, 110G
+- Erbjudande: PRIO-pris 30 kr
+- Jämförpris: Jfr pris 66.96 kr/kg
+
+## Benfritt Högrev Storpack - BUTIKSSTYCKAT SVENSKT KÖTT, CA1.6KG
+- Erbjudande: Kampanj 149 kr
+- Jämförpris: Jfr pris 149.00 kr/kg
+
+## Muffins Vanilj - CITY GROSS, CA90G
+- Erbjudande: PRIO-pris 30 kr
+- Jämförpris: Jfr pris 83.33 kr/kg
+
+## Fruktdryck Mango Utan Tillsatt Socker - PROVIVA, 1L
+- Erbjudande: Kampanj 27 kr
+- Jämförpris: Jfr pris 27.95 kr/l
+
+## Flingor Chocopopz - ELDORADO, 350G
 - Erbjudande: 2  för 45 kr
-- Jämförpris: Jfr pris 22.50 kr/kg
+- Jämförpris: Jfr pris 64.29 kr/kg
 
-## Mild Yoghurt Blåbär Lättsockrad 1,5% - ARLA KO, 1KG
-- Erbjudande: 2  för 45 kr
-- Jämförpris: Jfr pris 22.50 kr/kg
+## Wienerkam - CITY GROSS, CA85G
+- Erbjudande: PRIO-pris 30 kr
+- Jämförpris: Jfr pris 88.24 kr/kg
+
+## Pistagesnäcka - CITY GROSS, CA95G
+- Erbjudande: PRIO-pris 30 kr
+- Jämförpris: Jfr pris 78.95 kr/kg
+
+## Kanelsnäcka Vanilj - CITY GROSS, 110G
+- Erbjudande: PRIO-pris 30 kr
+- Jämförpris: Jfr pris 66.37 kr/kg
+
+## Pepsi Regular 20-Pack - PEPSI, 20P/33CL
+- Erbjudande: Klipp! 79 kr
+- Jämförpris: Jfr pris 12.11 kr/l
+
+## Wienerbröd Tosca - CITY GROSS, 90G
+- Erbjudande: PRIO-pris 30 kr
+- Jämförpris: Jfr pris 93.75 kr/kg
+
+## Fruktdryck Tropisk - PROVIVA, 1L
+- Erbjudande: Kampanj 27 kr
+- Jämförpris: Jfr pris 27.95 kr/l
+
+## Wieneråtta Kola - CITY GROSS, 65G
+- Erbjudande: PRIO-pris 30 kr
+- Jämförpris: Jfr pris 115.38 kr/kg
+
+## Lasagneplattor - GARANT, 500G
+- Erbjudande: Kampanj 19 kr
+- Jämförpris: Jfr pris 39.90 kr/kg
 
 ## Revben Av Bog Storpack - BUTIKSSTYCKAT SVENSKT KÖTT, CA1,6KG
 - Erbjudande: Kampanj 69 kr
 - Jämförpris: Jfr pris 69.95 kr/kg
 
-## Kolsyrat Vatten Jordgubb Granatäpple Burk - LOKA, 33CL
-- Erbjudande: 20  för 89 kr
-- Jämförpris: Jfr pris 13.48 kr/l
+## Wieneråtta Vanilj/Äpple - CITY GROSS, 75G
+- Erbjudande: PRIO-pris 30 kr
+- Jämförpris: Jfr pris 100.00 kr/kg
 
-## Mild Yoghurt Mango Lättsockrad 1,5% - ARLA KO, 1KG
-- Erbjudande: 2  för 45 kr
-- Jämförpris: Jfr pris 22.50 kr/kg
+## Fruktdryck Nypon - PROVIVA, 1L
+- Erbjudande: Kampanj 27 kr
+- Jämförpris: Jfr pris 27.95 kr/l
 
-## Blåmögelost Ädel Grädd 36% - KVIBILLE, 140G
-- Erbjudande: Kampanj 29 kr
-- Jämförpris: Jfr pris 213.93 kr/kg
+## Muffins Blåbär - CITY GROSS, CA90G
+- Erbjudande: PRIO-pris 30 kr
+- Jämförpris: Jfr pris 83.33 kr/kg
 
-## Fetaost Laktosfri 23% - GARANT, 150G
-- Erbjudande: Kampanj 21 kr
-- Jämförpris: Jfr pris 146.33 kr/kg
+## Hushållsost 17% - ARLA, CA2,2KG
+- Erbjudande: Kampanj 99 kr
+- Jämförpris: Jfr pris 99.95 kr/kg
 
-## Mild Yoghurt Hallon Lättsockrad 1,5% - ARLA KO, 1KG
-- Erbjudande: 2  för 45 kr
-- Jämförpris: Jfr pris 22.50 kr/kg
+## Mild Yoghurt Vanilj 2% - ARLA KO, 1KG
+- Erbjudande: Kampanj 18 kr
+- Jämförpris: Jfr pris 18.95 kr/kg
 
-## Fiskfiléer Glutenfri, Fryst - FINDUS, 340G
+## Chokladmuffins - CITY GROSS, CA90G
+- Erbjudande: PRIO-pris 30 kr
+- Jämförpris: Jfr pris 83.33 kr/kg
+
+## Värmeljus Paraffin 6h - FIXA, 50P
 - Erbjudande: Kampanj 49 kr
-- Jämförpris: Jfr pris 146.91 kr/kg
+- Jämförpris: Jfr pris 1.00 kr/st
 
-## Yoghurt Madagaskar Vanilj 2,0% - YOGGI, 1KG
+## Muffins Äpple - CITY GROSS, CA90G
+- Erbjudande: PRIO-pris 30 kr
+- Jämförpris: Jfr pris 83.33 kr/kg
+
+## Flingor Caramel Mix - ELDORADO, 375G
 - Erbjudande: 2  för 45 kr
-- Jämförpris: Jfr pris 22.50 kr/kg
+- Jämförpris: Jfr pris 60.00 kr/kg
 
-## Champis Zero - CHAMPIS, 33CL
-- Erbjudande: 20  för 89 kr
-- Jämförpris: Jfr pris 13.48 kr/l
+## Hallonmunk - CITY GROSS, 60G
+- Erbjudande: PRIO-pris 30 kr
+- Jämförpris: Jfr pris 119.05 kr/kg
 
-## Skinksnitzel Storpack - BUTIKSSTYCKAT SVENSKT KÖTT, CA1,4KG
-- Erbjudande: Kampanj 99 kr
-- Jämförpris: Jfr pris 99.95 kr/kg
+## Fruktdryck Ananas/Äpple/Ingefära Utan Tillsatt Socker - PROVIVA, 1L
+- Erbjudande: Kampanj 27 kr
+- Jämförpris: Jfr pris 27.95 kr/l
 
-## Yoghurt Jordgubb/Vanilj 2,0% - YOGGI, 1KG
-- Erbjudande: 2  för 45 kr
-- Jämförpris: Jfr pris 22.50 kr/kg
-
-## Cognacsmedwurst - PÄRSONS, 160G, URSPRUNG: SVERIGE
-- Erbjudande: 2  för 45 kr
-- Jämförpris: Jfr pris 140.63 kr/kg
-
-## Yoghurt Äpple/Vanilj/Kanel 2,0% - YOGGI, 1KG
-- Erbjudande: 2  för 45 kr
-- Jämförpris: Jfr pris 22.50 kr/kg
-
-## Kolsyrat Vatten Hallon/Rabarber - LOKA, 33CL
-- Erbjudande: 20  för 89 kr
-- Jämförpris: Jfr pris 13.48 kr/l
-
-## Grillkorv Ost & Bacon - SCAN, 480G, SVENSK KÖTTRÅVARA
-- Erbjudande: Kampanj 39 kr
-- Jämförpris: Jfr pris 83.23 kr/kg
-
-## Yoghurt Mini Vanilj 0,1% - YOGGI, 1L
-- Erbjudande: 2  för 45 kr
-- Jämförpris: Jfr pris 22.50 kr/kg
-
-## Trocadero - TROCADERO, 33CL
-- Erbjudande: 20  för 89 kr
-- Jämförpris: Jfr pris 13.48 kr/l
-
-## Blåmögelost Ädel 30% - KVIBILLE, 140G
+## Lätt Crème Fraiche 13% - ARLA KÖKET, 5DL
 - Erbjudande: Kampanj 29 kr
-- Jämförpris: Jfr pris 213.93 kr/kg
+- Jämförpris: Jfr pris 59.90 kr/l
 
-## Äppeljuice - GARANT, 1L
-- Erbjudande: Kampanj 29 kr
-- Jämförpris: Jfr pris 29.95 kr/l
+## Smörcroissant - CITY GROSS, 60G
+- Erbjudande: PRIO-pris 30 kr
+- Jämförpris: Jfr pris 125.00 kr/kg
 
-## Pasta Tortelloni Ricotta E Spinaci - GARANT, 250G
-- Erbjudande: PRIO-pris 69 kr
-- Jämförpris: Jfr pris 92.00 kr/kg
+## Äppelmunk - CITY GROSS, 60G
+- Erbjudande: PRIO-pris 30 kr
+- Jämförpris: Jfr pris 119.05 kr/kg
 
-## Kolsyrat Vatten Naturell Burk - LOKA, 33CL
-- Erbjudande: 20  för 89 kr
-- Jämförpris: Jfr pris 13.48 kr/l
+## Fruktdryck Hallon/Björnbär Utan Tillsatt Socker - PROVIVA, 1L
+- Erbjudande: Kampanj 27 kr
+- Jämförpris: Jfr pris 27.95 kr/l
 
-## Grillad Kyckling - PÄRSONS, 120G, EU-RÅVARA
+## Flingor Cinnamon Stars - ELDORADO, 375G
 - Erbjudande: 2  för 45 kr
-- Jämförpris: Jfr pris 187.50 kr/kg
+- Jämförpris: Jfr pris 60.00 kr/kg
 
-## Leverpastej Original Bredbar - GARANT, 200G
-- Erbjudande: Kampanj 9 kr
-- Jämförpris: Jfr pris 49.75 kr/kg
+## Wienerbröd Pecan - CITY GROSS, 85G
+- Erbjudande: PRIO-pris 30 kr
+- Jämförpris: Jfr pris 88.24 kr/kg
 
-## Cashew Masala Sås - PATAK'S, 500G
-- Erbjudande: Kampanj 39 kr
-- Jämförpris: Jfr pris 79.90 kr/kg
+## Spareribs Grillade - MANUELL DELIKATESS, CA500G
+- Erbjudande: Kampanj 79 kr
+- Jämförpris: Jfr pris 79.95 kr/kg
 
-## Grillkorv Deli - SCAN, 400G, URSPRUNGSLAND: SVERIGE
-- Erbjudande: Kampanj 39 kr
-- Jämförpris: Jfr pris 99.88 kr/kg
+## Mild Yoghurt Naturell 3% - ARLA KO, 1KG
+- Erbjudande: Kampanj 18 kr
+- Jämförpris: Jfr pris 18.95 kr/kg
 
-## Champis - CHAMPIS, 33CL
-- Erbjudande: 20  för 89 kr
-- Jämförpris: Jfr pris 13.48 kr/l
+## Tebirkes - CITY GROSS, 90G
+- Erbjudande: PRIO-pris 30 kr
+- Jämförpris: Jfr pris 83.33 kr/kg
 
-## Granola Naturell - START!, 750G
+## Juice Fruit Crush Apelsin/Mango - GOD MORGON, 1L
+- Erbjudande: Kampanj 23 kr
+- Jämförpris: Jfr pris 23.95 kr/l
+
+## Ostfralla - CITY GROSS, CA57G
+- Erbjudande: PRIO-pris 39 kr
+- Jämförpris: Jfr pris 68.42 kr/kg
+
+## Estellefläta - CITY GROSS, 85G
+- Erbjudande: PRIO-pris 30 kr
+- Jämförpris: Jfr pris 88.24 kr/kg
+
+## Tandkräm Karies Kontroll - COLGATE, 75ML
+- Erbjudande: 2  för 28 kr
+- Jämförpris: Jfr pris 186.67 kr/l
+
+## Wienerbröd Vanilj - CITY GROSS, 80G
+- Erbjudande: PRIO-pris 30 kr
+- Jämförpris: Jfr pris 93.75 kr/kg
+
+## Juice Fruit Crush Äpple/Rabarber - GOD MORGON, 1L
+- Erbjudande: Kampanj 23 kr
+- Jämförpris: Jfr pris 23.95 kr/l
+
+## Chokladcookie - CITY GROSS, CA60G
+- Erbjudande: PRIO-pris 30 kr
+- Jämförpris: Jfr pris 125.00 kr/kg
+
+## Pasta Carbonara, Fryst - FINDUS, 1,1KG
+- Erbjudande: Kampanj 59 kr
+- Jämförpris: Jfr pris 54.50 kr/kg
+
+## Maräng Stor - CITY GROSS, 50G
+- Erbjudande: PRIO-pris 30 kr
+- Jämförpris: Jfr pris 150.00 kr/kg
+
+## Fruktdryck Äpple/Hallon - GOD MORGON, 1L
+- Erbjudande: Kampanj 23 kr
+- Jämförpris: Jfr pris 23.95 kr/l
+
+## Mild Lättyoghurt Naturell 0,5% - ARLA KO, 1KG
+- Erbjudande: Kampanj 18 kr
+- Jämförpris: Jfr pris 18.95 kr/kg
+
+## Cookie Vanilj & Choklad - CITY GROSS, 60G
+- Erbjudande: PRIO-pris 30 kr
+- Jämförpris: Jfr pris 125.00 kr/kg
+
+## Tvättmedel Flytande Kulör Sensitive - A+, 880ML
+- Erbjudande: 3  för 89 kr
+- Jämförpris: Jfr pris 1.35 kr/tvätt
+
+## Köttbullar Med Potatismos/Gräddsås - GOOH!, 400G
+- Erbjudande: 2  för 125 kr
+- Jämförpris: Jfr pris 156.25 kr/kg
+
+## Vaniljcookie - CITY GROSS, 60G
+- Erbjudande: PRIO-pris 30 kr
+- Jämförpris: Jfr pris 125.00 kr/kg
+
+## Fruktdryck Hallon/Granatäpple - PROVIVA, 1L
+- Erbjudande: Kampanj 27 kr
+- Jämförpris: Jfr pris 27.95 kr/l
+
+## Pasta Bolognese, Fryst - FINDUS, 1,1KG
+- Erbjudande: Kampanj 59 kr
+- Jämförpris: Jfr pris 54.50 kr/kg
+
+## Kolakakor - CITY GROSS, 45G
+- Erbjudande: PRIO-pris 30 kr
+- Jämförpris: Jfr pris 166.67 kr/kg
+
+## Matlåda Glas - FIXA, 370ML
 - Erbjudande: Kampanj 34 kr
-- Jämförpris: Jfr pris 46.60 kr/kg
+- Jämförpris: Jfr pris 34.95 kr/st
 
-## Yoghurt Samoa 2,0% Laktosfri - YOGGI, 1KG
-- Erbjudande: Kampanj 29 kr
-- Jämförpris: Jfr pris 29.95 kr/kg
+## Chokladbröd - CITY GROSS, 45G
+- Erbjudande: PRIO-pris 30 kr
+- Jämförpris: Jfr pris 166.67 kr/kg
 
-## Gräddis Familjefavoriter 31% - ARLA, CA1KG
+## Fruktdryck Mango - PROVIVA, 1L
+- Erbjudande: Kampanj 27 kr
+- Jämförpris: Jfr pris 27.95 kr/l
+
+## Tortelloni Med Ricotta/Spenat/Tomatsås - GOOH!, 370G
+- Erbjudande: 2  för 125 kr
+- Jämförpris: Jfr pris 168.92 kr/kg
+
+## Kardemummasnäcka - CITY GROSS, 100G
+- Erbjudande: PRIO-pris 30 kr
+- Jämförpris: Jfr pris 75.00 kr/kg
+
+## Mild Lättyoghurt Vanilj 0,5% - ARLA KO, 1KG
+- Erbjudande: Kampanj 18 kr
+- Jämförpris: Jfr pris 18.95 kr/kg
+
+## Småfranska - CITY GROSS, CA55G
+- Erbjudande: PRIO-pris 39 kr
+- Jämförpris: Jfr pris 70.91 kr/kg
+
+## Wienerbröd Vanilj/Hallon - CITY GROSS, 80G
+- Erbjudande: PRIO-pris 30 kr
+- Jämförpris: Jfr pris 93.75 kr/kg
+
+## Fruktdryck Svartvinbär - PROVIVA, 1L
+- Erbjudande: Kampanj 27 kr
+- Jämförpris: Jfr pris 27.95 kr/l
+
+## Tandkräm Sensation White - COLGATE, 75ML
+- Erbjudande: 2  för 28 kr
+- Jämförpris: Jfr pris 186.67 kr/l
+
+## Vaniljsnäcka - CITY GROSS, 100G
+- Erbjudande: PRIO-pris 30 kr
+- Jämförpris: Jfr pris 75.00 kr/kg
+
+## Ugn & Grillfolie - FIXA, 10M
+- Erbjudande: 2  för 50 kr
+- Jämförpris: Jfr pris 2.50 kr/m
+
+## Kyckling Curry - GOOH, 400G
+- Erbjudande: 2  för 125 kr
+- Jämförpris: Jfr pris 156.25 kr/kg
+
+## Lemonade - GOD MORGON, 1L
+- Erbjudande: Kampanj 23 kr
+- Jämförpris: Jfr pris 23.95 kr/l
+
+## Tvättmedel Flytande Kulör Sensitive Refill - A+, 920ML
+- Erbjudande: 3  för 89 kr
+- Jämförpris: Jfr pris 1.29 kr/tvätt
+
+## Skogaholmsrutor - SKOGAHOLM, 420G
+- Erbjudande: Kampanj 24 kr
+- Jämförpris: Jfr pris 59.40 kr/kg
+
+## Remouladesås - MANUELL DELIKATESS, CA180G
 - Erbjudande: Kampanj 99 kr
-- Jämförpris: Jfr pris 99.95 kr/kg
+- Jämförpris: Jfr pris 99.50 kr/kg
 
-## Diamanti Ricotta/Basilica - GARANT, 250G
-- Erbjudande: PRIO-pris 69 kr
-- Jämförpris: Jfr pris 92.00 kr/kg
+## Fruktdryck Apelsin Utan Tillsatt Socker - PROVIVA, 1L
+- Erbjudande: Kampanj 27 kr
+- Jämförpris: Jfr pris 27.95 kr/l
 
-## Pepparbiff - BUTIKSSTYCKAT SVENSKT KÖTT, CA500G
-- Erbjudande: Kampanj 179 kr
-- Jämförpris: Jfr pris 179.00 kr/kg
+## Korvstroganoff Med Vildris - GOOH!, 400G
+- Erbjudande: 2  för 125 kr
+- Jämförpris: Jfr pris 156.25 kr/kg
 
-## Kalkon Rökt - PÄRSONS, 120G, EU-RÅVARA
-- Erbjudande: 2  för 45 kr
-- Jämförpris: Jfr pris 187.50 kr/kg
+## Fruktdryck Jordgubb/Lime/Mynta Utan Tillsatt Socker/Sötningsmedel - PROVIVA, 1L
+- Erbjudande: Kampanj 27 kr
+- Jämförpris: Jfr pris 27.95 kr/l
 
-## Juice Äpple/Vindruva/Körsbär/Jordgubb - GARANT, 1L
-- Erbjudande: Kampanj 29 kr
-- Jämförpris: Jfr pris 29.95 kr/l
+## Night Cream Q10 Power - NIVEA, 50ML
+- Erbjudande: Kampanj 79 kr
+- Jämförpris: Jfr pris 1599.00 kr/l
 
-## Cuba Cola Burk - CUBA COLA, 33CL
-- Erbjudande: 20  för 89 kr
-- Jämförpris: Jfr pris 13.48 kr/l
-
-## Chips Havssalt - GOTLANDSCHIPS, 180G
-- Erbjudande: Klipp! 14 kr
-- Jämförpris: Jfr pris 83.06 kr/kg
-
-## Tändvätska T-Gul - KEMETYL, 1L
+## Matlåda Glas - FIXA, 600ML
 - Erbjudande: Kampanj 49 kr
 - Jämförpris: Jfr pris 49.95 kr/st
 
-## Plopp Stycksak Dubbel - CLOETTA, 50G
-- Erbjudande: Kampanj 9 kr
-- Jämförpris: Jfr pris 199.00 kr/kg
+## Fruktdryck Blåbär/Röda Vinbär - PROVIVA, 1L
+- Erbjudande: Kampanj 27 kr
+- Jämförpris: Jfr pris 27.95 kr/l
 
-## Leverpastej Gurka Bredbar - GARANT, 200G
-- Erbjudande: Kampanj 9 kr
-- Jämförpris: Jfr pris 49.75 kr/kg
+## Källarfranska - CITY GROSS, 55G
+- Erbjudande: PRIO-pris 39 kr
+- Jämförpris: Jfr pris 70.91 kr/kg
 
-## Yoghurt Jordgubb/Smultron 2,0% Laktosfri - YOGGI, 1KG
+## Tandkräm Max Fresh Cool Mint - COLGATE, 75ML
+- Erbjudande: 2  för 28 kr
+- Jämförpris: Jfr pris 186.67 kr/l
+
+## Fruktdryck Mango Utan Tillsatt Socker - PROVIVA, 1L
+- Erbjudande: Kampanj 27 kr
+- Jämförpris: Jfr pris 27.95 kr/l
+
+## Tvättmedel Flytande Kulör Refill - A+, 920ML
+- Erbjudande: 3  för 89 kr
+- Jämförpris: Jfr pris 1.29 kr/tvätt
+
+## Chia God 6-Pack - HATTING, 360G
+- Erbjudande: Kampanj 26 kr
+- Jämförpris: Jfr pris 74.86 kr/kg
+
+## Margarin Original Växtbaserat - FLORA, 600G
 - Erbjudande: Kampanj 29 kr
-- Jämförpris: Jfr pris 29.95 kr/kg
+- Jämförpris: Jfr pris 49.92 kr/kg
 
-## Granola Choc-Go Bananas - START!, 500G
-- Erbjudande: Kampanj 34 kr
-- Jämförpris: Jfr pris 69.90 kr/kg
+## Kycklingbröst I Basilikasås - GOOH!, 400G
+- Erbjudande: 2  för 125 kr
+- Jämförpris: Jfr pris 156.25 kr/kg
 
-## Pasta Tortelloni Arrabbiata - GARANT, 250G
-- Erbjudande: PRIO-pris 69 kr
-- Jämförpris: Jfr pris 92.00 kr/kg
+## Fruktdryck Drakfrukt/Guava/Calamansi - PROVIVA, 1L
+- Erbjudande: Kampanj 27 kr
+- Jämförpris: Jfr pris 27.95 kr/l
 
-## Port Salut Familjefavoriter 26% - ARLA, CA 750G
-- Erbjudande: Kampanj 99 kr
-- Jämförpris: Jfr pris 99.95 kr/kg
-
-## Cuba Cola Zero - CUBA COLA, 33CL
-- Erbjudande: 20  för 89 kr
-- Jämförpris: Jfr pris 13.48 kr/l
-
-## Emilskinka Kokt - PÄRSONS, 120G, SVENSK KÖTTRÅVARA
-- Erbjudande: 2  för 45 kr
-- Jämförpris: Jfr pris 187.50 kr/kg
-
-## Vitlöksbiff - BUTIKSSTYCKAT SVENSKT KÖTT, CA500G
+## Skrei-Torsk Hel - LERÖY, CA3KG
 - Erbjudande: Kampanj 179 kr
 - Jämförpris: Jfr pris 179.00 kr/kg
 
-## Lyxbåt - MANUELL DELIKATESS, CA500G
-- Erbjudande: Kampanj 89 kr
-- Jämförpris: Jfr pris 179.54 kr/kg
+## Q10 Power Night Cream Sensitive Skin - NIVEA, 50ML
+- Erbjudande: Kampanj 109 kr
+- Jämförpris: Jfr pris 2180.00 kr/l
 
-## Wienerlängd - CITY GROSS, CA285G
-- Erbjudande: PRIO-pris 29 kr
-- Jämförpris: Jfr pris 105.09 kr/kg
+## Matlåda Glas - FIXA, 1000ML
+- Erbjudande: Kampanj 59 kr
+- Jämförpris: Jfr pris 59.95 kr/st
 
-## Juice Äpple/Ananas/Kiwi/Lime - GARANT, 1L
-- Erbjudande: Kampanj 29 kr
-- Jämförpris: Jfr pris 29.95 kr/l
-
-## Nötmix Smakfull - GÅRDSNÖTTER, 140G
-- Erbjudande: Kampanj 24 kr
-- Jämförpris: Jfr pris 178.21 kr/kg
-
-## Cheez Doodles - OLW, 160G
-- Erbjudande: Klipp! 14 kr
-- Jämförpris: Jfr pris 93.44 kr/kg
-
-## Yoghurt Skogsbär 2,0% Laktosfri - YOGGI, 1KG
-- Erbjudande: Kampanj 29 kr
-- Jämförpris: Jfr pris 29.95 kr/kg
-
-## Pasta Tortelloni Al Formaggi - GARANT, 250G
-- Erbjudande: PRIO-pris 69 kr
-- Jämförpris: Jfr pris 92.00 kr/kg
-
-## Granola Crazelnut Crunch - START!, 500G
-- Erbjudande: Kampanj 34 kr
-- Jämförpris: Jfr pris 69.90 kr/kg
-
-## Kycklingklubbor Grillade - KRONFÅGEL, CA500G
-- Erbjudande: Kampanj 69 kr
-- Jämförpris: Jfr pris 69.95 kr/kg
-
-## Tulpaner 7-Pack - BLOMSTERBODA, 7P
-- Erbjudande: 2  för 99 kr
-
-## Edamer Familjefavoriter 23% - ARLA, CA1,2KG
-- Erbjudande: Kampanj 99 kr
-- Jämförpris: Jfr pris 99.95 kr/kg
-
-## Tulpaner 7-Pack - BLOMSTERBODA, 7P
-- Erbjudande: 2  för 99 kr
-
-## Sportlunch Stycksak Dubbel - CLOETTA, 50G
-- Erbjudande: Kampanj 9 kr
-- Jämförpris: Jfr pris 199.00 kr/kg
-
-## Kebabgyros - JOJJEN, 350G
-- Erbjudande: Kampanj 49 kr
-- Jämförpris: Jfr pris 142.71 kr/kg
-
-## Tikka Masala Sås - PATAK'S, 500G
+## Pizza Tradizionale Quattro Formaggi, Fryst - DR. OETKER, 380G
 - Erbjudande: Kampanj 39 kr
-- Jämförpris: Jfr pris 79.90 kr/kg
+- Jämförpris: Jfr pris 105.13 kr/kg
 
-## Gränges Sleek Lättöl 2,1% Burk - GRÄNGESBERG, 33CL
-- Erbjudande: 20  för 89 kr
-- Jämförpris: Jfr pris 13.48 kr/l
+## Fruktdryck Blåbär Utan Tillsatt Socker - PROVIVA, 1L
+- Erbjudande: Kampanj 27 kr
+- Jämförpris: Jfr pris 27.95 kr/l
 
-## Pasta Ravioli Svamp - GARANT, 250G
-- Erbjudande: PRIO-pris 69 kr
-- Jämförpris: Jfr pris 92.00 kr/kg
+## Rågare - CITY GROSS, CA55G
+- Erbjudande: PRIO-pris 39 kr
+- Jämförpris: Jfr pris 70.91 kr/kg
 
-## Yoghurt Madagaskar Vanilj 2,0% Laktosfri - YOGGI, 1KG
+## Tandborste Barn Smiles +6 År - COLGATE, 1ST
+- Erbjudande: 2  för 28 kr
+- Jämförpris: Jfr pris 14.00 kr/st
+
+## Tvättmedel Flytande Vit - A+, 880ML
+- Erbjudande: 3  för 89 kr
+- Jämförpris: Jfr pris 1.35 kr/tvätt
+
+## Blöjor Megapack Comfort S4 7-12kg - LIBERO, 74P
+- Erbjudande: PRIO-pris 149 kr
+- Jämförpris: Jfr pris 2.01 kr/st
+
+## Fruktdryck Apelsin/Mango Utan Tillsatt Socker - PROVIVA, 1L
+- Erbjudande: Kampanj 27 kr
+- Jämförpris: Jfr pris 27.95 kr/l
+
+## Magarin Gold 75% - BECEL, 550G
 - Erbjudande: Kampanj 29 kr
-- Jämförpris: Jfr pris 29.95 kr/kg
+- Jämförpris: Jfr pris 54.45 kr/kg
 
-## Chips Gräddfil & Ramslök - GOTLANDSCHIPS, 180G
-- Erbjudande: Klipp! 14 kr
-- Jämförpris: Jfr pris 83.06 kr/kg
+## Q10 Day Cream Sensitive Skin SPF 15 - NIVEA, 50ML
+- Erbjudande: Kampanj 109 kr
+- Jämförpris: Jfr pris 2180.00 kr/l
 
-## Kalkonsalami - PÄRSONS, 100G, EU-RÅVARA
-- Erbjudande: 2  för 45 kr
-- Jämförpris: Jfr pris 225.00 kr/kg
-
-## Granola Raspberrylicious Pie - START!, 500G
-- Erbjudande: Kampanj 34 kr
-- Jämförpris: Jfr pris 69.90 kr/kg
-
-## Humlan Familjefavoriter EKO KRAV - ARLA, CA1,2KG
-- Erbjudande: Kampanj 99 kr
-- Jämförpris: Jfr pris 99.95 kr/kg
-
-## Kanellängd - CITY GROSS, 340G
-- Erbjudande: PRIO-pris 29 kr
-- Jämförpris: Jfr pris 88.09 kr/kg
-
-## Nötmix Krispig - GÅRDSNÖTTER, 140G
-- Erbjudande: Kampanj 24 kr
-- Jämförpris: Jfr pris 178.21 kr/kg
-
-## Taco Chicken - JOJJEN, 350G
-- Erbjudande: Kampanj 49 kr
-- Jämförpris: Jfr pris 142.71 kr/kg
-
-## Pasta Tortelloni Aubergine - GARANT, 250G
-- Erbjudande: PRIO-pris 69 kr
-- Jämförpris: Jfr pris 92.00 kr/kg
-
-## Thermosmugg Med Sugrör Grön - SENSO KITCHEN, 1ST
-- Erbjudande: Klipp! 129 kr
-- Jämförpris: Jfr pris 129.00 kr/st
-
-## Blåmögelost Ädel Special 45% - KVIBILLE, 140G
-- Erbjudande: Kampanj 29 kr
-- Jämförpris: Jfr pris 213.93 kr/kg
-
-## Korma Sås - PATAK'S, 500G
+## Pizza Tradizionale Pancetta, Fryst - DR. OETKER, 390G
 - Erbjudande: Kampanj 39 kr
-- Jämförpris: Jfr pris 79.90 kr/kg
+- Jämförpris: Jfr pris 102.44 kr/kg
 
-## Guldnougat Stycksak Dubbel - CLOETTA, 50G
-- Erbjudande: Kampanj 9 kr
-- Jämförpris: Jfr pris 199.00 kr/kg
+## Fruktdryck Fläderblom/Äpple/Lime Utan Tillsatt Socker - PROVIVA, 1L
+- Erbjudande: Kampanj 27 kr
+- Jämförpris: Jfr pris 27.95 kr/l
 
-## Salami Chorizo - MANUELL DELIKATESS, CA 150G
-- Erbjudande: Kampanj 219 kr
-- Jämförpris: Jfr pris 219.50 kr/kg
+## Ostfralla - CITY GROSS, 65G
+- Erbjudande: PRIO-pris 39 kr
+- Jämförpris: Jfr pris 58.21 kr/kg
 
-## Juice Äpple/Fläder Utan Fruktkött - GARANT, 1L
+## Sköljmedel Spring Dawn - NOORA, 928ML
+- Erbjudande: 3  för 89 kr
+- Jämförpris: Jfr pris 0.51 kr/tvätt
+
+## Blöjor Megapack Up&Go S5 9-14kg - LIBERO, 54P
+- Erbjudande: PRIO-pris 149 kr
+- Jämförpris: Jfr pris 2.76 kr/st
+
+## Margarin Extrasaltat Växtbaserat - FLORA, 600G
 - Erbjudande: Kampanj 29 kr
-- Jämförpris: Jfr pris 29.95 kr/l
+- Jämförpris: Jfr pris 49.92 kr/kg
 
-## Vårlilja I Kruka - BLOMSTERBODA, 1ST
-- Erbjudande: Klipp! 29 kr
+## Dagkräm Q10 Pore Refining - NIVEA, 50ML
+- Erbjudande: Kampanj 79 kr
+- Jämförpris: Jfr pris 1599.00 kr/l
 
-## Granola Russin - START!, 750G
-- Erbjudande: Kampanj 34 kr
-- Jämförpris: Jfr pris 46.60 kr/kg
+## Pizza Tradizionale Diavol Calabrese, Fryst - DR. OETKER, 360G
+- Erbjudande: Kampanj 39 kr
+- Jämförpris: Jfr pris 110.97 kr/kg
 
-## Storsjö Familjefavoriter 31% - ARLA, CA1,2KG
-- Erbjudande: Kampanj 99 kr
-- Jämförpris: Jfr pris 99.95 kr/kg
+## Rågare - CITY GROSS, 65G
+- Erbjudande: PRIO-pris 39 kr
+- Jämförpris: Jfr pris 60.00 kr/kg
 
-## Vitlöksbiff Storpack - BUTIKSSTYCKAT SVENSKT KÖTT, CA1,2KG
-- Erbjudande: Kampanj 179 kr
-- Jämförpris: Jfr pris 179.00 kr/kg
+## Tandkräm Barn +6 År - COLGATE, 50ML
+- Erbjudande: 2  för 28 kr
+- Jämförpris: Jfr pris 280.00 kr/l
 
-## Pistagelängd - CITY GROSS, 340G
-- Erbjudande: PRIO-pris 29 kr
-- Jämförpris: Jfr pris 88.09 kr/kg
+## Tvättmedel Flytande Vit Refill - A+, 920ML
+- Erbjudande: 3  för 89 kr
+- Jämförpris: Jfr pris 1.29 kr/tvätt
 
-## Yoghurt Jordgubb/Vanilj 2,0% Laktosfri - YOGGI, 1KG
+## Blöjor Megapack Up&Go S6 13-20kg - LIBERO, 50P
+- Erbjudande: PRIO-pris 149 kr
+- Jämförpris: Jfr pris 2.98 kr/st
+
+## Flora Plant B*tter Normalsaltat - FLORA, 600G
 - Erbjudande: Kampanj 29 kr
-- Jämförpris: Jfr pris 29.95 kr/kg
+- Jämförpris: Jfr pris 49.92 kr/kg
 
-## Kastrull 0,7L - MASTER, 1ST
-- Erbjudande: Kampanj 119 kr
+## Q10 + C Night Cream - NIVEA, 50ML
+- Erbjudande: Kampanj 109 kr
+- Jämförpris: Jfr pris 2180.00 kr/l
 
-## Center Stycksak Dubbel - CLOETTA, 50G
-- Erbjudande: Kampanj 9 kr
-- Jämförpris: Jfr pris 199.00 kr/kg
+## Rågfralla - CITY GROSS, CA55G
+- Erbjudande: PRIO-pris 39 kr
+- Jämförpris: Jfr pris 70.91 kr/kg
 
-## Granola Hasselnöt - START!, 750G
-- Erbjudande: Kampanj 34 kr
-- Jämförpris: Jfr pris 46.60 kr/kg
+## Tandborste Barn Smiles 2-6 År - COLGATE, 1ST
+- Erbjudande: 2  för 28 kr
+- Jämförpris: Jfr pris 14.00 kr/st
 
-## Jämtgård Familjefavoriter 28% - ARLA, CA1,2KG
-- Erbjudande: Kampanj 99 kr
-- Jämförpris: Jfr pris 99.95 kr/kg
+## Tvättmedel Pulver Kulör - A+, 700G
+- Erbjudande: 3  för 89 kr
+- Jämförpris: Jfr pris 1.41 kr/tvätt
 
-## Pepparbiff Storpack - BUTIKSSTYCKAT SVENSKT KÖTT, CA1,2KG
+## Blöjor Megapack Comfort S6 13-20kg - LIBERO, 64P
+- Erbjudande: PRIO-pris 149 kr
+- Jämförpris: Jfr pris 2.33 kr/st
+
+## Flora Plant B*tter Havssalt - FLORA, 600G
+- Erbjudande: Kampanj 29 kr
+- Jämförpris: Jfr pris 49.92 kr/kg
+
+## Eye Cream Q10 Power - NIVEA, 15ML
+- Erbjudande: Kampanj 79 kr
+- Jämförpris: Jfr pris 5330.00 kr/l
+
+## Tandkräm Sensitive Multiprotection - COLGATE, 75ML
+- Erbjudande: 2  för 28 kr
+- Jämförpris: Jfr pris 186.67 kr/l
+
+## Sköljmedel Royal Orchid - NOORA, 928ML
+- Erbjudande: 3  för 89 kr
+- Jämförpris: Jfr pris 0.51 kr/tvätt
+
+## Day Cream Q10 Power SPF15 - NIVEA, 50ML
+- Erbjudande: Kampanj 79 kr
+- Jämförpris: Jfr pris 1599.00 kr/l
+
+## Tandkräm Barn 0-5 År - COLGATE, 50ML
+- Erbjudande: 2  för 28 kr
+- Jämförpris: Jfr pris 280.00 kr/l
+
+## Sköljmedel Emerald/White Flowers - NOORA, 928ML
+- Erbjudande: 3  för 89 kr
+- Jämförpris: Jfr pris 0.51 kr/tvätt
+
+## Flora & Smör Havssalt 70% - FLORA, 500G
+- Erbjudande: Kampanj 29 kr
+- Jämförpris: Jfr pris 59.90 kr/kg
+
+## Day Cream Q10 Energy SPF 15 - NIVEA, 50ML
+- Erbjudande: Kampanj 109 kr
+- Jämförpris: Jfr pris 2180.00 kr/l
+
+## Tandborste Twister Soft - COLGATE, 1P
+- Erbjudande: 2  för 28 kr
+- Jämförpris: Jfr pris 14.00 kr/st
+
+## Sköljmedel Peony Blossom - NOORA, 928ML
+- Erbjudande: 3  för 89 kr
+- Jämförpris: Jfr pris 0.51 kr/tvätt
+
+## Day Cream Q10 Power SPF 30 - NIVEA, 50ML
+- Erbjudande: Kampanj 109 kr
+- Jämförpris: Jfr pris 2180.00 kr/l
+
+## Tandborste First Smiles 0-2 År - COLGATE, 1P
+- Erbjudande: 2  för 28 kr
+- Jämförpris: Jfr pris 14.00 kr/st
+
+## Tvättmedel Pulver Vit - A+, 700G
+- Erbjudande: 3  för 89 kr
+- Jämförpris: Jfr pris 1.41 kr/tvätt
+
+## Tandborste Twister Medium - COLGATE, 1ST
+- Erbjudande: 2  för 28 kr
+- Jämförpris: Jfr pris 14.00 kr/st
+
+## Tvättmedel Pulver Kulör Sensitive - A+, 700G
+- Erbjudande: 3  för 89 kr
+- Jämförpris: Jfr pris 1.41 kr/tvätt
+
+## Tandkräm Tandstenskontroll - COLGATE, 75ML
+- Erbjudande: 2  för 28 kr
+- Jämförpris: Jfr pris 186.67 kr/l
+
+## Spareribs Sweet & Smokey - TULIP, 500G
+- Erbjudande: Kampanj 64 kr
+- Jämförpris: Jfr pris 129.90 kr/kg
+
+## Kinder Surprise - KINDER, 20G
+- Erbjudande: 2  för 22 kr
+- Jämförpris: Jfr pris 550.00 kr/kg
+
+## Pärontårta 6-8 Portioner - CITY GROSS, CA785G
+- Erbjudande: Kampanj 169 kr
+- Jämförpris: Jfr pris 214.20 kr/kg
+
+## Pepparpastrami Grillad - JOJJEN, CA150G
 - Erbjudande: Kampanj 179 kr
-- Jämförpris: Jfr pris 179.00 kr/kg
-
-## Kardemummalängd - CITY GROSS, 350G
-- Erbjudande: PRIO-pris 29 kr
-- Jämförpris: Jfr pris 85.57 kr/kg
-
-## Thermosmugg Med Sugrör Vit - 1ST
-- Erbjudande: Klipp! 129 kr
-- Jämförpris: Jfr pris 129.00 kr/st
-
-## Tarragona Stycksak Dubbel - CLOETTA, 50G
-- Erbjudande: Kampanj 9 kr
-- Jämförpris: Jfr pris 199.00 kr/kg
-
-## Vaniljlängd Blåbär - CITY GROSS, 340G
-- Erbjudande: PRIO-pris 29 kr
-- Jämförpris: Jfr pris 88.09 kr/kg
-
-## Gryta Med Glaslock 5l - MASTER, 1ST
-- Erbjudande: Kampanj 249 kr
-
-## Wienerlängd Tosca - CITY GROSS, 315G
-- Erbjudande: PRIO-pris 29 kr
-- Jämförpris: Jfr pris 90.76 kr/kg
-
-## Kastrull Med Glaslock, 1,5L - MASTER, 1ST
-- Erbjudande: Kampanj 139 kr
-
-## Ljusduellen - CAPTECH, 1ST
-- Erbjudande: Kampanj 499 kr
-- Jämförpris: Jfr pris 499.00 kr/st
+- Jämförpris: Jfr pris 179.50 kr/kg
 
