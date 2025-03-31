@@ -1,1120 +1,560 @@
-# Lidl Erbjudanden 2025-03-24
+# Lidl Erbjudanden 2025-03-31
 
 ## Veckans frukt & grönt
-_24/3-30/3_
+_31/3-6/4_
 
-## Stjälkselleri
-- Erbjudande: MINST -25%
+## Bananer
+- Erbjudande: MINST -21%
 - Pris: 14.90 kr
+- Jämförpris: /kg
 
-## Zucchini
-- Erbjudande: MINST -33%
+## Klementiner Ortanique
+- Erbjudande: 1,5 KG!
+- Pris: 24.90 kr
+
+## Plommontomater
+- Erbjudande: SUPERPRIS!
+- Pris: 29.90 kr
+
+## Spenat
+- Erbjudande: SUPERPRIS!
+- Pris: 29.90 kr
+
+## Potatis
+- Erbjudande: -33%
 - Pris: 9.90 kr
-- Jämförpris: /st
-
-## Röda äpplen
-- Erbjudande: 2,5 KG!
-- Pris: 39.90 kr
+- Jämförpris: /kg
 
 ## Citroner
-- Erbjudande: 1 KG!
-- Pris: 19.90 kr
-
-## Stjälkselleri
-- Erbjudande: MINST -25%
-- Pris: 14.90 kr
-
-## Zucchini
-- Erbjudande: MINST -33%
+- Erbjudande: -23%
 - Pris: 9.90 kr
-- Jämförpris: /st
+- Jämförpris: 500 g
 
-## Röda äpplen
-- Erbjudande: 2,5 KG!
-- Pris: 39.90 kr
+## Gröna druvor
+- Erbjudande: -20%
+- Pris: 49.90 kr
+- Jämförpris: /kg
 
-## Citroner
-- Erbjudande: 1 KG!
+## Jordgubbar
+- Erbjudande: SUPERPRIS!
+- Pris: 29.90 kr
+
+## Premium tomat
+- Erbjudande: SUPERPRIS!
 - Pris: 19.90 kr
+
+## Blåbär
+- Erbjudande: SUPERPRIS!
+- Pris: 49.90 kr
+
+## Bladpersilja
+- Erbjudande: -23%
+- Pris: 19.90 kr
+- Jämförpris: 250 g/förp.
+
+## Sallad Gentile
+- Erbjudande: SUPERPRIS!
+- Pris: 14.90 kr
+- Jämförpris: /st
 
 ## Måndag-söndag
-_24/3-30/3_
+_31/3-6/4_
 
-## Magnum mini /GB glass
-- Erbjudande: 3 FÖR:
-- Pris: 89:- kr
-- Jämförpris: 6×100 ml
-
-## Liba bröd
-- Erbjudande: 6 FÖR:
-- Pris: 39:- kr
-- Jämförpris: 340 g/förp.
-
-## Stjälkselleri
-- Erbjudande: MINST -25%
+## Bananer
+- Erbjudande: MINST -21%
 - Pris: 14.90 kr
+- Jämförpris: /kg
 
-## Zucchini
-- Erbjudande: MINST -33%
-- Pris: 9.90 kr
-- Jämförpris: /st
-
-## Röda äpplen
-- Erbjudande: 2,5 KG!
-- Pris: 39.90 kr
-
-## Citroner
-- Erbjudande: 1 KG!
-- Pris: 19.90 kr
-
-## Äkta svensk prinskorv
-- Erbjudande: PRISPRESSAT!
-- Pris: 37.90 kr
-- Jämförpris: 600 g
-
-## Kronfågel färsk kycklingfärs
+## Färsk kycklingfilé/-lårfilé
 - Erbjudande: SUPERPRIS!
-- Pris: 59.90 kr
+- Pris: 99:- kr
+- Jämförpris: /kg
 
-## Jojjen ribs
+## Cottage cheese
+- Erbjudande: -27 %
+- Pris: 23.90 kr
+- Jämförpris: 500 g
+
+## Klementiner Ortanique
+- Erbjudande: 1,5 KG!
+- Pris: 24.90 kr
+
+## Spenat
 - Erbjudande: SUPERPRIS!
-- Pris: 54.90 kr
+- Pris: 29.90 kr
 
-## Färska kycklingben
-- Erbjudande: STORPACK!
-- Pris: 49.90 kr
+## Plommontomater
+- Erbjudande: SUPERPRIS!
+- Pris: 29.90 kr
 
-## Kronfågel färsk kycklingsteak
+## Jordgubbar
+- Erbjudande: SUPERPRIS!
+- Pris: 29.90 kr
+
+## Färsk blandfärs
 - Erbjudande: SUPERPRIS!
 - Pris: 79.90 kr
 - Jämförpris: /kg
 
-## Färskkorv
-- Erbjudande: -26%
-- Pris: 29.90 kr
-- Jämförpris: 320 g
-
-## Leröy varmrökt regnbågslax
+## Färsk högrevsfärs
 - Erbjudande: SUPERPRIS!
-- Pris: 199:- kr
+- Pris: 69.90 kr
+
+## Färsk skinkstek
+- Erbjudande: SUPERPRIS!
+- Pris: 69.90 kr
 - Jämförpris: /kg
 
-## Färsk fläskkarré
-- Erbjudande: -20%
-- Pris: 54.90 kr
-- Jämförpris: 700 g
+## Pulled pork
+- Erbjudande: PRISPRESSAT!
+- Pris: 48.90 kr
+- Jämförpris: 550 g
 
-## Ciabatta
-- Erbjudande: 2 FÖR:
-- Pris: 22:- kr
-- Jämförpris: 300 g/st
-
-## Vanilla stick
-- Erbjudande: 4 FÖR:
-- Pris: 25:- kr
-- Jämförpris: 95 g/st
-
-## Brezel
-- Erbjudande: 4 FÖR:
-- Pris: 19:- kr
-- Jämförpris: 95 g/st
-
-## Simit sesamring
-- Erbjudande: SUPERPRIS!
-- Pris: 9.90 kr
-
-## Pågen veckans toast
-- Erbjudande: SUPERPRIS!
-- Pris: 19.90 kr
-
-## Arla yoghurtkvarg
-- Erbjudande: SUPERPRIS!
-- Pris: 27.90 kr
-
-## Paulúns granola
-- Erbjudande: UPP TILL -25%
-- Pris: 39.90 kr
-- Jämförpris: 450 g
-
-## Arboga skivbar leverpastej
-- Erbjudande: SUPERPRIS!
-- Pris: 24.90 kr
-
-## Lönneberga pålägg
+## Grekiskt lantbröd
 - Erbjudande: -26%
-- Pris: 19.90 kr
-- Jämförpris: 90 g, 105 g
+- Pris: 21.90 kr
+- Jämförpris: 560 g
 
-## Falbygdens® vällagrad ost
+## Ostfralla
+- Erbjudande: 5 FÖR:
+- Pris: 25:- kr
+- Jämförpris: 80 g/st
+
+## Pain au chocolat
+- Erbjudande: 2 FÖR:
+- Pris: 15:- kr
+- Jämförpris: 70 g/st
+
+## Franskbröd
+- Erbjudande: -28%
+- Pris: 9.90 kr
+- Jämförpris: 300 g
+
+## Cheddar
 - Erbjudande: SUPERPRIS!
 - Pris: 129:- kr
 - Jämförpris: /kg
 
-## Kronfågel kycklingfilé
-- Erbjudande: 2 KILO!
-- Pris: 169:- kr
-
-## Lithells hots
-- Erbjudande: 2 FÖR:
-- Pris: 28:- kr
-- Jämförpris: 400 g
-
-## Skånemejerier chokladmjölk 1,5%
+## Svenskt bacon
 - Erbjudande: SUPERPRIS!
-- Pris: 24.90 kr
-
-## Solrosolja
-- Erbjudande: 2 LITER!
-- Pris: 49.90 kr
-
-## Ristorante pizza
-- Erbjudande: 2-PACK!
-- Pris: 59.90 kr
-
-## Läsk
-- Erbjudande: 2 FÖR:
-- Pris: 39:- kr
-
-## MSC räkor i lake
-- Erbjudande: STORPACK!
-- Pris: 74.90 kr
-- Jämförpris: 800 g
-
-## Felix gulaschsoppa
-- Erbjudande: 2 FÖR:
-- Pris: 75:- kr
-- Jämförpris: 560 g/förp.
-
-## Felix såser
-- Erbjudande: SUPERPRIS!
-- Pris: 24.90 kr
-
-## Red bull energidryck
-- Erbjudande: 3 FÖR:
-- Pris: 33:- kr
-- Jämförpris: 25 cl/förp.
-
-## Magnum mini /GB glass
-- Erbjudande: 3 FÖR:
-- Pris: 89:- kr
-- Jämförpris: 6×100 ml
-
-## Liba bröd
-- Erbjudande: 6 FÖR:
-- Pris: 39:- kr
-- Jämförpris: 340 g/förp.
-
-## Stjälkselleri
-- Erbjudande: MINST -25%
 - Pris: 14.90 kr
 
-## Zucchini
-- Erbjudande: MINST -33%
-- Pris: 9.90 kr
-- Jämförpris: /st
+## Färskost
+- Erbjudande: SUPERPRIS!
+- Pris: 17.90 kr
 
-## Röda äpplen
-- Erbjudande: 2,5 KG!
-- Pris: 39.90 kr
+## Mjukost i ask
+- Erbjudande: SUPERPRIS!
+- Pris: 34.90 kr
 
-## Citroner
-- Erbjudande: 1 KG!
-- Pris: 19.90 kr
-
-## Äkta svensk prinskorv
+## Laktosfri mellanmjölkdryck
 - Erbjudande: PRISPRESSAT!
-- Pris: 37.90 kr
-- Jämförpris: 600 g
+- Pris: 20.90 kr
+- Jämförpris: 1,5 l
 
-## Kronfågel färsk kycklingfärs
-- Erbjudande: SUPERPRIS!
-- Pris: 59.90 kr
+## Skivad skinka
+- Erbjudande: -22%
+- Pris: 34.90 kr
+- Jämförpris: 280 g
 
-## Jojjen ribs
-- Erbjudande: SUPERPRIS!
-- Pris: 54.90 kr
-
-## Färska kycklingben
-- Erbjudande: STORPACK!
-- Pris: 49.90 kr
-
-## Kronfågel färsk kycklingsteak
+## Kycklingkebab
 - Erbjudande: SUPERPRIS!
 - Pris: 79.90 kr
-- Jämförpris: /kg
 
-## Färskkorv
-- Erbjudande: -26%
+## Kycklingvingar/- ben
+- Erbjudande: -22%
+- Pris: 26.90 kr
+- Jämförpris: 1 kg
+
+## Stockholmare
+- Erbjudande: SUPERPRIS!
 - Pris: 29.90 kr
-- Jämförpris: 320 g
 
-## Leröy varmrökt regnbågslax
-- Erbjudande: SUPERPRIS!
-- Pris: 199:- kr
-- Jämförpris: /kg
-
-## Färsk fläskkarré
-- Erbjudande: -20%
-- Pris: 54.90 kr
-- Jämförpris: 700 g
-
-## Ciabatta
-- Erbjudande: 2 FÖR:
-- Pris: 22:- kr
-- Jämförpris: 300 g/st
-
-## Vanilla stick
-- Erbjudande: 4 FÖR:
-- Pris: 25:- kr
-- Jämförpris: 95 g/st
-
-## Brezel
-- Erbjudande: 4 FÖR:
-- Pris: 19:- kr
-- Jämförpris: 95 g/st
-
-## Simit sesamring
-- Erbjudande: SUPERPRIS!
-- Pris: 9.90 kr
-
-## Pågen veckans toast
+## Isterband
 - Erbjudande: SUPERPRIS!
 - Pris: 19.90 kr
 
-## Arla yoghurtkvarg
+## Pumpakärnor
 - Erbjudande: SUPERPRIS!
-- Pris: 27.90 kr
+- Pris: 79.90 kr
 
-## Paulúns granola
-- Erbjudande: UPP TILL -25%
-- Pris: 39.90 kr
-- Jämförpris: 450 g
-
-## Arboga skivbar leverpastej
-- Erbjudande: SUPERPRIS!
+## Mandelmjöl
+- Erbjudande: -24%
 - Pris: 24.90 kr
+- Jämförpris: 200 g
 
-## Lönneberga pålägg
-- Erbjudande: -26%
-- Pris: 19.90 kr
-- Jämförpris: 90 g, 105 g
-
-## Falbygdens® vällagrad ost
-- Erbjudande: SUPERPRIS!
-- Pris: 129:- kr
-- Jämförpris: /kg
-
-## Kronfågel kycklingfilé
-- Erbjudande: 2 KILO!
-- Pris: 169:- kr
-
-## Lithells hots
-- Erbjudande: 2 FÖR:
-- Pris: 28:- kr
-- Jämförpris: 400 g
-
-## Skånemejerier chokladmjölk 1,5%
-- Erbjudande: SUPERPRIS!
-- Pris: 24.90 kr
-
-## Solrosolja
-- Erbjudande: 2 LITER!
+## Glassbåt
+- Erbjudande: STORPACK!
 - Pris: 49.90 kr
 
-## Ristorante pizza
-- Erbjudande: 2-PACK!
-- Pris: 59.90 kr
-
-## Läsk
+## Snacks
 - Erbjudande: 2 FÖR:
-- Pris: 39:- kr
+- Pris: 35:- kr
+- Jämförpris: 175 g/förp.
 
-## MSC räkor i lake
+## Blandsaft
+- Erbjudande: PRISPRESSAT!
+- Pris: 21.90 kr
+- Jämförpris: 1 l
+
+## Flytande tvättmedel kulörtvätt
 - Erbjudande: STORPACK!
-- Pris: 74.90 kr
-- Jämförpris: 800 g
+- Pris: 89.90 kr
 
-## Felix gulaschsoppa
-- Erbjudande: 2 FÖR:
-- Pris: 75:- kr
-- Jämförpris: 560 g/förp.
-
-## Felix såser
-- Erbjudande: SUPERPRIS!
-- Pris: 24.90 kr
-
-## Red bull energidryck
-- Erbjudande: 3 FÖR:
-- Pris: 33:- kr
-- Jämförpris: 25 cl/förp.
+## Toalettpapper
+- Erbjudande: 18-PACK!
+- Pris: 89.90 kr
 
 ## Torsdag-söndag
-_27/3-30/3_
+_3/4-6/4_
 
-## Schysst käk kebabsås vitlök
-- Erbjudande: STORPACK!
+## Marinerade spareribs
+- Erbjudande: PRISPRESSAT!
+- Pris: 64.90 kr
+- Jämförpris: /kg (Ca 1,3 kg)
+
+## Marinerad kycklingbröstfilé
+- Erbjudande: PRISPRESSAT!
+- Pris: 89.90 kr
+- Jämförpris: 700 g
+
+## Potatissallad
+- Erbjudande: SUPERPRIS!
 - Pris: 34.90 kr
 
-## Schysst käk klassisk kebab
-- Erbjudande: STORPACK!
-- Pris: 69.90 kr
-
-## Zeina’s falafel
-- Erbjudande: -20%
-- Pris: 27.90 kr
-- Jämförpris: 400 g
-
-## Hamburgare
-- Erbjudande: -20%
-- Pris: 39.90 kr
-- Jämförpris: 454 g
-
-## Filodegssnurra
-- Erbjudande: -25%
-- Pris: 44.90 kr
-- Jämförpris: 1 kg
-
-## Vidal godis-/ remmar & stänger
+## Ostbricka
 - Erbjudande: SUPERPRIS!
+- Pris: 79.90 kr
+
+## Glassås
+- Erbjudande: -20%
+- Pris: 19.90 kr
+- Jämförpris: 300 g
+
+## Pizza
+- Erbjudande: 2 FÖR:
+- Pris: 69:- kr
+- Jämförpris: 350 g/förp.
+
+## Kryddade potatisklyftor
+- Erbjudande: -22%
+- Pris: 16.90 kr
+- Jämförpris: 750 g
+
+## Kycklingnuggets
+- Erbjudande: -21%
+- Pris: 42.90 kr
+- Jämförpris: 500 g
+
+## Deluxe proteinbar
+- Erbjudande: 2 FÖR:
+- Pris: 32:- kr
+- Jämförpris: 80 g/förp.
+
+## Premium tomat
+- Erbjudande: SUPERPRIS!
+- Pris: 19.90 kr
+
+## Blåbär
+- Erbjudande: SUPERPRIS!
+- Pris: 49.90 kr
+
+## Bladpersilja
+- Erbjudande: -23%
+- Pris: 19.90 kr
+- Jämförpris: 250 g/förp.
+
+## Sallad Gentile
+- Erbjudande: SUPERPRIS!
+- Pris: 14.90 kr
+- Jämförpris: /st
+
+## Smaker från Grekland
+_31/3-6/4_
+
+## Smårätter i konserv
+- Erbjudande: FRÅN:
 - Pris: 22.90 kr
 
-## Fruktkarameller
-- Erbjudande: 2 FÖR:
-- Pris: 49:- kr
-- Jämförpris: 500 g/förp.
-
-## Krossade tomater
-- Erbjudande: 12 FÖR:
-- Pris: 99:- kr
-- Jämförpris: 425 ml/förp.
-
-## Hallon
-- Erbjudande: 2 FÖR:
-- Pris: 59:- kr
-- Jämförpris: 500 g/förp.
-
-## Hamburgerbröd
-- Erbjudande: 2 FÖR:
-- Pris: 25:- kr
-- Jämförpris: 300 g/förp.
-
-## Äppelnektar
-- Erbjudande: 6 FÖR:
-- Pris: 109:- kr
-- Jämförpris: 1,5 l/förp.
-
-## Hållbar mjölk
-- Erbjudande: 12 FÖR:
-- Pris: 169:- kr
-- Jämförpris: 1 l/förp.
-
-## Schysst käk kebabsås vitlök
-- Erbjudande: STORPACK!
-- Pris: 34.90 kr
-
-## Schysst käk klassisk kebab
-- Erbjudande: STORPACK!
-- Pris: 69.90 kr
-
-## Zeina’s falafel
-- Erbjudande: -20%
-- Pris: 27.90 kr
-- Jämförpris: 400 g
-
-## Hamburgare
-- Erbjudande: -20%
-- Pris: 39.90 kr
-- Jämförpris: 454 g
-
-## Filodegssnurra
-- Erbjudande: -25%
-- Pris: 44.90 kr
-- Jämförpris: 1 kg
-
-## Vidal godis-/ remmar & stänger
-- Erbjudande: SUPERPRIS!
-- Pris: 22.90 kr
-
-## Fruktkarameller
-- Erbjudande: 2 FÖR:
-- Pris: 49:- kr
-- Jämförpris: 500 g/förp.
-
-## Krossade tomater
-- Erbjudande: 12 FÖR:
-- Pris: 99:- kr
-- Jämförpris: 425 ml/förp.
-
-## Hallon
-- Erbjudande: 2 FÖR:
-- Pris: 59:- kr
-- Jämförpris: 500 g/förp.
-
-## Hamburgerbröd
-- Erbjudande: 2 FÖR:
-- Pris: 25:- kr
-- Jämförpris: 300 g/förp.
-
-## Äppelnektar
-- Erbjudande: 6 FÖR:
-- Pris: 109:- kr
-- Jämförpris: 1,5 l/förp.
-
-## Hållbar mjölk
-- Erbjudande: 12 FÖR:
-- Pris: 169:- kr
-- Jämförpris: 1 l/förp.
-
-## Njut av världens mat!
-_24/3-30/3_
-
-## Abu Kass basmatiris
-- Erbjudande: 4,5 KILO!
-- Pris: 139:- kr
-
-## Suntat vinbladsdolmar
-- Pris: 26.90 kr
-
-## Proud Farmer lammfiol
-- Erbjudande: SUPERPRIS!
-- Pris: 159:- kr
-- Jämförpris: /kg
-
-## Proud farmer lammgrytbitar
-- Erbjudande: STORPACK!
-- Pris: 99:- kr
-- Jämförpris: /kg
-
-## Lantgården svensk höna
-- Erbjudande: SUPERPRIS!
-- Pris: 34.90 kr
-- Jämförpris: /kg
-
-## Färdigrätter
+## Moussaka
 - Erbjudande: SUPERPRIS!
 - Pris: 39.90 kr
 
-## Pide
-- Erbjudande: SUPERPRIS!
-- Pris: 39.90 kr
-
-## Kamar kycklingmortadella i bit
-- Erbjudande: SUPERPRIS!
-- Pris: 29.90 kr
-
-## Midyat tomatpuré
-- Erbjudande: SUPERPRIS!
-- Pris: 19.90 kr
-
-## Meray dakota solrosfrön
-- Pris: 29.90 kr
-
-## Baklavafabriken turkisk baklava
-- Erbjudande: SUPERPRIS!
-- Pris: 69.90 kr
-
-## Saudiska dadlar
-- Erbjudande: SUPERPRIS!
-- Pris: 29.90 kr
-
-## Manti med nötfärs
-- Erbjudande: SUPERPRIS!
-- Pris: 29.90 kr
-
-## Chechil ost
-- Erbjudande: SUPERPRIS!
-- Pris: 74.90 kr
-
-## Suntat kalkon- & kycklingkorv
-- Erbjudande: SUPERPRIS!
-- Pris: 64.90 kr
-
-## Glass
-- Erbjudande: SUPERPRIS!
-- Pris: 49.90 kr
-
-## Sultanrussin
-- Erbjudande: SUPERPRIS!
-- Pris: 39.90 kr
-
-## Filodegssnurror
-- Erbjudande: SUPERPRIS!
-- Pris: 49.90 kr
-
-## Baklavafabriken lokma qazi
-- Erbjudande: SUPERPRIS!
-- Pris: 39.90 kr
-
-## Tulumba
-- Erbjudande: SUPERPRIS!
-- Pris: 44.90 kr
-
-## Dulano kyckling wienerkorv
-- Erbjudande: SUPERPRIS!
-- Pris: 29.90 kr
-
-## Solrosfrön
-- Erbjudande: SUPERPRIS!
-- Pris: 34.90 kr
-
-## Lazzat bönor/ kikärtor
-- Erbjudande: 2 FÖR:
-- Pris: 22:- kr
-
-## Midyat granatäppelsirap
-- Erbjudande: SUPERPRIS!
-- Pris: 39.90 kr
-
-## Sebahat helva pistage
-- Erbjudande: SUPERPRIS!
-- Pris: 49.90 kr
-
-## Luppo kakor
-- Erbjudande: SUPERPRIS!
-- Pris: 29.90 kr
-
-## Sebahat turkisk delight loukoum
-- Erbjudande: SUPERPRIS!
-- Pris: 19.90 kr
-
-## Clip sesam sticks
-- Erbjudande: SUPERPRIS!
-- Pris: 17.90 kr
-
-## Halva med kakao
-- Erbjudande: SUPERPRIS!
-- Pris: 64.90 kr
-
-## Baklavafabriken baklava
-- Erbjudande: SUPERPRIS!
-- Pris: 49.90 kr
-
-## Gelé
-- Erbjudande: SUPERPRIS!
-- Pris: 24.90 kr
-
-## Abu Kass basmatiris
-- Erbjudande: 4,5 KILO!
-- Pris: 139:- kr
-
-## Suntat vinbladsdolmar
-- Pris: 26.90 kr
-
-## Proud Farmer lammfiol
-- Erbjudande: SUPERPRIS!
-- Pris: 159:- kr
-- Jämförpris: /kg
-
-## Proud farmer lammgrytbitar
-- Erbjudande: STORPACK!
-- Pris: 99:- kr
-- Jämförpris: /kg
-
-## Lantgården svensk höna
-- Erbjudande: SUPERPRIS!
-- Pris: 34.90 kr
-- Jämförpris: /kg
-
-## Färdigrätter
-- Erbjudande: SUPERPRIS!
-- Pris: 39.90 kr
-
-## Pide
-- Erbjudande: SUPERPRIS!
-- Pris: 39.90 kr
-
-## Kamar kycklingmortadella i bit
-- Erbjudande: SUPERPRIS!
-- Pris: 29.90 kr
-
-## Midyat tomatpuré
-- Erbjudande: SUPERPRIS!
-- Pris: 19.90 kr
-
-## Meray dakota solrosfrön
-- Pris: 29.90 kr
-
-## Baklavafabriken turkisk baklava
-- Erbjudande: SUPERPRIS!
-- Pris: 69.90 kr
-
-## Saudiska dadlar
-- Erbjudande: SUPERPRIS!
-- Pris: 29.90 kr
-
-## Manti med nötfärs
-- Erbjudande: SUPERPRIS!
-- Pris: 29.90 kr
-
-## Chechil ost
-- Erbjudande: SUPERPRIS!
-- Pris: 74.90 kr
-
-## Suntat kalkon- & kycklingkorv
-- Erbjudande: SUPERPRIS!
-- Pris: 64.90 kr
-
-## Glass
-- Erbjudande: SUPERPRIS!
-- Pris: 49.90 kr
-
-## Sultanrussin
-- Erbjudande: SUPERPRIS!
-- Pris: 39.90 kr
-
-## Filodegssnurror
-- Erbjudande: SUPERPRIS!
-- Pris: 49.90 kr
-
-## Baklavafabriken lokma qazi
-- Erbjudande: SUPERPRIS!
-- Pris: 39.90 kr
-
-## Tulumba
-- Erbjudande: SUPERPRIS!
-- Pris: 44.90 kr
-
-## Dulano kyckling wienerkorv
-- Erbjudande: SUPERPRIS!
-- Pris: 29.90 kr
-
-## Solrosfrön
-- Erbjudande: SUPERPRIS!
-- Pris: 34.90 kr
-
-## Lazzat bönor/ kikärtor
-- Erbjudande: 2 FÖR:
-- Pris: 22:- kr
-
-## Midyat granatäppelsirap
-- Erbjudande: SUPERPRIS!
-- Pris: 39.90 kr
-
-## Sebahat helva pistage
-- Erbjudande: SUPERPRIS!
-- Pris: 49.90 kr
-
-## Luppo kakor
-- Erbjudande: SUPERPRIS!
-- Pris: 29.90 kr
-
-## Sebahat turkisk delight loukoum
-- Erbjudande: SUPERPRIS!
-- Pris: 19.90 kr
-
-## Clip sesam sticks
-- Erbjudande: SUPERPRIS!
-- Pris: 17.90 kr
-
-## Halva med kakao
-- Erbjudande: SUPERPRIS!
-- Pris: 64.90 kr
-
-## Baklavafabriken baklava
-- Erbjudande: SUPERPRIS!
-- Pris: 49.90 kr
-
-## Gelé
-- Erbjudande: SUPERPRIS!
-- Pris: 24.90 kr
-
-## Smaker från Balkan
-_24/3-30/3_
-
-## Filodegsknyten
-- Erbjudande: SUPERPRIS!
-- Pris: 49.90 kr
-
-## Paprika- & aubergineröra
-- Erbjudande: SUPERPRIS!
-- Pris: 32.90 kr
-
-## Rökt korv
+## Gyros
 - Erbjudande: SUPERPRIS!
 - Pris: 59.90 kr
 
-## Dalmatinsk pancetta
-- Erbjudande: SUPERPRIS!
-- Pris: 179:- kr
-
-## Kajmak
-- Erbjudande: SUPERPRIS!
-- Pris: 32.90 kr
-
-## Pivac revbensspjäll
-- Erbjudande: SUPERPRIS!
-- Pris: 89.90 kr
-- Jämförpris: /kg
-
-## Kroatisk kaka med kakao
-- Erbjudande: SUPERPRIS!
-- Pris: 64.90 kr
-
-## Hårdost livanjski sir
-- Erbjudande: SUPERPRIS!
-- Pris: 64.90 kr
-
-## Filodeg
-- Erbjudande: SUPERPRIS!
-- Pris: 19.90 kr
-
-## Lufttorkad korv
-- Erbjudande: SUPERPRIS!
-- Pris: 24.90 kr
-
-## Nyponmarmelad
+## Grillspett souvlaki
 - Erbjudande: SUPERPRIS!
 - Pris: 39.90 kr
 
-## Podravka gulasch
-- Pris: 49.90 kr
+## Grekisk extra jungfru olivolja
+- Erbjudande: SUPERPRIS!
+- Pris: 169:- kr
 
-## Kraš kex med choklad
-- Pris: 30.50 kr
-
-## Filodegsknyten
+## Timjanhonung
 - Erbjudande: SUPERPRIS!
 - Pris: 49.90 kr
 
-## Paprika- & aubergineröra
+## Tomatsås
+- Erbjudande: SUPERPRIS!
+- Pris: 29.90 kr
+
+## Fatlagrad fetaost
+- Erbjudande: FRÅN:
+- Pris: 64.90 kr
+
+## Fyllda filodegssnurror
+- Erbjudande: SUPERPRIS!
+- Pris: 39.90 kr
+
+## Smördegsknyten
+- Erbjudande: -20%
+- Pris: 35.90 kr
+- Jämförpris: 1 kg
+
+## Bougatsa
+- Erbjudande: SUPERPRIS!
+- Pris: 29.90 kr
+
+## Chips
+- Erbjudande: SUPERPRIS!
+- Pris: 19.90 kr
+
+## Sesam-/ mandelbar
+- Erbjudande: SUPERPRIS!
+- Pris: 9.90 kr
+
+## Kakor med glasyr
+- Erbjudande: SUPERPRIS!
+- Pris: 34.90 kr
+
+## Kalamonoliver
+- Erbjudande: SUPERPRIS!
+- Pris: 22.90 kr
+
+## Fylld chili
+- Erbjudande: SUPERPRIS!
+- Pris: 29.90 kr
+
+## Gelékonfekt
+- Erbjudande: SUPERPRIS!
+- Pris: 29.90 kr
+
+## Mini sesam-/nötbar
 - Erbjudande: SUPERPRIS!
 - Pris: 32.90 kr
 
-## Rökt korv
+## Halva med mandel
+- Erbjudande: SUPERPRIS!
+- Pris: 27.90 kr
+
+## Bakverk i sirap
+- Erbjudande: SUPERPRIS!
+- Pris: 49.90 kr
+
+## Sätt kvalitet på påsken - delikatesser
+_31/3-6/4_
+
+## Macarons
+- Erbjudande: -20%
+- Pris: 39.90 kr
+- Jämförpris: 12×12 g
+
+## Carpaccio
+- Erbjudande: SUPERPRIS!
+- Pris: 39.90 kr
+
+## Mortadella med pistagenötter
+- Erbjudande: SUPERPRIS!
+- Pris: 29.90 kr
+
+## Brittisk cheddar
+- Erbjudande: SUPERPRIS!
+- Pris: 44.90 kr
+
+## Fläsk- & viltsalami
+- Erbjudande: SUPERPRIS!
+- Pris: 69.90 kr
+
+## Potatisgratänger
+- Erbjudande: 4-PACK!
+- Pris: 33.90 kr
+
+## Parmigiano Reggiano
+- Erbjudande: SUPERPRIS!
+- Pris: 64.90 kr
+
+## Lakritskulor
 - Erbjudande: SUPERPRIS!
 - Pris: 59.90 kr
 
-## Dalmatinsk pancetta
+## Mini-Bavarois
 - Erbjudande: SUPERPRIS!
-- Pris: 179:- kr
+- Pris: 44.90 kr
 
-## Kajmak
+## Cheesecake
 - Erbjudande: SUPERPRIS!
-- Pris: 32.90 kr
+- Pris: 79.90 kr
 
-## Pivac revbensspjäll
+## Medjooldadlar
 - Erbjudande: SUPERPRIS!
-- Pris: 89.90 kr
-- Jämförpris: /kg
+- Pris: 99:- kr
 
-## Kroatisk kaka med kakao
-- Erbjudande: SUPERPRIS!
-- Pris: 64.90 kr
-
-## Hårdost livanjski sir
-- Erbjudande: SUPERPRIS!
-- Pris: 64.90 kr
-
-## Filodeg
-- Erbjudande: SUPERPRIS!
-- Pris: 19.90 kr
-
-## Lufttorkad korv
-- Erbjudande: SUPERPRIS!
-- Pris: 24.90 kr
-
-## Nyponmarmelad
-- Erbjudande: SUPERPRIS!
-- Pris: 39.90 kr
-
-## Podravka gulasch
-- Pris: 49.90 kr
-
-## Kraš kex med choklad
-- Pris: 30.50 kr
-
-## Sätt kvalitet på påsken - Delikatesser & sötsaker
-_24/3-30/3_
-
-## Fyllda chokladägg
-- Erbjudande: -28%
-- Pris: 24.90 kr
-- Jämförpris: 180 g
-
-## Marshmallows
+## Mini glassdessert
 - Erbjudande: SUPERPRIS!
 - Pris: 14.90 kr
 
-## Chokladhare
-- Erbjudande: SUPERPRIS!
-- Pris: 34.90 kr
-
-## Sockrat gelégodis
-- Erbjudande: SUPERPRIS!
-- Pris: 19.90 kr
-
-## Gelé- & skumgodis
-- Erbjudande: SUPERPRIS!
-- Pris: 49.90 kr
-
-## Dragerade mandlar
-- Erbjudande: SUPERPRIS!
-- Pris: 39.90 kr
-
-## Mjölkchokladägg
-- Erbjudande: SUPERPRIS!
-- Pris: 39.90 kr
-
-## Likörägg
-- Erbjudande: SUPERPRIS!
-- Pris: 34.90 kr
-
-## Blue stilton ost
-- Erbjudande: SUPERPRIS!
-- Pris: 84.90 kr
-
-## Parmigiano reggiano
+## Tiramisù
 - Erbjudande: STORPACK!
-- Pris: 299:- kr
+- Pris: 49.90 kr
 
-## Pizza med svamp & tryffelsås
+## Tonfiskkotletter
 - Erbjudande: SUPERPRIS!
-- Pris: 39.90 kr
+- Pris: 59.90 kr
 
-## Camembertkräm med tryffel
-- Erbjudande: SUPERPRIS!
-- Pris: 29.90 kr
-
-## Lufttorkad salami
-- Erbjudande: SUPERPRIS!
-- Pris: 24.90 kr
-
-## Mochiglass
+## Regnbågsrom
 - Erbjudande: SUPERPRIS!
 - Pris: 49.90 kr
 
-## Fyllda chokladägg
-- Erbjudande: -28%
-- Pris: 24.90 kr
-- Jämförpris: 180 g
-
-## Marshmallows
+## Chips
 - Erbjudande: SUPERPRIS!
-- Pris: 14.90 kr
+- Pris: 16.90 kr
 
-## Chokladhare
-- Erbjudande: SUPERPRIS!
-- Pris: 34.90 kr
-
-## Sockrat gelégodis
-- Erbjudande: SUPERPRIS!
-- Pris: 19.90 kr
-
-## Gelé- & skumgodis
-- Erbjudande: SUPERPRIS!
-- Pris: 49.90 kr
-
-## Dragerade mandlar
-- Erbjudande: SUPERPRIS!
-- Pris: 39.90 kr
-
-## Mjölkchokladägg
-- Erbjudande: SUPERPRIS!
-- Pris: 39.90 kr
-
-## Likörägg
-- Erbjudande: SUPERPRIS!
-- Pris: 34.90 kr
-
-## Blue stilton ost
-- Erbjudande: SUPERPRIS!
-- Pris: 84.90 kr
-
-## Parmigiano reggiano
-- Erbjudande: STORPACK!
-- Pris: 299:- kr
-
-## Pizza med svamp & tryffelsås
-- Erbjudande: SUPERPRIS!
-- Pris: 39.90 kr
-
-## Camembertkräm med tryffel
-- Erbjudande: SUPERPRIS!
-- Pris: 29.90 kr
-
-## Lufttorkad salami
+## Färsk fylld pasta
 - Erbjudande: SUPERPRIS!
 - Pris: 24.90 kr
 
-## Mochiglass
+## Rulltårta
 - Erbjudande: SUPERPRIS!
-- Pris: 49.90 kr
+- Pris: 74.90 kr
+
+## Överraskningsägg maxi
+- Erbjudande: SUPERPRIS!
+- Pris: 54.90 kr
+
+## Fyllt påskägg
+- Erbjudande: OLIKA SORTER!
+- Pris: 39.90 kr
+
+## Marmeladkulor
+- Erbjudande: SUPERPRIS!
+- Pris: 39.90 kr
+
+## Kondisbitar
+- Erbjudande: OLIKA SORTER!
+- Pris: 9.90 kr
+
+## Grand Ferrero rocher
+- Erbjudande: SUPERPRIS!
+- Pris: 64.90 kr
+
+## Fyllt påskägg
+- Erbjudande: SUPERPRIS!
+- Pris: 39.90 kr
+
+## Premiumägg
+- Erbjudande: SUPERPRIS!
+- Pris: 99:- kr
+
+## Påskägg
+- Erbjudande: -25 %
+- Pris: 44.90 kr
+- Jämförpris: 302 g
 
 ## Lidl Plus-erbjudanden
-_24/3-30/3_
+_31/3-6/4_
 
-## Apelsiner
-- Erbjudande: -21%
-- Pris: 29.90 kr
-
-## Isbergssallad
-- Erbjudande: -25%
-- Pris: 29.90 kr
+## Potatis
+- Erbjudande: -33%
+- Pris: 9.90 kr
 - Jämförpris: /kg
 
-## Vattenmelon mini
-- Erbjudande: KLIPP!
-- Pris: 19.90 kr
-- Jämförpris: /kg
-
-## Vetelimpa
-- Erbjudande: -22%
-- Pris: 26.90 kr
-- Jämförpris: 1 kg
-
-## Lättmargarin
+## Citroner
 - Erbjudande: -23%
-- Pris: 15.90 kr
-- Jämförpris: 600 g
-
-## Proviva fruktdryck
-- Erbjudande: -24%
-- Pris: 24.90 kr
-- Jämförpris: 1 l
-
-## Saeby makrill i tomatsås
-- Erbjudande: -25%
-- Pris: 29.90 kr
-- Jämförpris: 3×125 g
-
-## Arla Köket® smör
-- Erbjudande: -22%
-- Pris: 34.90 kr
-- Jämförpris: 400 g
-
-## Scan falukorv
-- Erbjudande: KLIPP!
-- Pris: 32.90 kr
-- Jämförpris: 800 g
-
-## Plivit vitost
-- Erbjudande: KLIPP!
-- Pris: 39.90 kr
-- Jämförpris: 1,5 kg
-
-## Robert lunchkorv kyckling
-- Erbjudande: -27%
-- Pris: 59.90 kr
-- Jämförpris: 850 g
-
-## Dadlar
-- Erbjudande: -25%
-- Pris: 29.90 kr
-- Jämförpris: 600 g
-
-## Vårblommor
-- Erbjudande: -20%
-- Pris: 39.90 kr
-
-## Batteridriven borstmaskin, 20 V
-- Erbjudande: -44%
-- Pris: 999:- kr
-
-## Tjock Grillkorv
-- Erbjudande: -25%
-- Pris: 49.90 kr
-- Jämförpris: 800 g
-
-## Cashewnötter
-- Erbjudande: -25%
-- Pris: 49.90 kr
+- Pris: 9.90 kr
 - Jämförpris: 500 g
 
-## Apelsiner
-- Erbjudande: -21%
-- Pris: 29.90 kr
-
-## Isbergssallad
-- Erbjudande: -25%
-- Pris: 29.90 kr
+## Gröna druvor
+- Erbjudande: -20%
+- Pris: 49.90 kr
 - Jämförpris: /kg
 
-## Vattenmelon mini
+## Pepparbiff
+- Erbjudande: -23%
+- Pris: 39.90 kr
+- Jämförpris: 250 g
+
+## Färsk hel majskyckling
 - Erbjudande: KLIPP!
-- Pris: 19.90 kr
-- Jämförpris: /kg
+- Pris: 64.90 kr
+- Jämförpris: /kg (Ca 1,3 kg)
 
-## Vetelimpa
-- Erbjudande: -22%
-- Pris: 26.90 kr
+## Lantbröd
+- Erbjudande: -21%
+- Pris: 25.90 kr
+- Jämförpris: 600 g
+
+## Drickyoghurt jordgubb
+- Erbjudande: -23%
+- Pris: 42.90 kr
+- Jämförpris: 12×100 g
+
+## Cevapcici
+- Erbjudande: -23%
+- Pris: 99:- kr
 - Jämförpris: 1 kg
 
-## Lättmargarin
-- Erbjudande: -23%
-- Pris: 15.90 kr
-- Jämförpris: 600 g
+## Baguetter
+- Erbjudande: -21%
+- Pris: 17.90 kr
+- Jämförpris: 2×175 g
 
-## Proviva fruktdryck
-- Erbjudande: -24%
-- Pris: 24.90 kr
+## Havredryck
+- Erbjudande: UPP TILL -23%
+- Pris: 14.90 kr
 - Jämförpris: 1 l
 
-## Saeby makrill i tomatsås
-- Erbjudande: -25%
-- Pris: 29.90 kr
-- Jämförpris: 3×125 g
+## Sport-bh
+- Erbjudande: -20%
+- Pris: 79.90 kr
 
-## Arla Köket® smör
+## Mysbyxor
 - Erbjudande: -22%
-- Pris: 34.90 kr
-- Jämförpris: 400 g
+- Pris: 99.90 kr
 
-## Scan falukorv
-- Erbjudande: KLIPP!
-- Pris: 32.90 kr
-- Jämförpris: 800 g
+## Sommarblommor 10-pack
+- Erbjudande: -16%
+- Pris: 49.90 kr
 
-## Plivit vitost
-- Erbjudande: KLIPP!
-- Pris: 39.90 kr
-- Jämförpris: 1,5 kg
-
-## Robert lunchkorv kyckling
-- Erbjudande: -27%
-- Pris: 59.90 kr
-- Jämförpris: 850 g
-
-## Dadlar
-- Erbjudande: -25%
-- Pris: 29.90 kr
-- Jämförpris: 600 g
-
-## Vårblommor
+## Delikatessköttbullar
 - Erbjudande: -20%
 - Pris: 39.90 kr
+- Jämförpris: 440 g
 
-## Batteridriven borstmaskin, 20 V
-- Erbjudande: -44%
-- Pris: 999:- kr
-
-## Tjock Grillkorv
-- Erbjudande: -25%
-- Pris: 49.90 kr
-- Jämförpris: 800 g
-
-## Cashewnötter
-- Erbjudande: -25%
-- Pris: 49.90 kr
-- Jämförpris: 500 g
+## Lingonsylt
+- Erbjudande: -20%
+- Pris: 39.90 kr
+- Jämförpris: 750 g
 
 ## Helgens superklipp
-_27/3-30/3_
+_3/4-6/4_
 
-## Brieost
-- Erbjudande: -22%
-- Pris: 44.90 kr
-- Jämförpris: 500 g
+## Bregott
+- Erbjudande: STORPACK!
+- Pris: 64.90 kr
 
-## Sparkcykel med LED-hjul
-- Erbjudande: PASSA PÅ!
-- Pris: 299:- kr
+## Skivad ost
+- Erbjudande: SPARA 20 KR!
+- Pris: 79.90 kr
+- Jämförpris: 750 g
 
-## Brieost
-- Erbjudande: -22%
-- Pris: 44.90 kr
-- Jämförpris: 500 g
+## Gryta
+- Erbjudande: SUPERPRIS!
+- Pris: 349:- kr
 
-## Sparkcykel med LED-hjul
-- Erbjudande: PASSA PÅ!
-- Pris: 299:- kr
+## Gammaldags gräddglass
+- Erbjudande: PRISPRESSAT!
+- Pris: 34.90 kr
+- Jämförpris: 1,75 l
 
