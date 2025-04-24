@@ -746,10 +746,6 @@
 - Pris: 0,15 kr
 - Jämförpris: Jmf-pris 254,55 kr/l
 
-## Ansjovis Original
-- Pris: 19,90 kr
-- Jämförpris: Jmf-pris 663,33 kr/kg • Max 3 köp
-
 ## Sparris Grön Klass 1
 - Erbjudande: Spara 15,00 kr/st
 - Pris: 29,90 kr
@@ -774,11 +770,6 @@
 - Erbjudande: 2 för
 - Pris: 35,00 kr
 - Jämförpris: Jmf-pris 11,67 kr/l
-
-## Kiwi Klass 1
-- Erbjudande: 2 för
-- Pris: 15,00 kr
-- Jämförpris: Jmf-pris 76,53 kr/kg
 
 ## Citron Klass 1
 - Erbjudande: 3 för
@@ -930,4 +921,13 @@
 - Erbjudande: Spara 17,00 kr/st
 - Pris: 59,90 kr
 - Jämförpris: Jmf-pris 69,98 kr/kg
+
+## Kiwi Klass 1
+- Erbjudande: 2 för
+- Pris: 15,00 kr
+- Jämförpris: Jmf-pris 76,53 kr/kg
+
+## Ansjovis Original
+- Pris: 19,90 kr
+- Jämförpris: Jmf-pris 663,33 kr/kg • Max 3 köp
 
