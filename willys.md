@@ -1,264 +1,211 @@
-# Willys Erbjudanden 2025-04-24
+# Willys Erbjudanden 2025-04-28
 
-## Torskrygg Fryst/3-pack
-- Erbjudande: Spara 30,00 kr/st
+## Wagyu Beef Burger
+- Pris: 99,00 kr
+- Jämförpris: Jmf-pris 165,00 kr/kg • Max 3 köp
+
+## Fläskfilé
+- Erbjudande: Spara 39,10 kr/kg
+- Pris: 79,90 kr
+- Jämförpris: Jmf-pris 79,90 kr/kg • Max 3 köp
+
+## Tomater Cocktail Klass 1
+- Erbjudande: Spara 9,00 kr/st
+- Pris: 9,90 kr
+- Jämförpris: Jmf-pris 39,60 kr/kg • Max 3 köp
+
+## Präst Mild 35%
+- Erbjudande: Spara 23,00 kr/st
 - Pris: 69,90 kr
-- Jämförpris: Jmf-pris 155,33 kr/kg • Max 3 köp
+- Jämförpris: Jmf-pris 104,33 kr/kg • Max 3 köp
 
-## Borlottibönor Ekologiska
-- Erbjudande: Spara 9,00 kr/st
-- Pris: 4,90 kr
-- Jämförpris: Jmf-pris 21,30 kr/kg • Max 5 köp
+## Cheez Doodles
+- Erbjudande: 2 för
+- Pris: 30,00 kr
+- Jämförpris: Jmf-pris 93,75 kr/kg • Max 5 köp
 
-## Comfort 4 7-12kg Öppna Blöjor
-- Erbjudande: Spara 9,00 kr/st
+## Coca-cola Läsk Burk
+- Erbjudande: Spara 13,00 kr/st
+- Pris: 29,90 kr
+- Jämförpris: Jmf-pris 15,10 kr/l • Max 3 köp
+
+## Laxburgare 2-pack
+- Erbjudande: Spara 6,00 kr/st
+- Pris: 29,90 kr
+- Jämförpris: Jmf-pris 135,91 kr/kg • Max 3 köp
+
+## Grillost Burgare 21%
+- Erbjudande: 2 för
+- Pris: 28,00 kr
+- Jämförpris: Jmf-pris 93,33 kr/kg • Max 3 köp
+
+## Burgers Slices Cheddar
+- Erbjudande: Spara 5,00 kr/st
+- Pris: 19,90 kr
+- Jämförpris: Jmf-pris 99,50 kr/kg
+
+## Hamburgare 8x90g Frysta/ 8x90g
+- Erbjudande: Spara 14,00 kr/st
+- Pris: 59,90 kr
+- Jämförpris: Jmf-pris 83,20 kr/kg
+
+## Hamburgergurka Långskivade
+- Erbjudande: Spara 4,00 kr/st
+- Pris: 25,90 kr
+- Jämförpris: Jmf-pris 86,33 kr/kg
+
+## Hamburgedress Dressing
+- Erbjudande: Spara 4,00 kr/st
+- Pris: 19,90 kr
+- Jämförpris: Jmf-pris 79,60 kr/l
+
+## Nötfärs 20% Irland
+- Erbjudande: Spara 30,00 kr/kg
+- Pris: 99,00 kr
+- Jämförpris: Jmf-pris 99,00 kr/kg • Max 3 köp
+
+## Tomahawk Nötkött Irland
+- Pris: 249,00 kr
+- Jämförpris: Jmf-pris 249,00 kr/kg • Max 3 köp
+
+## Pluma Mörad Sverige
+- Erbjudande: Spara 20,00 kr/kg
+- Pris: 99,00 kr
+- Jämförpris: Jmf-pris 99,00 kr/kg • Max 3 köp
+
+## Kycklingspett Paprika Örter Sverige
+- Erbjudande: Spara 20,00 kr/st
+- Pris: 64,90 kr
+- Jämförpris: Jmf-pris 135,21 kr/kg • Max 3 köp
+
+## Grillspett Mils Chili Sverige
+- Erbjudande: Spara 7,00 kr/st
+- Pris: 44,90 kr
+- Jämförpris: Jmf-pris 112,25 kr/kg • Max 3 köp
+
+## Dry Age Beef Burger
 - Pris: 89,90 kr
-- Jämförpris: Jmf-pris 2,43 kr/st • Max 3 köp
+- Jämförpris: Jmf-pris 149,84 kr/kg • Max 3 köp
 
-## Kycklingfilé Fryst
-- Erbjudande: Spara 10,00 kr/st
-- Pris: 89,90 kr
-- Jämförpris: Jmf-pris 89,90 kr/kg
+## Marrowbone Beef Burger
+- Pris: 79,90 kr
+- Jämförpris: Jmf-pris 133,17 kr/kg • Max 3 köp
 
-## Skärgårdskaka Hönö 18-pack
+## Crunchy Fries
+- Erbjudande: Spara 5,00 kr/st
+- Pris: 19,90 kr
+- Jämförpris: Jmf-pris 26,53 kr/kg
+
+## Potatisgratäng
+- Pris: 19,90 kr
+- Jämförpris: Jmf-pris 24,88 kr/kg • Max 3 köp
+
+## Grillkorv med Skinn
+- Erbjudande: Spara 12,00 kr/st
+- Pris: 36,90 kr
+- Jämförpris: Jmf-pris 57,66 kr/kg • Max 3 köp
+
+## Strawberry Lemonade Energidryck, Burk
+- Erbjudande: Spara 3,60 kr/st
+- Pris: 14,90 kr
+- Jämförpris: Jmf-pris 41,97 kr/l
+
+## Potatissallad Créme Fraiche
+- Erbjudande: Spara 6,00 kr/st
+- Pris: 37,90 kr
+- Jämförpris: Jmf-pris 50,53 kr/kg
+
+## Mini Cups Fruit Collection Glass
+- Pris: 49,90 kr
+- Jämförpris: Jmf-pris 12,48 kr/st
+
+## Fuet Tradicional Lufttorkad Salami
+- Pris: 29,90 kr
+- Jämförpris: Jmf-pris 175,88 kr/kg • Max 3 köp
+
+## Jamon Serrano 11mån Skivad
 - Erbjudande: Spara 8,00 kr/st
 - Pris: 27,90 kr
-- Jämförpris: Jmf-pris 37,20 kr/kg
+- Jämförpris: Jmf-pris 279,00 kr/kg • Max 3 köp
 
-## Laxfilé
-- Pris: 89,90 kr
-- Jämförpris: Jmf-pris 179,80 kr/kg
-
-## Toalettpapper Classic
-- Erbjudande: Spara 17,00 kr/st
-- Pris: 79,90 kr
-- Jämförpris: Jmf-pris 51,48 kr/kg
-
-## Kvisttomat Import Klass 1
-- Erbjudande: Spara 17,00 kr/kg
-- Pris: 29,90 kr
-- Jämförpris: Jmf-pris 29,90 kr/kg • Max 5 köp
-
-## Kyckling Bröstfilé Sverige
-- Erbjudande: Spara 36,00 kr/kg
-- Pris: 129,00 kr
-- Jämförpris: Jmf-pris 129,00 kr/kg • Max 3 köp
-
-## Fläskkarré med Ben Skivad Sverige
-- Erbjudande: Spara 30,00 kr/kg
-- Pris: 69,90 kr
-- Jämförpris: Jmf-pris 69,90 kr/kg • Max 3 köp
-
-## Entrecôte Bit Brasilien
-- Erbjudande: Spara 56,00 kr/kg
-- Pris: 169,00 kr
-- Jämförpris: Jmf-pris 169,00 kr/kg • Max 3 köp
-
-## Karré Original Skivad Sverige
-- Erbjudande: Spara 27,00 kr/kg
-- Pris: 69,90 kr
-- Jämförpris: Jmf-pris 69,90 kr/kg • Max 3 köp
-
-## Sidfläsk Bit Sverige
-- Erbjudande: Spara 10,00 kr/kg
-- Pris: 89,90 kr
-- Jämförpris: Jmf-pris 89,90 kr/kg • Max 3 köp
-
-## Pesto Genovese
-- Erbjudande: Spara 6,00 kr/st
-- Pris: 22,90 kr
-- Jämförpris: Jmf-pris 114,50 kr/kg • Max 5 köp
-
-## Halloumi
-- Erbjudande: Spara 5,00 kr/st
-- Pris: 24,90 kr
-- Jämförpris: Jmf-pris 124,50 kr/kg • Max 3 köp
-
-## Vanilj Yoghurtkvarg 0,3%
-- Pris: 19,90 kr
-- Jämförpris: Jmf-pris 39,80 kr/kg • Max 3 köp
-
-## Tacopaj Mexikansk Fryst/1 Port
-- Erbjudande: 4 för
-- Pris: 99,00 kr
-- Jämförpris: Jmf-pris 112,50 kr/kg • Max 2 köp
-
-## Salsicciakorv Färsk Sverige
+## Kronärtskockor i Olja
 - Erbjudande: Spara 7,00 kr/st
-- Pris: 39,90 kr
-- Jämförpris: Jmf-pris 114,00 kr/kg • Max 3 köp
+- Pris: 34,90 kr
+- Jämförpris: Jmf-pris 205,30 kr/kg
 
-## Grillkrydda Original Burk
-- Erbjudande: Spara 10,00 kr/st
+## Baguetter Vitlök Frysta
+- Erbjudande: Spara 4,00 kr/st
+- Pris: 17,90 kr
+- Jämförpris: Jmf-pris 51,14 kr/kg
+
+## Antipasti Skivad
 - Pris: 37,90 kr
-- Jämförpris: Jmf-pris 118,44 kr/kg • Max 5 köp
+- Jämförpris: Jmf-pris 315,83 kr/kg
 
-## Rågbröd Mustigt 6-pack
+## Skinka Lufttorkad Skivad
+- Erbjudande: Spara 5,00 kr/st
+- Pris: 39,90 kr
+- Jämförpris: Jmf-pris 570,00 kr/kg
+
+## Rågbrödssnacks Havssalt
+- Erbjudande: Spara 4,00 kr/st
+- Pris: 14,90 kr
+- Jämförpris: Jmf-pris 114,62 kr/kg
+
+## Orange Juice With Bits
+- Erbjudande: Spara 12,00 kr/st
+- Pris: 39,90 kr
+- Jämförpris: Jmf-pris 26,60 kr/l • Max 3 köp
+
+## Jordgubb
+- Erbjudande: 5 för
+- Pris: 50,00 kr
+- Jämförpris: Jmf-pris 57,14 kr/kg • Max 2 köp
+
+## Bondbröd Runt
+- Erbjudande: Spara 12,00 kr/st
+- Pris: 24,90 kr
+- Jämförpris: Jmf-pris 24,90 kr/kg • Max 3 köp
+
+## Ciabatta Stenugnsbakad
 - Erbjudande: 2 för
-- Pris: 24,00 kr
-- Jämförpris: Jmf-pris 35,29 kr/kg • Max 3 köp
+- Pris: 20,00 kr
+- Jämförpris: Jmf-pris 33,33 kr/kg • Max 3 köp
 
-## Bearnaise Original
+## Rågform 8-pack
+- Erbjudande: Spara 5,00 kr/st
+- Pris: 22,90 kr
+- Jämförpris: Jmf-pris 57,25 kr/kg
+
+## Basturökt Skinka Deliskivor
 - Erbjudande: 2 för
 - Pris: 35,00 kr
-- Jämförpris: Jmf-pris 76,09 kr/l • Max 3 köp
+- Jämförpris: Jmf-pris 145,83 kr/kg
 
-## Wok Mix Vegetables In Brine
-- Erbjudande: Spara 4,00 kr/st
-- Pris: 11,90 kr
-- Jämförpris: Jmf-pris 59,50 kr/kg • Max 5 köp
-
-## Oxpytt Fryst
-- Erbjudande: 2 för
-- Pris: 80,00 kr
-- Jämförpris: Jmf-pris 53,33 kr/kg • Max 3 köp
-
-## Sitting Bull Glass
-- Erbjudande: 2 för
-- Pris: 65,00 kr
-- Jämförpris: Jmf-pris 4,06 kr/st • Max 2 köp
-
-## Leverpastej Original Bredbar
-- Erbjudande: 2 för
-- Pris: 16,00 kr
-- Jämförpris: Jmf-pris 40,00 kr/kg • Max 3 köp
-
-## Vårrullar Classic Frysta/ 8-pack
-- Erbjudande: Spara 9,00 kr/st
-- Pris: 39,90 kr
-- Jämförpris: Jmf-pris 49,88 kr/kg • Max 3 köp
-
-## Croissant
-- Erbjudande: 4 för
-- Pris: 20,00 kr
-- Jämförpris: Jmf-pris 90,91 kr/kg • Max 3 köp
-
-## Sprödbakad Kummel
-- Erbjudande: Spara 10,00 kr/st
-- Pris: 39,90 kr
-- Jämförpris: Jmf-pris 110,83 kr/kg • Max 3 köp
-
-## Paprika Chili Lätt Crème Fraiche 11%
-- Erbjudande: Spara 3,00 kr/st
-- Pris: 15,90 kr
-- Jämförpris: Jmf-pris 79,50 kr/l
-
-## Spaghetti Pasta
-- Erbjudande: Spara 3,00 kr/st
-- Pris: 19,90 kr
-- Jämförpris: Jmf-pris 19,90 kr/kg
-
-## Tomatketchup
-- Erbjudande: Spara 7,00 kr/st
-- Pris: 28,90 kr
-- Jämförpris: Jmf-pris 28,90 kr/kg
-
-## Start Naturell Granola Müsli
-- Erbjudande: Spara 3,00 kr/st
-- Pris: 34,90 kr
-- Jämförpris: Jmf-pris 46,53 kr/kg
-
-## Emilskinka Rökt Skivad
-- Erbjudande: 2 för
-- Pris: 42,00 kr
-- Jämförpris: Jmf-pris 175,00 kr/kg
-
-## Snabbnudlar Kyckling
-- Erbjudande: 5 för
-- Pris: 22,00 kr
-- Jämförpris: Jmf-pris 51,76 kr/kg
-
-## Matgrädde 13%
-- Erbjudande: Spara 3,00 kr/st
-- Pris: 21,90 kr
-- Jämförpris: Jmf-pris 43,80 kr/l
-
-## Vispgrädde 36%
-- Erbjudande: Spara 5,00 kr/st
-- Pris: 29,90 kr
-- Jämförpris: Jmf-pris 59,80 kr/l
-
-## Mellanmjölk Laktosfri 1,5%
-- Erbjudande: Spara 3,00 kr/st
-- Pris: 19,90 kr
-- Jämförpris: Jmf-pris 13,27 kr/l
-
-## Orange Nectar Nektar
-- Erbjudande: Spara 5,00 kr/st
-- Pris: 37,90 kr
-- Jämförpris: Jmf-pris 21,66 kr/l
-
-## Crème Fraiche Lätt 13%
-- Erbjudande: Spara 2,00 kr/st
-- Pris: 9,90 kr
-- Jämförpris: Jmf-pris 49,50 kr/l
-
-## Sesame Oil
-- Erbjudande: Spara 4,00 kr/st
-- Pris: 27,90 kr
-- Jämförpris: Jmf-pris 186,00 kr/l
-
-## Sushi Rice
+## Cottage Cheese Naturell 4%
 - Erbjudande: Spara 4,00 kr/st
 - Pris: 24,90 kr
 - Jämförpris: Jmf-pris 49,80 kr/kg
 
-## Wet Wipes Oparfymerade Våtservetter
-- Erbjudande: 2 för
-- Pris: 40,00 kr
-- Jämförpris: Jmf-pris 0,31 kr/st
-
-## Barista Havredryck 3%
-- Erbjudande: Spara 2,60 kr/st
-- Pris: 13,90 kr
-- Jämförpris: Jmf-pris 13,90 kr/l
-
-## Chorizo
-- Erbjudande: Spara 7,00 kr/st
-- Pris: 39,90 kr
-- Jämförpris: Jmf-pris 88,67 kr/kg
-
-## Rice Papper 22 Cm
-- Erbjudande: Spara 4,00 kr/st
-- Pris: 22,90 kr
-- Jämförpris: Jmf-pris 67,35 kr/kg
-
-## Basmatiris
+## Havrekuddar
 - Erbjudande: Spara 5,00 kr/st
-- Pris: 37,90 kr
-- Jämförpris: Jmf-pris 37,90 kr/kg
+- Pris: 34,90 kr
+- Jämförpris: Jmf-pris 53,69 kr/kg
 
-## Mochi Strawberry/mango Passion
-- Pris: 44,90 kr
-- Jämförpris: Jmf-pris 213,81 kr/kg
-
-## Surimiräkor
-- Pris: 29,90 kr
-- Jämförpris: Jmf-pris 108,73 kr/kg
-
-## Fetaost
+## Deluxe Havredryck 2,8%
 - Erbjudande: 2 för
-- Pris: 25,00 kr
-- Jämförpris: Jmf-pris 125,00 kr/kg
-
-## Quorn Rökt Smak Skivor Vegan
-- Erbjudande: Spara 7,00 kr/st
-- Pris: 19,90 kr
-- Jämförpris: Jmf-pris 199,00 kr/kg
-
-## Bacon Skivad
-- Pris: 59,90 kr
-- Jämförpris: Jmf-pris 119,80 kr/kg
-
-## Maskindisktab Original
-- Erbjudande: Spara 23,00 kr/st
-- Pris: 109,00 kr
-- Jämförpris: Jmf-pris 1,31 kr/st
+- Pris: 32,00 kr
+- Jämförpris: Jmf-pris 16,00 kr/l
 
 ## Honey Rich Duschkräm
 - Erbjudande: Spara 5,00 kr/st
 - Pris: 14,90 kr
 - Jämförpris: Jmf-pris 29,80 kr/l
+
+## Mild Naturell Yoghurt 3%
+- Erbjudande: Spara 3,00 kr/st
+- Pris: 14,90 kr
+- Jämförpris: Jmf-pris 14,90 kr/kg
 
 ## Karies Kontroll Tandkräm
 - Erbjudande: 2 för
@@ -270,78 +217,126 @@
 - Pris: 69,00 kr
 - Jämförpris: Jmf-pris 0,58 kr/st
 
+## Kyckling Ben Frysta
+- Erbjudande: Spara 5,00 kr/st
+- Pris: 29,90 kr
+- Jämförpris: Jmf-pris 29,90 kr/kg • Max 3 köp
+
 ## Blue 3 Smooth Rakhyvel
 - Erbjudande: Spara 7,00 kr/st
 - Pris: 29,90 kr
 - Jämförpris: Jmf-pris 7,48 kr/st
+
+## Kikärter Naturella
+- Erbjudande: 2 för
+- Pris: 16,00 kr
+- Jämförpris: Jmf-pris 34,78 kr/kg • Max 5 köp
 
 ## Casablanca Woods Handtvål
 - Erbjudande: Spara 3,00 kr/st
 - Pris: 9,90 kr
 - Jämförpris: Jmf-pris 33,00 kr/l
 
+## Fish & Crisp Gourmetfiléer
+- Erbjudande: 2 för
+- Pris: 89,00 kr
+- Jämförpris: Jmf-pris 92,71 kr/kg • Max 2 köp
+
 ## Classic Clean Schampo
 - Erbjudande: 2 för
 - Pris: 65,00 kr
 - Jämförpris: Jmf-pris 108,33 kr/l
 
+## Tomatsoppa Mild
+- Erbjudande: Spara 4,00 kr/st
+- Pris: 24,90 kr
+- Jämförpris: Jmf-pris 49,80 kr/l
+
 ## Rich Moisture Shampoo
 - Pris: 54,90 kr
 - Jämförpris: Jmf-pris 80,15 kr/l
+
+## Karins Familjelasagne Fryst
+- Erbjudande: Spara 10,00 kr/st
+- Pris: 74,90 kr
+- Jämförpris: Jmf-pris 53,50 kr/kg
 
 ## Moisturiser Original
 - Erbjudande: Spara 20,90 kr/st
 - Pris: 99,00 kr
 - Jämförpris: Jmf-pris 990,00 kr/l
 
+## Innerfilé av Svensk Kyckling Fryst
+- Erbjudande: Spara 7,00 kr/st
+- Pris: 49,90 kr
+- Jämförpris: Jmf-pris 71,29 kr/kg
+
 ## Face Wash Original
 - Erbjudande: Spara 10,00 kr/st
 - Pris: 79,90 kr
 - Jämförpris: Jmf-pris 532,67 kr/l
 
-## Jordgubbar
-- Erbjudande: Spara 20,00 kr/st
-- Pris: 69,90 kr
-- Jämförpris: Jmf-pris 77,67 kr/kg • Max 3 köp
+## Äppelcider Vinäger
+- Erbjudande: Spara 6,00 kr/st
+- Pris: 29,90 kr
+- Jämförpris: Jmf-pris 59,80 kr/l
 
-## Äpple Royal Gala Klass 1
-- Erbjudande: Spara 3,00 kr/kg
-- Pris: 24,90 kr
-- Jämförpris: Jmf-pris 24,90 kr/kg • Max 3 köp
+## Smör-&rapsolja Flytande Original 80%
+- Erbjudande: Spara 4,00 kr/st
+- Pris: 35,90 kr
+- Jämförpris: Jmf-pris 47,87 kr/l
 
-## Avokado Klass 1
-- Erbjudande: Spara 5,00 kr/st
-- Pris: 9,90 kr
-- Jämförpris: Jmf-pris 58,24 kr/kg • Max 5 köp
-
-## Druvor Gröna Klass 1
-- Erbjudande: Spara 18,00 kr/st
-- Pris: 19,90 kr
-- Jämförpris: Jmf-pris 39,80 kr/kg • Max 3 köp
-
-## Lime Klass 1
-- Erbjudande: 3 för
-- Pris: 10,00 kr
-- Jämförpris: Jmf-pris 44,44 kr/kg
-
-## Broccoli Klass 1
-- Erbjudande: Spara 7,00 kr/st
-- Pris: 9,90 kr
-- Jämförpris: Jmf-pris 39,60 kr/kg
-
-## Veckans Bukett
-- Erbjudande: Spara 20,00 kr/st
-- Pris: 59,90 kr
-
-## Babyspenat
+## Tärnat Bacon
 - Erbjudande: Spara 10,00 kr/st
+- Pris: 34,90 kr
+- Jämförpris: Jmf-pris 69,80 kr/kg
+
+## Rökt Skinka Strimlad
+- Erbjudande: Spara 10,00 kr/st
+- Pris: 44,90 kr
+- Jämförpris: Jmf-pris 99,78 kr/kg
+
+## Potatis Smått&gott Klass 1
+- Erbjudande: Spara 10,00 kr/st
+- Pris: 14,90 kr
+- Jämförpris: Jmf-pris 16,56 kr/kg • Max 3 köp
+
+## Apelsin Klass 1
+- Erbjudande: Spara 5,00 kr/kg
 - Pris: 19,90 kr
-- Jämförpris: Jmf-pris 113,71 kr/kg • Max 3 köp
+- Jämförpris: Jmf-pris 19,90 kr/kg • Max 3 köp
+
+## Äpple Granny Smith Klass 1
+- Erbjudande: Spara 8,00 kr/kg
+- Pris: 24,90 kr
+- Jämförpris: Jmf-pris 24,90 kr/kg
+
+## Rosor 9-pack 40cm
+- Pris: 69,90 kr
+
+## Lök Gul Knippe Klass 1
+- Erbjudande: Spara 6,00 kr/st
+- Pris: 9,90 kr
+
+## Spetspaprika Röd Klass 1
+- Erbjudande: Spara 10,00 kr/st
+- Pris: 14,90 kr
+- Jämförpris: Jmf-pris 74,50 kr/kg • Max 3 köp
+
+## Spenat Klass 1
+- Erbjudande: Spara 5,00 kr/st
+- Pris: 19,90 kr
+- Jämförpris: Jmf-pris 79,60 kr/kg
 
 ## Naturell Färskost 23%
 - Erbjudande: Spara 2,00 kr/st
 - Pris: 15,90 kr
 - Jämförpris: Jmf-pris 79,50 kr/kg
+
+## Up&go 6 13-20kg Byxblöjor
+- Erbjudande: Spara 9,00 kr/st
+- Pris: 89,90 kr
+- Jämförpris: Jmf-pris 3,33 kr/st • Max 2 köp
 
 ## Skogsbär Drickyoghurt
 - Erbjudande: Spara 7,00 kr/st
@@ -382,7 +377,7 @@
 - Pris: 29,90 kr
 - Jämförpris: Jmf-pris 46,00 kr/kg
 
-## Tartlets Choco
+## Raspberry Tartlets
 - Erbjudande: 2 för
 - Pris: 22,00 kr
 - Jämförpris: Jmf-pris 110,00 kr/kg
@@ -494,6 +489,11 @@
 - Erbjudande: Spara 10,00 kr/st
 - Pris: 29,90 kr
 - Jämförpris: Jmf-pris 2,49 kr/st
+
+## Pappersmugg Varm Dryck 25cl
+- Erbjudande: Spara 4,00 kr/st
+- Pris: 25,90 kr
+- Jämförpris: Jmf-pris 0,86 kr/st
 
 ## Grand Sour Sockerfri Energidryck, Burk
 - Erbjudande: 2 för
@@ -628,103 +628,15 @@
 - Pris: 79,90 kr
 - Jämförpris: Jmf-pris 7,99 kr/st
 
-## Gouda Familjefavoriter 28%
-- Pris: 89,90 kr
-- Jämförpris: Jmf-pris 89,90 kr/kg • Max 2 köp
-
-## Colour Tvättmedel Flytande
-- Erbjudande: 3 för
-- Pris: 79,00 kr
-- Jämförpris: Jmf-pris 1,20 kr/tvätt • Max 3 köp
-
-## Half Baked Brownies Cookie Doug Glass
-- Erbjudande: Spara 20,00 kr/st
-- Pris: 39,90 kr
-- Jämförpris: Jmf-pris 85,80 kr/l • Max 3 köp
-
-## Pepsi Max Läsk Burk
-- Erbjudande: Spara 29,10 kr/st
-- Pris: 89,90 kr
-- Jämförpris: Jmf-pris 13,62 kr/l • Max 2 köp
-
-## Smör Normalsaltat
-- Erbjudande: Spara 10,00 kr/st
-- Pris: 49,90 kr
-- Jämförpris: Jmf-pris 99,80 kr/kg • Max 3 köp
-
-## Pure Arctic For Men Deodorant Roll-on
-- Erbjudande: Spara 3,00 kr/st
-- Pris: 16,90 kr
-- Jämförpris: Jmf-pris 338,00 kr/l
-
-## Miracle Moist Schampo
-- Erbjudande: Spara 16,00 kr/st
-- Pris: 49,90 kr
-- Jämförpris: Jmf-pris 166,33 kr/l
-
-## 24 Hour Moisture Handkräm
-- Erbjudande: Spara 7,00 kr/st
-- Pris: 14,90 kr
-- Jämförpris: Jmf-pris 198,67 kr/l
-
-## Naturals Milk & Honey Duschcreme
-- Erbjudande: Spara 6,00 kr/st
-- Pris: 16,90 kr
-- Jämförpris: Jmf-pris 67,60 kr/l
-
-## Milk & Honey Flytande Tvål
-- Erbjudande: Spara 5,00 kr/st
-- Pris: 16,90 kr
-- Jämförpris: Jmf-pris 56,33 kr/l
-
-## Micellar Cleansing Water Ansiktsrengöring
-- Erbjudande: Spara 14,00 kr/st
-- Pris: 49,90 kr
-- Jämförpris: Jmf-pris 124,75 kr/l
-
-## 3d White Arctic Fresh Tandkräm
-- Erbjudande: Spara 9,00 kr/st
-- Pris: 19,90 kr
-- Jämförpris: Jmf-pris 265,33 kr/l
-
-## Super Binda Ultra Tunn
-- Erbjudande: Spara 2,00 kr/st
-- Pris: 13,90 kr
-- Jämförpris: Jmf-pris 1,16 kr/st
-
-## Dubbeldusch Sport
-- Erbjudande: Spara 8,00 kr/st
-- Pris: 14,90 kr
-- Jämförpris: Jmf-pris 59,60 kr/l
-
-## Dubbel Nougat
-- Erbjudande: 3 för
-- Pris: 30,00 kr
-- Jämförpris: Jmf-pris 232,56 kr/kg
-
-## Magnesium High Efficient 200mg Kapsel
+## Vitamin Nyckelpigor Tuggtablett
 - Erbjudande: Spara 17,00 kr/st
-- Pris: 79,90 kr
-- Jämförpris: Jmf-pris 0,66 kr/st
+- Pris: 49,90 kr
+- Jämförpris: Jmf-pris 0,83 kr/st
 
-## Hundbajspåsar
-- Erbjudande: 2 för
-- Pris: 15,00 kr
-- Jämförpris: Jmf-pris 0,15 kr/st
-
-## Baguette Halv Vete
-- Erbjudande: 3 för
-- Pris: 20,00 kr
-- Jämförpris: Jmf-pris 53,33 kr/kg
-
-## Rich & Creamy Bavaria Blu 44%
+## Oliver Jumbo med Pimiento Gröna
+- Erbjudande: Spara 16,00 kr/st
 - Pris: 29,90 kr
-- Jämförpris: Jmf-pris 170,86 kr/kg
-
-## Crème Fraiche Laktosfri 32%
-- Erbjudande: Spara 4,00 kr/st
-- Pris: 32,90 kr
-- Jämförpris: Jmf-pris 65,80 kr/l
+- Jämförpris: Jmf-pris 149,50 kr/kg
 
 ## Förvaringsask Kyl & Frys 480ml
 - Erbjudande: Spara 5,00 kr/st
@@ -736,30 +648,59 @@
 - Pris: 34,90 kr
 - Jämförpris: Jmf-pris 6,98 kr/st
 
-## Sensitive Skin Rakgel
-- Erbjudande: Spara 6,00 kr/st
+## Sweet Mint Extra White Tuggummi
+- Erbjudande: Spara 7,00 kr/st
 - Pris: 29,90 kr
-- Jämförpris: Jmf-pris 149,50 kr/l
-
-## After Sun Lotion
-- Erbjudande: Spara 8,99 kr/st
-- Pris: 0,15 kr
-- Jämförpris: Jmf-pris 254,55 kr/l
-
-## Sparris Grön Klass 1
-- Erbjudande: Spara 15,00 kr/st
-- Pris: 29,90 kr
-- Jämförpris: Jmf-pris 119,60 kr/kg
+- Jämförpris: Jmf-pris 355,95 kr/kg
 
 ## Rundstycke med Vallmo
 - Erbjudande: 5 för
 - Pris: 25,00 kr
 - Jämförpris: Jmf-pris 71,43 kr/kg
 
-## Coca-cola Zero Läsk Burk
-- Erbjudande: 5 för
-- Pris: 40,00 kr
-- Jämförpris: Jmf-pris 24,24 kr/l
+## Ice Tea Lemon Black Tea Iste Burk
+- Pris: 4,90 kr
+- Jämförpris: Jmf-pris 19,60 kr/l
+
+## Serranolindad Manchego
+- Erbjudande: 2 för
+- Pris: 60,00 kr
+- Jämförpris: Jmf-pris 454,55 kr/kg
+
+## Nutrisse 5.0 Ljusbrun Permanent Hårfärg
+- Erbjudande: Spara 15,00 kr/st
+- Pris: 69,90 kr
+
+## Cool Mint Munskölj
+- Pris: 34,90 kr
+- Jämförpris: Jmf-pris 69,80 kr/l
+
+## Spf30 Prot&moist Lotion Solskydd
+- Erbjudande: Spara 16,35 kr/st
+- Pris: 0,15 kr
+- Jämförpris: Jmf-pris 463,25 kr/l
+
+## Hundbajspåsar
+- Erbjudande: 2 för
+- Pris: 15,00 kr
+- Jämförpris: Jmf-pris 0,15 kr/st
+
+## Original Tutti Frutti
+- Erbjudande: 2 för
+- Pris: 30,00 kr
+- Jämförpris: Jmf-pris 83,33 kr/kg
+
+## Smash
+- Pris: 24,90 kr
+- Jämförpris: Jmf-pris 249,00 kr/kg
+
+## Ansjovis Original
+- Pris: 32,90 kr
+- Jämförpris: Jmf-pris 416,45 kr/kg • Max 3 köp
+
+## Mjölkchoklad Chokladkaka
+- Pris: 14,90 kr
+- Jämförpris: Jmf-pris 149,00 kr/kg
 
 ## Tuc Original
 - Erbjudande: 2 för
@@ -771,10 +712,15 @@
 - Pris: 35,00 kr
 - Jämförpris: Jmf-pris 11,67 kr/l
 
-## Citron Klass 1
-- Erbjudande: 3 för
-- Pris: 18,00 kr
-- Jämförpris: Jmf-pris 36,14 kr/kg
+## Paprika Röd Klass 1
+- Erbjudande: Spara 30,00 kr/kg
+- Pris: 29,90 kr
+- Jämförpris: Jmf-pris 29,90 kr/kg
+
+## Kiwi Klass 1
+- Erbjudande: 2 för
+- Pris: 15,00 kr
+- Jämförpris: Jmf-pris 76,53 kr/kg
 
 ## Äppelmunk
 - Erbjudande: 4 för
@@ -786,117 +732,75 @@
 - Pris: 17,90 kr
 - Jämförpris: Jmf-pris 71,60 kr/l
 
-## Ansjovis Original
-- Pris: 32,90 kr
-- Jämförpris: Jmf-pris 416,45 kr/kg • Max 3 köp
-
-## Minikalkon Fryst
-- Pris: 59,90 kr
-- Jämförpris: Jmf-pris 59,90 kr/kg
-
-## Nutrisse 5.0 Ljusbrun Permanent Hårfärg
-- Erbjudande: Spara 15,00 kr/st
-- Pris: 69,90 kr
-
-## Cool Mint Munskölj
-- Pris: 34,90 kr
-- Jämförpris: Jmf-pris 69,80 kr/l
-
-## Spring Rolls Vegetables Frysta/ 16-pack
-- Erbjudande: Spara 12,00 kr/st
-- Pris: 29,90 kr
-- Jämförpris: Jmf-pris 74,75 kr/kg
-
-## Vitamin Nyckelpigor Tuggtablett
-- Erbjudande: Spara 17,00 kr/st
-- Pris: 49,90 kr
-- Jämförpris: Jmf-pris 0,83 kr/st
-
-## Oliver Jumbo med Pimiento Gröna
-- Erbjudande: Spara 16,00 kr/st
-- Pris: 29,90 kr
-- Jämförpris: Jmf-pris 149,50 kr/kg
-
-## Original Tutti Frutti
-- Erbjudande: 2 för
-- Pris: 30,00 kr
-- Jämförpris: Jmf-pris 83,33 kr/kg
-
-## Smash
-- Pris: 24,90 kr
-- Jämförpris: Jmf-pris 249,00 kr/kg
-
-## Serranolindad Manchego
-- Erbjudande: 2 för
-- Pris: 60,00 kr
-- Jämförpris: Jmf-pris 454,55 kr/kg
-
-## Mjölkchoklad Chokladkaka
-- Pris: 14,90 kr
-- Jämförpris: Jmf-pris 149,00 kr/kg
-
-## Sweet Mint Extra White Tuggummi
-- Erbjudande: Spara 7,00 kr/st
-- Pris: 29,90 kr
-- Jämförpris: Jmf-pris 355,95 kr/kg
-
-## Soltorkade Tomater Örtmarinad
-- Erbjudande: 2 för
-- Pris: 40,00 kr
-- Jämförpris: Jmf-pris 125,00 kr/kg
-
-## Ice Tea Lemon Black Tea Iste Burk
-- Pris: 4,90 kr
-- Jämförpris: Jmf-pris 19,60 kr/l
-
 ## Olivolja Gentile D-vitamin Mild
 - Erbjudande: Spara 10,00 kr/st
 - Pris: 89,90 kr
 - Jämförpris: Jmf-pris 119,86 kr/l
-
-## Milk&honey Flytande Tvål
-- Erbjudande: Spara 7,00 kr/st
-- Pris: 37,90 kr
-- Jämförpris: Jmf-pris 37,90 kr/l
 
 ## Satin Care Sensitive Skin Rakgel
 - Erbjudande: Spara 10,00 kr/st
 - Pris: 39,90 kr
 - Jämförpris: Jmf-pris 199,50 kr/l
 
-## Babyschampo Oparfymerad
-- Pris: 19,90 kr
-- Jämförpris: Jmf-pris 79,60 kr/l
+## Soltorkade Tomater Örtmarinad
+- Erbjudande: 2 för
+- Pris: 40,00 kr
+- Jämförpris: Jmf-pris 125,00 kr/kg
 
-## Moisture Bomb Ansiktsmask
-- Erbjudande: Spara 9,00 kr/st
-- Pris: 22,90 kr
-- Jämförpris: Jmf-pris 22,90 kr/st
+## Dubbel Nougat
+- Erbjudande: 3 för
+- Pris: 30,00 kr
+- Jämförpris: Jmf-pris 232,56 kr/kg
 
-## Torkad Persika Premium Quality Sunshine Valley
-- Erbjudande: Spara 10,00 kr/st
-- Pris: 39,90 kr
-- Jämförpris: Jmf-pris 199,50 kr/kg
+## Magnesium High Efficient 200mg Kapsel
+- Erbjudande: Spara 17,00 kr/st
+- Pris: 79,90 kr
+- Jämförpris: Jmf-pris 0,66 kr/st
+
+## Baguette Halv Vete
+- Erbjudande: 3 för
+- Pris: 20,00 kr
+- Jämförpris: Jmf-pris 53,33 kr/kg
+
+## Coca-cola Zero Läsk Burk
+- Erbjudande: 5 för
+- Pris: 40,00 kr
+- Jämförpris: Jmf-pris 24,24 kr/l
 
 ## Förvaringsask Kyl Och Frys 280ml
 - Erbjudande: Spara 2,00 kr/st
 - Pris: 17,90 kr
 - Jämförpris: Jmf-pris 17,90 kr/st
 
+## Torkad Persika Premium Quality Sunshine Valley
+- Erbjudande: Spara 10,00 kr/st
+- Pris: 39,90 kr
+- Jämförpris: Jmf-pris 199,50 kr/kg
+
 ## Uggla Napp 4+ Månader
 - Erbjudande: Spara 8,00 kr/st
 - Pris: 39,90 kr
 - Jämförpris: Jmf-pris 13,30 kr/st
 
-## 4 Cheese Mac & Cheese 2 Portioner
+## Wrap Ceasar
 - Erbjudande: Spara 5,00 kr/st
-- Pris: 22,90 kr
-- Jämförpris: Jmf-pris 124,46 kr/kg
+- Pris: 44,90 kr
+- Jämförpris: Jmf-pris 166,30 kr/kg
 
-## Edam Skivad
-- Erbjudande: Spara 7,00 kr/st
-- Pris: 14,90 kr
-- Jämförpris: Jmf-pris 99,33 kr/kg
+## Smör&rapsolja Flytande Laktosfri
+- Erbjudande: Spara 3,00 kr/st
+- Pris: 31,90 kr
+- Jämförpris: Jmf-pris 63,80 kr/l
+
+## Nduja Pizza Tärnad
+- Erbjudande: Spara 10,00 kr/st
+- Pris: 9,90 kr
+- Jämförpris: Jmf-pris 99,00 kr/kg
+
+## Sourcream Onion Chips
+- Erbjudande: Spara 5,00 kr/st
+- Pris: 24,90 kr
+- Jämförpris: Jmf-pris 166,00 kr/kg
 
 ## Smash Chokladkaka
 - Pris: 24,90 kr
@@ -907,27 +811,37 @@
 - Pris: 31,90 kr
 - Jämförpris: Jmf-pris 638,00 kr/l
 
-## Soothing Hyaluronic Aloe Ansiktsrengöring
-- Erbjudande: Spara 22,48 kr/st
-- Pris: 0,25 kr
-- Jämförpris: Jmf-pris 269,68 kr/l
-
 ## Smooth Rakhyvel
 - Erbjudande: Spara 30,00 kr/st
 - Pris: 59,90 kr
 - Jämförpris: Jmf-pris 59,90 kr/st
 
-## Hushållspapper Classic
-- Erbjudande: Spara 17,00 kr/st
-- Pris: 59,90 kr
-- Jämförpris: Jmf-pris 69,98 kr/kg
-
-## Kiwi Klass 1
-- Erbjudande: 2 för
-- Pris: 15,00 kr
-- Jämförpris: Jmf-pris 76,53 kr/kg
+## Sensitive Skin Rakgel
+- Erbjudande: Spara 6,00 kr/st
+- Pris: 29,90 kr
+- Jämförpris: Jmf-pris 149,50 kr/l
 
 ## Ansjovis Original
 - Pris: 19,90 kr
 - Jämförpris: Jmf-pris 663,33 kr/kg • Max 3 köp
+
+## 4 Cheese Mac & Cheese 2 Portioner
+- Erbjudande: Spara 5,00 kr/st
+- Pris: 22,90 kr
+- Jämförpris: Jmf-pris 124,46 kr/kg
+
+## Bacon Skivat 3-pack
+- Erbjudande: Spara 14,00 kr/st
+- Pris: 29,90 kr
+- Jämförpris: Jmf-pris 79,73 kr/kg
+
+## Edam Skivad
+- Erbjudande: Spara 7,00 kr/st
+- Pris: 14,90 kr
+- Jämförpris: Jmf-pris 99,33 kr/kg
+
+## Salladskål Klass 1
+- Erbjudande: Spara 10,00 kr/kg
+- Pris: 29,90 kr
+- Jämförpris: Jmf-pris 29,90 kr/kg
 
