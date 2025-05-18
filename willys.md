@@ -1,4 +1,4 @@
-# Willys Erbjudanden 2025-05-12
+# Willys Erbjudanden 2025-05-18
 
 ## Kvisttomat Import Klass 1
 - Erbjudande: Spara 15,00 kr/kg
@@ -89,7 +89,7 @@
 - Pris: 17,90 kr
 - Jämförpris: Jmf-pris 105,29 kr/kg
 
-## Pluma av Ibericogris
+## Pluma av Ibericogris Fryst
 - Erbjudande: Spara 90,00 kr/kg
 - Pris: 299,00 kr
 - Jämförpris: Jmf-pris 299,00 kr/kg • Max 3 köp
@@ -256,10 +256,12 @@
 - Jämförpris: Jmf-pris 34,38 kr/kg
 
 ## Texmex Riven 29%
+- Erbjudande: Spara 4,00 kr/st
 - Pris: 19,90 kr
 - Jämförpris: Jmf-pris 132,67 kr/kg • Max 3 köp
 
 ## Dip Tex Mex Guacamole Style
+- Erbjudande: Spara 4,00 kr/st
 - Pris: 27,90 kr
 - Jämförpris: Jmf-pris 111,60 kr/kg
 
@@ -269,6 +271,7 @@
 - Jämförpris: Jmf-pris 35,80 kr/l
 
 ## Taco Boats Soft Original 8-pack
+- Erbjudande: Spara 2,60 kr/st
 - Pris: 19,90 kr
 - Jämförpris: Jmf-pris 103,11 kr/kg
 
@@ -282,6 +285,7 @@
 - Jämförpris: Jmf-pris 51,74 kr/kg
 
 ## Classico Pastasås
+- Erbjudande: Spara 4,00 kr/st
 - Pris: 18,90 kr
 - Jämförpris: Jmf-pris 47,25 kr/kg
 
@@ -306,6 +310,7 @@
 - Jämförpris: Jmf-pris 186,67 kr/l
 
 ## Fish Nuggets Tex-mex
+- Erbjudande: Spara 1,60 kr/st
 - Pris: 19,90 kr
 - Jämförpris: Jmf-pris 66,33 kr/kg
 
@@ -394,12 +399,13 @@
 - Pris: 14,90 kr
 - Jämförpris: Jmf-pris 59,60 kr/l
 
-## Normal Schampo
+## Normal Schampo med Ekologiska Örter Schampo
 - Erbjudande: Spara 4,00 kr/st
 - Pris: 14,90 kr
 - Jämförpris: Jmf-pris 59,60 kr/l
 
 ## Soft Mint Munskölj
+- Erbjudande: Spara 10,00 kr/st
 - Pris: 49,90 kr
 - Jämförpris: Jmf-pris 99,80 kr/l
 
@@ -485,6 +491,7 @@
 - Pris: 9,90 kr
 
 ## Tofu Fast Naturell Ekologisk
+- Erbjudande: Spara 3,00 kr/st
 - Pris: 21,90 kr
 - Jämförpris: Jmf-pris 54,75 kr/kg
 
@@ -833,10 +840,6 @@
 - Pris: 9,90 kr
 - Jämförpris: Jmf-pris 282,86 kr/kg • Max 25 köp
 
-## Kexchoklad 8-pack
-- Pris: 52,90 kr
-- Jämförpris: Jmf-pris 110,21 kr/kg
-
 ## Förvaringsask Kyl & Frys 480ml
 - Erbjudande: Spara 5,00 kr/st
 - Pris: 26,90 kr
@@ -847,25 +850,10 @@
 - Pris: 34,90 kr
 - Jämförpris: Jmf-pris 6,98 kr/st
 
-## Spenat Klass 1
-- Erbjudande: Spara 5,00 kr/st
-- Pris: 19,90 kr
-- Jämförpris: Jmf-pris 79,60 kr/kg
-
-## Sensitive Skin Rakgel
-- Erbjudande: Spara 6,00 kr/st
-- Pris: 29,90 kr
-- Jämförpris: Jmf-pris 149,50 kr/l
-
 ## Peach Slices In Juice
 - Erbjudande: Spara 5,00 kr/st
 - Pris: 31,90 kr
 - Jämförpris: Jmf-pris 79,75 kr/kg
-
-## Vitamin Nyckelpigor Tuggtablett
-- Erbjudande: Spara 17,00 kr/st
-- Pris: 49,90 kr
-- Jämförpris: Jmf-pris 0,83 kr/st
 
 ## Bic Click Soleil 5 Rakhyvel
 - Erbjudande: Spara 10,00 kr/st
@@ -882,10 +870,24 @@
 - Pris: 119,00 kr
 - Jämförpris: Jmf-pris 119,00 kr/kg
 
-## After Sun Lotion
-- Erbjudande: Spara 8,99 kr/st
-- Pris: 0,15 kr
-- Jämförpris: Jmf-pris 254,55 kr/l
+## Kexchoklad 8-pack
+- Pris: 52,90 kr
+- Jämförpris: Jmf-pris 110,21 kr/kg
+
+## Spenat Klass 1
+- Erbjudande: Spara 5,00 kr/st
+- Pris: 19,90 kr
+- Jämförpris: Jmf-pris 79,60 kr/kg
+
+## Sensitive Skin Rakgel
+- Erbjudande: Spara 6,00 kr/st
+- Pris: 29,90 kr
+- Jämförpris: Jmf-pris 149,50 kr/l
+
+## Béarnaisesås
+- Erbjudande: Spara 4,00 kr/st
+- Pris: 33,90 kr
+- Jämförpris: Jmf-pris 70,62 kr/kg
 
 ## Twin Lady Engångshyvel
 - Erbjudande: Spara 5,00 kr/st
@@ -900,7 +902,66 @@
 - Pris: 19,90 kr
 - Jämförpris: Jmf-pris 99,50 kr/kg
 
-## Nutrisse 5.0 Ljusbrun Permanent Hårfärg
+## After Sun Lotion
+- Erbjudande: Spara 8,99 kr/st
+- Pris: 0,15 kr
+- Jämförpris: Jmf-pris 254,55 kr/l
+
+## Miss Soleil Color 4st Rakhyvel
+- Erbjudande: Spara 13,00 kr/st
+- Pris: 29,90 kr
+- Jämförpris: Jmf-pris 7,48 kr/st
+
+## Flapsteak Mörningsmarinerad Sverige
+- Erbjudande: Spara 20,00 kr/kg
+- Pris: 119,00 kr
+- Jämförpris: Jmf-pris 119,00 kr/kg
+
+## Power Active Fresh Flowers Wc-block
+- Erbjudande: Spara 7,00 kr/st
+- Pris: 24,90 kr
+- Jämförpris: Jmf-pris 12,45 kr/st
+
+## Kamben Orginal Sverige
+- Erbjudande: Spara 19,10 kr/kg
+- Pris: 89,90 kr
+- Jämförpris: Jmf-pris 89,90 kr/kg
+
+## Vitlökssmör
+- Erbjudande: Spara 3,00 kr/st
+- Pris: 19,90 kr
+- Jämförpris: Jmf-pris 199,00 kr/kg
+
+## Original Gott & Blandat
+- Erbjudande: Spara 2,00 kr/st
+- Pris: 15,90 kr
+- Jämförpris: Jmf-pris 75,71 kr/kg
+
+## Coca-cola Läsk Pet
+- Erbjudande: 2 för
+- Pris: 35,00 kr
+- Jämförpris: Jmf-pris 11,67 kr/l
+
+## Äppelmunk
+- Erbjudande: 4 för
+- Pris: 30,00 kr
+- Jämförpris: Jmf-pris 119,05 kr/kg
+
+## Ranch Dippmix
+- Erbjudande: 2 för
+- Pris: 16,00 kr
+- Jämförpris: Jmf-pris 333,33 kr/kg
+
+## Ansjovis Original
+- Pris: 32,90 kr
+- Jämförpris: Jmf-pris 416,45 kr/kg • Max 3 köp
+
+## Serranolindad Manchego
+- Erbjudande: 2 för
+- Pris: 60,00 kr
+- Jämförpris: Jmf-pris 454,55 kr/kg
+
+## Nutrisse 5.0 Medium Brown Permanent Hårfärg
 - Erbjudande: Spara 15,00 kr/st
 - Pris: 69,90 kr
 
@@ -919,49 +980,10 @@
 - Pris: 15,00 kr
 - Jämförpris: Jmf-pris 0,15 kr/st
 
-## Miss Soleil Color 4st Rakhyvel
-- Erbjudande: Spara 13,00 kr/st
-- Pris: 29,90 kr
-- Jämförpris: Jmf-pris 7,48 kr/st
-
-## Flapsteak Mörningsmarinerad Sverige
-- Erbjudande: Spara 20,00 kr/kg
-- Pris: 119,00 kr
-- Jämförpris: Jmf-pris 119,00 kr/kg
-
-## Power Active Fresh Flowers Wc-block
-- Erbjudande: Spara 7,00 kr/st
-- Pris: 24,90 kr
-- Jämförpris: Jmf-pris 12,45 kr/st
-
-## Kiwi Klass 1
-- Erbjudande: 2 för
-- Pris: 15,00 kr
-- Jämförpris: Jmf-pris 76,53 kr/kg
-
-## Äppelmunk
-- Erbjudande: 4 för
-- Pris: 30,00 kr
-- Jämförpris: Jmf-pris 119,05 kr/kg
-
 ## Creme Soft Almond Oil Duschkräm
 - Erbjudande: Spara 5,00 kr/st
 - Pris: 17,90 kr
 - Jämförpris: Jmf-pris 71,60 kr/l
-
-## Ranch Dippmix
-- Erbjudande: 2 för
-- Pris: 16,00 kr
-- Jämförpris: Jmf-pris 333,33 kr/kg
-
-## Original Gott & Blandat
-- Erbjudande: Spara 2,00 kr/st
-- Pris: 15,90 kr
-- Jämförpris: Jmf-pris 75,71 kr/kg
-
-## Ansjovis Original
-- Pris: 32,90 kr
-- Jämförpris: Jmf-pris 416,45 kr/kg • Max 3 köp
 
 ## Olivolja Gentile D-vitamin Mild
 - Erbjudande: Spara 10,00 kr/st
@@ -982,14 +1004,29 @@
 - Pris: 44,90 kr
 - Jämförpris: Jmf-pris 89,80 kr/kg
 
+## Vegansk Salami Skivad
+- Erbjudande: 2 för
+- Pris: 30,00 kr
+- Jämförpris: Jmf-pris 187,50 kr/kg
+
 ## Magnesium High Efficient 200mg Kapsel
 - Erbjudande: Spara 17,00 kr/st
 - Pris: 79,90 kr
 - Jämförpris: Jmf-pris 0,66 kr/st
 
+## Baguette Halv Vete
+- Erbjudande: 3 för
+- Pris: 20,00 kr
+- Jämförpris: Jmf-pris 53,33 kr/kg
+
 ## Milk Chocolate Karl Fazer Chokladkaka
 - Pris: 23,90 kr
 - Jämförpris: Jmf-pris 164,83 kr/kg
+
+## Mikropopcorn Extra Stora Smör 3-pack
+- Erbjudande: 2 för
+- Pris: 35,00 kr
+- Jämförpris: Jmf-pris 64,81 kr/kg
 
 ## Coca-cola Zero Läsk Burk
 - Erbjudande: 5 för
@@ -1001,10 +1038,10 @@
 - Pris: 39,90 kr
 - Jämförpris: Jmf-pris 99,75 kr/kg
 
-## A-fil Naturell Acidophilus Laktosfri 3%
-- Erbjudande: Spara 3,00 kr/st
-- Pris: 19,90 kr
-- Jämförpris: Jmf-pris 19,90 kr/l
+## Soltorkade Tomater Örtmarinad
+- Erbjudande: 2 för
+- Pris: 40,00 kr
+- Jämförpris: Jmf-pris 125,00 kr/kg
 
 ## Click Soleil 5 Rakblad
 - Erbjudande: Spara 12,00 kr/st
@@ -1036,6 +1073,11 @@
 - Pris: 24,90 kr
 - Jämförpris: Jmf-pris 498,00 kr/l
 
+## Uggla Napp 4+ Månader
+- Erbjudande: Spara 8,00 kr/st
+- Pris: 39,90 kr
+- Jämförpris: Jmf-pris 13,30 kr/st
+
 ## Förvaringsask Kyl Och Frys 280ml
 - Erbjudande: Spara 2,00 kr/st
 - Pris: 17,90 kr
@@ -1045,11 +1087,6 @@
 - Erbjudande: Spara 10,00 kr/st
 - Pris: 39,90 kr
 - Jämförpris: Jmf-pris 199,50 kr/kg
-
-## Uggla Napp 4+ Månader
-- Erbjudande: Spara 8,00 kr/st
-- Pris: 39,90 kr
-- Jämförpris: Jmf-pris 13,30 kr/st
 
 ## Rågkaka Plus Fullkorn 12-pack
 - Pris: 19,90 kr
@@ -1070,22 +1107,17 @@
 - Pris: 24,90 kr
 - Jämförpris: Jmf-pris 498,00 kr/l
 
-## Tomater Finkrossade
-- Erbjudande: Spara 2,00 kr/st
-- Pris: 13,90 kr
-- Jämförpris: Jmf-pris 34,75 kr/kg
-
 ## 4 Cheese Mac & Cheese 2 Portioner
 - Erbjudande: Spara 5,00 kr/st
 - Pris: 22,90 kr
 - Jämförpris: Jmf-pris 124,46 kr/kg
 
-## Serum Wonder Lengths Filler
+## Lengths Filler Medium Care Serum
 - Erbjudande: Spara 20,00 kr/st
 - Pris: 59,90 kr
 - Jämförpris: Jmf-pris 599,00 kr/l
 
-## Hårmask Full Hair Wonder
+## Fullness Hair Mask 4 In 1 Densidad Hårmask
 - Erbjudande: Spara 18,00 kr/st
 - Pris: 39,90 kr
 - Jämförpris: Jmf-pris 99,75 kr/l
@@ -1099,48 +1131,28 @@
 - Pris: 37,90 kr
 - Jämförpris: Jmf-pris 252,67 kr/l
 
-## Coca-cola Läsk Pet
-- Erbjudande: 2 för
-- Pris: 35,00 kr
-- Jämförpris: Jmf-pris 11,67 kr/l
+## Morot Knippe Klass 1
+- Erbjudande: Spara 3,00 kr/st
+- Pris: 14,90 kr
+- Jämförpris: Jmf-pris 29,80 kr/kg
 
-## Baguette Halv Vete
-- Erbjudande: 3 för
-- Pris: 20,00 kr
-- Jämförpris: Jmf-pris 53,33 kr/kg
+## Tomater Finkrossade
+- Erbjudande: Spara 2,00 kr/st
+- Pris: 13,90 kr
+- Jämförpris: Jmf-pris 34,75 kr/kg
 
-## Béarnaisesås
-- Erbjudande: Spara 4,00 kr/st
-- Pris: 33,90 kr
-- Jämförpris: Jmf-pris 70,62 kr/kg
-
-## Kamben Orginal Sverige
-- Erbjudande: Spara 19,10 kr/kg
-- Pris: 89,90 kr
-- Jämförpris: Jmf-pris 89,90 kr/kg
-
-## Mikropopcorn Extra Stora Smör 3-pack
-- Erbjudande: 2 för
-- Pris: 35,00 kr
-- Jämförpris: Jmf-pris 64,81 kr/kg
-
-## Vegansk Salami Skivad
-- Erbjudande: 2 för
-- Pris: 30,00 kr
-- Jämförpris: Jmf-pris 187,50 kr/kg
-
-## Vitlökssmör
+## A-fil Naturell Acidophilus Laktosfri 3%
 - Erbjudande: Spara 3,00 kr/st
 - Pris: 19,90 kr
-- Jämförpris: Jmf-pris 199,00 kr/kg
+- Jämförpris: Jmf-pris 19,90 kr/l
 
-## Serranolindad Manchego
+## Kiwi Klass 1
 - Erbjudande: 2 för
-- Pris: 60,00 kr
-- Jämförpris: Jmf-pris 454,55 kr/kg
+- Pris: 15,00 kr
+- Jämförpris: Jmf-pris 76,53 kr/kg
 
-## Soltorkade Tomater Örtmarinad
-- Erbjudande: 2 för
-- Pris: 40,00 kr
-- Jämförpris: Jmf-pris 125,00 kr/kg
+## Vitamin Nyckelpigor Tuggtablett
+- Erbjudande: Spara 17,00 kr/st
+- Pris: 49,90 kr
+- Jämförpris: Jmf-pris 0,83 kr/st
 

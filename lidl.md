@@ -1,265 +1,250 @@
-# Lidl Erbjudanden 2025-04-28
+# Lidl Erbjudanden 2025-05-18
 
 ## Veckans frukt & grönt
-_28/4-4/5_
+_12/5-18/5_
 
-## Namn saknas
+## Kvisttomater
 
-## Namn saknas
+## Bananer
 
-## Namn saknas
+## Aubergin
 
-## Namn saknas
+## Potatis
 
-## Namn saknas
+## Mango
 
-## Namn saknas
+## Spetspaprika mix
 
-## Namn saknas
+## Pak choi
 
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
+## Citroner
 
 ## Måndag-söndag
-_28/4-4/5_
+_12/5-18/5_
 
-## Namn saknas
+## Kvisttomater
 
-## Namn saknas
+## Spareribs
 
-## Namn saknas
+## Bregott smör & raps
 
-## Namn saknas
+## Mango
 
-## Namn saknas
+## Spetspaprika mix
 
-## Namn saknas
+## Pak choi
 
-## Namn saknas
+## Färsk kycklinglårfilè
 
-## Namn saknas
+## Grillbricka
 
-## Namn saknas
+## Marinerad grillfilé
 
-## Namn saknas
+## Färsk högrevsfärs
 
-## Namn saknas
+## Marinerad kycklingbröstfilé
 
-## Namn saknas
+## Färsk blandfärs
 
-## Namn saknas
+## Kalkonbröstfilé
 
-## Namn saknas
+## Ciabatta
 
-## Namn saknas
+## Bagel
 
-## Namn saknas
+## Croissant med kalkonkorv
 
-## Namn saknas
+## Filmjölk
 
-## Namn saknas
+## Granola
 
-## Namn saknas
+## Mjukost
 
-## Namn saknas
+## Norrländskt tunnbröd
 
-## Namn saknas
+## Färdigrätter
 
-## Namn saknas
+## Mild ost
 
-## Namn saknas
+## Matpaj
 
-## Namn saknas
+## Familjefavoriter riven ost
 
-## Namn saknas
+## Blodpudding
 
-## Onsdag-söndag
-_30/4-4/5_
+## Svenskt smör
 
-## Namn saknas
+## Idealmakaroner
 
-## Namn saknas
+## Hårdost
 
-## Namn saknas
+## Indian tonic
 
-## Namn saknas
+## Vispgrädde
 
-## Namn saknas
+## Torsdag-söndag
+_15/5-18/5_
 
-## Namn saknas
+## Regnbågslax portionsbitar
 
-## Namn saknas
+## Haricots verts
 
-## Namn saknas
+## Potatismospulver
 
-## Namn saknas
+## Citroner
 
-## Namn saknas
+## Pan pizza
 
-## Namn saknas
+## Grytfriterade chips
 
-## Namn saknas
+## Läsk
 
-## Namn saknas
+## Leo’s djungelmix
 
-## Namn saknas
+## Kladdkaka
 
-## Namn saknas
+## XXL
+_12/5-18/5_
 
-## Smaker från Spanien & Portugal
-_28/4-4/5_
+## Fläskschnitzel 2-pack
 
-## Namn saknas
+## Goudaost i skivor
 
-## Namn saknas
+## Apelsinjuice
 
-## Namn saknas
+## Drickyoghurt
 
-## Namn saknas
+## Kaffedryck
 
-## Namn saknas
+## Yoghurt i grekisk stil
 
-## Namn saknas
+## Färskost
 
-## Namn saknas
+## Smörgåspålägg i skivor
 
-## Namn saknas
+## Marinerade grillskivor
 
-## Namn saknas
+## Kycklingnuggets med dipp
 
-## Namn saknas
+## Räkor utan skal
 
-## Namn saknas
+## Lasagne bolognese
 
-## Namn saknas
+## Tjock grillkorv
 
-## Namn saknas
+## Potatisgratäng
 
-## Namn saknas
+## Baguetter
 
-## Namn saknas
+## Basmatiris
 
-## Namn saknas
+## Salladsost
 
-## Namn saknas
+## Tzatziki
 
-## Namn saknas
+## Gröna oliver
 
-## Namn saknas
+## Burrata
 
-## Namn saknas
+## Glasspinnar
 
-## Namn saknas
+## Energidryck
 
-## Namn saknas
+## Cruspies jornötter
 
-## Namn saknas
+## Pistagenötter
 
-## Namn saknas
+## Snacks lökringar
 
-## Namn saknas
+## Kaffebönor
 
-## Namn saknas
+## Tuggummi
 
-## Namn saknas
+## Iste
 
-## Namn saknas
+## Rengöringsdukar
 
-## Namn saknas
+## Flytande tvål refill
 
-## Namn saknas
+## Toalettpapper extra mjukt
 
-## Namn saknas
+## Fuet
 
-## Namn saknas
+## Minimozzarella
 
-## Namn saknas
+## Potatisgnocchi
 
-## Namn saknas
+## Tortelloni
 
-## Namn saknas
+## Pannbiffar
 
-## Namn saknas
+## Cheddarost
 
-## Namn saknas
+## Salladsost
 
-## Namn saknas
+## Hummus
 
-## Namn saknas
+## Rostad lök
 
-## Tillbaka till grillen
-_28/4-4/5_
+## Fyllda kakaokex extra stora
 
-## Namn saknas
+## Mjuka våfflor
 
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
+## Torkade tranbär
 
 ## Lidl Plus-erbjudanden
-_28/4-4/5_
+_12/5-18/5_
 
-## Namn saknas
+## Bananer
 
-## Namn saknas
+## Aubergin
 
-## Namn saknas
+## Potatis
 
-## Namn saknas
+## Ostfralla gouda
 
-## Namn saknas
+## Lingongrova/ Tranbärslycka
 
-## Namn saknas
+## Keso
 
-## Namn saknas
+## Makrill i tomatsås
 
-## Namn saknas
+## Potatisbullar
 
-## Namn saknas
+## Ketchup
 
-## Namn saknas
+## Lektält Tipi
 
-## Namn saknas
+## Sommarväxter
 
-## Namn saknas
+## Parasoll
 
-## Namn saknas
+## Klämmarkis
 
-## Namn saknas
+## Parasoll
+
+## Balkongparasoll
+
+## Klämmarkis
+
+## Sidomarkis
+
+## Färsk fläskkarré i bit
+
+## Svensk honung
+
+## Lösviktsgodis
+
+## Chokladkakor
+
+## Cashewnötter rostade & saltade
 
 ## Helgens superklipp
-_30/4-4/5_
+_15/5-18/5_
 
-## Namn saknas
+## Zingo/Pepsi/7Up Mountain Dew läsk
 
-## Namn saknas
+## Parmigiano reggiano
 
-## Namn saknas
-
-## Namn saknas
+## Sängkläder
 
