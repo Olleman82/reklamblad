@@ -1,660 +1,339 @@
-# Lidl Erbjudanden 2025-05-19
+# Lidl Erbjudanden 2025-05-26
 
 ## Veckans frukt & grönt
-_19/5-25/5_
+_26/5-1/6_
 
-## Namn saknas
+## Avokado i nät
 
-## Namn saknas
+## Mango
 
-## Namn saknas
+## Spetskål
 
-## Namn saknas
+## Citroner
 
-## Namn saknas
+## Röd spetspaprika
 
-## Namn saknas
+## Plommontomater
 
-## Namn saknas
+## Svensk isbergssallad
 
-## Namn saknas
+## Lollo Rosso sallad
 
-## Namn saknas
+## Ruccola
 
-## Paprikamix
+## Salladsmix
 
-## Apelsiner
+## Romansallad
 
-## Galiamelon
+## Spenat
 
-## Honungsmelon
+## Kvisttomater
+
+## Potatis
+
+## Ekologisk ingefära
+
+## Mynta
+
+## Bladpersilja
+
+## Gröna druvor
+
+## Grekisk vattenmelon
+
+## Aubergine
 
 ## Måndag-söndag
-_19/5-25/5_
+_26/5-1/6_
 
-## Namn saknas
+## Avokado i nät
 
-## Namn saknas
+## Gouda/Edamer
 
-## Namn saknas
+## Laxfilé hel sida
 
-## Namn saknas
+## Mango
 
-## Namn saknas
+## Citroner
 
-## Namn saknas
+## Röd spetspaprika
 
-## Namn saknas
+## Plommontomater
 
-## Namn saknas
+## Spetskål
 
-## Namn saknas
+## Marinerad kycklingbröstfilé
 
-## Namn saknas
+## Grillskivor BBQ Anchochili
 
-## Namn saknas
+## Fläskytterfilé
 
-## Namn saknas
+## Lammspett
 
-## Namn saknas
+## Chorizo-/ Salsicciafärs
 
-## Namn saknas
+## Oxfilé
 
-## Namn saknas
+## Tri-tip
 
-## Namn saknas
+## Fyllda munkar
 
-## Namn saknas
+## Maple pecan
 
-## Namn saknas
+## Valnötsfralla
 
-## Namn saknas
+## Vetelimpa
 
-## Namn saknas
+## Bröd
 
-## Namn saknas
+## Havregryn
 
-## Namn saknas
+## Knäckebröd
 
-## Namn saknas
+## Smör & raps
 
-## Namn saknas
+## Crème Fraiche
 
-## Namn saknas
+## Flatrökt skinka i skivor
 
-## Namn saknas
+## Svenska blåbär
 
-## Namn saknas
+## Vispgrädde
 
-## Namn saknas
+## Färdigrätter
 
-## Namn saknas
+## Laktosfri mjölkdryck
 
-## Namn saknas
+## Bordskyckling BBQ
 
-## Namn saknas
+## Grekisk yoghurt
 
-## Namn saknas
+## Rapsstekolja
 
-## Namn saknas
+## Smör
 
-## Namn saknas
+## Färdigrätter
 
-## Namn saknas
+## Guldgula ägg
 
-## Namn saknas
+## Frasiga fiskpinnar
 
-## Namn saknas
+## Svenska ärter
 
-## Namn saknas
+## Serranoskinka
 
-## Namn saknas
+## Läsk
 
-## Namn saknas
+## Glasspinnar
 
-## Namn saknas
+## Chokladglass
 
-## Namn saknas
+## Glasstrutar med sorbet
 
-## Namn saknas
+## Mintglass med choklad
 
-## Namn saknas
+## Glass-sandwich mellan våffelkex
 
-## Namn saknas
+## Push Up-glasspinnar
 
-## Namn saknas
+## Onsdag-söndag
+_28/5-1/6_
 
-## Namn saknas
+## Pommes frites
 
-## Namn saknas
+## Färska hamburgerbröd
 
-## Namn saknas
+## Mozzarella
 
-## Torsdag-söndag
-_22/5-25/5_
+## Kebabsås
 
-## Namn saknas
+## Majs
 
-## Namn saknas
+## Kebab
 
-## Namn saknas
+## Somunbröd
 
-## Namn saknas
+## Piggelin/ Päronsplitt
 
-## Namn saknas
+## Chokladkaka
 
-## Namn saknas
+## Snacks i rör
 
-## Namn saknas
+## Kexchoklad
 
-## Namn saknas
+## Fun Light
 
-## Namn saknas
+## Energidryck
 
-## Namn saknas
+## Kvisttomater
 
-## Namn saknas
+## Potatis
 
-## Namn saknas
+## Ekologisk ingefära
 
-## Namn saknas
+## Mynta
 
-## Namn saknas
+## Bladpersilja
 
-## Namn saknas
+## Gröna druvor
 
-## Namn saknas
+## Grekisk vattenmelon
 
-## Smaker från Östeuropa
-_19/5-25/5_
+## Aubergine
 
-## Namn saknas
+## Matriket fyller två år!
+_26/5-1/6_
 
-## Namn saknas
+## Gouda/Edamer
 
-## Namn saknas
+## Havregryn
 
-## Namn saknas
+## Knäckebröd
 
-## Namn saknas
+## Smör & raps
 
-## Namn saknas
+## Crème Fraiche
 
-## Namn saknas
+## Flatrökt skinka i skivor
 
-## Namn saknas
+## Svenska blåbär
 
-## Namn saknas
+## Isbergssallad
 
-## Namn saknas
+## Lollo Rosso sallad
 
-## Namn saknas
+## Ruccola
 
-## Namn saknas
+## Salladsmix
 
-## Namn saknas
+## Romansallad
 
-## Namn saknas
+## Spenat
 
-## Namn saknas
+## Smaker från Alperna
+_26/5-1/6_
 
-## Namn saknas
+## Mini-schnitzel
 
-## Namn saknas
+## Långkokta små fläsklägg
 
-## Namn saknas
+## Långkokt fläsklägg
 
-## Namn saknas
+## Fläskschnitzel
 
-## Namn saknas
+## Rökt lufttorkad skinka
 
-## Namn saknas
+## Ugnsbakad leberkäse
 
-## Namn saknas
+## Landjägersalami/Kabanoss/ Rökt lufttorkad korv
 
-## Namn saknas
+## Blandade salamisnacks
 
-## Namn saknas
+## Bergwurstsalami
 
-## XXL
-_19/5-25/5_
+## Mont lait Racletteost
 
-## Namn saknas
+## Weisswurst med senap
 
-## Namn saknas
+## Brezelfralla
 
-## Namn saknas
+## Brezel
 
-## Namn saknas
+## Hasselnötsrån
 
-## Namn saknas
+## Kakor
 
-## Namn saknas
+## Brödpinnar
 
-## Namn saknas
+## Kringlor med havssalt
 
-## Namn saknas
+## Vetelängd
 
-## Namn saknas
+## Glass med rippel
 
-## Namn saknas
+## Kanderade nötter
 
-## Namn saknas
+## Apfelstrudel
 
-## Namn saknas
+## Kex med krämfyllning
+
+## Skumbollar
+
+## Mozartkulor
+
+## Gräddtårta med mandel, Smulpaj, Ostkaka
+
+## Bärkompott
+
+## Sylt
+
+## Korv med ost & bacon
+
+## Färsk pasta
+
+## Bockwurst
+
+## Bratwurst
+
+## Färsk fylld pasta
+
+## Grilltallrik med korvar
+
+## Fyllda potatiskroketter
+
+## Skivad ost
+
+## Rösti
+
+## Limburger ost
+
+## Ost i skivor
+
+## Oktoberfestknödel
+
+## Skivat pålägg
 
 ## Lidl Plus-erbjudanden
-_19/5-25/5_
+_26/5-1/6_
 
-## Namn saknas
+## Röd spetspaprika
 
-## Namn saknas
+## Grillskivor BBQ Anchochili
 
-## Namn saknas
+## Fyllda munkar
 
-## Namn saknas
+## Vetelimpa
 
-## Namn saknas
+## Bröd
 
-## Namn saknas
+## Smör & raps
 
-## Namn saknas
+## Crème Fraiche
 
-## Namn saknas
+## Serranoskinka
 
-## Namn saknas
+## Kärnborrmaskin
 
-## Namn saknas
+## Pelargon Estelle
 
-## Namn saknas
+## Vikbar kabinväska på hjul
 
-## Namn saknas
+## Pommes frites
 
-## Namn saknas
+## Snacks i rör
 
-## Namn saknas
+## Kvisttomater
 
-## Namn saknas
+## Bladpersilja
 
-## Namn saknas
+## Aubergine
 
-## Namn saknas
+## Helgens superklipp
+_28/5-1/6_
 
-## Namn saknas
+## Snabbkaffe Gold
 
-## Namn saknas
+## Resväska med hjul
 
-## Veckans blommor
-_19/5-25/5_
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## CRIVIT
-_Från 22/5_
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Peppa pig
-_Från 22/5_
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## 
-__
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
-
-## Namn saknas
+## Färsk blandfärs
 
